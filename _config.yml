@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Soumya Dutta's Homepage"
+title                    : "Soumya Dutta's Homepage"
 title_separator          : "-"
 name                     : &name "Soumya Dutta"
 description              : &description "personal description"
@@ -88,8 +88,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=7CGMUB8AAAAJ&hl=en&oi=ao"
   email            : "sdutta@lanl.gov"
   researchgate     : "https://www.researchgate.net/profile/Soumya-Dutta-7"
-  linkedin         : "https://www.linkedin.com/in/soumya-dutta-a2023a15?trk=people-guest_people_search-card"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/soumya-dutta-a2023a15"
+  orcid            : "https://orcid.org/0000-0001-5030-9979"
   twitter          : "SoumyaCSE"
   bitbucket        :
   github           : 
