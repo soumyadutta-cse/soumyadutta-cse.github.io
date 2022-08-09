@@ -9,15 +9,14 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/mfix_jocs.png"/> </td>
-      <td width="100%;" style="font-size:12pt;" align="justify" valign="top"> <strong>[42]</strong> Soumya Dutta, Terece L. Turton, David Rogers, Jordan M. Musser, James Ahrens, and Ann S. Almgren, In Situ Feature Analysis for Large-scale Multiphase Flow Simulations, <em>Journal of Computational Science (Elsivier)</em>, 2022. 
-<details>
-  <summary>Abstract</summary>
-  <p>
-    haddjhddkajd madm,a dandlada da, dalndalndaldladald d adndandandandald
-  </p>
-</details>
-
-[Link] [Pdf] [BibTeX] [Journal] </td>
+      <td width="100%;" style="font-size:12pt;" align="justify" valign="top"> <strong>[42]</strong> Soumya Dutta, Terece L. Turton, David Rogers, Jordan M. Musser, James Ahrens, and Ann S. Almgren, In Situ Feature Analysis for Large-scale Multiphase Flow Simulations, <em>Journal of Computational Science (Elsivier)</em>, 2022.
+      [Link] [Pdf] [BibTeX] [Journal] 
+      <details>
+        <summary>Abstract</summary>
+        <p>
+          haddjhddkajd madm,a dandlada da, dalndalndaldladald d adndandandandald
+        </p>
+      </details></td>
    </tr>
 </table>
 
