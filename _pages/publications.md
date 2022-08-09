@@ -23,6 +23,7 @@ author_profile: true
    </tr>
 </table>
 
+
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
@@ -373,81 +374,6 @@ author_profile: true
       <td width="100%;" style="font-size:12pt;" align="justify" valign="top" border="none"> <strong>[1]</strong>   Soumya Dutta and Bidyut B. Chaudhuri, A Statistics and Local Homogeneity Based Color Edge Detection Algorithm, Advances in Recent Technologies in Communication and Computing (ARTCOM 2009), 2009, 546-548. [Link] [BibTeX] [Conference] </td>
    </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
