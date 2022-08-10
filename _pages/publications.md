@@ -583,12 +583,7 @@ author_profile: true
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/openMC.png"/> </td>
       <td width="100%;" style="font-size:12pt;" align="justify" valign="top"> <strong>[2]</strong> Garrett A. Aldrich, <b>Soumya Dutta</b>, and Jonathan Woodring, OpenMC In Situ Source Convergence Detection, <em>Los Alamos National Laboratory (LA-UR-16-23217)</em>, 2016. [Link] [Pdf] [BibTeX]
-      <details>
-        <summary><b><span style="color:blue">Abstract</span></b></summary>
-        <p>
-        We designed and implemented an in situ version of particle source convergence for the OpenMC particle transport simulator. OpenMC is a Monte Carlo based-particle simulator for neutron criticality calculations. For the transport simulation to be accurate, source particles must converge on a spatial distribution. Typically, convergence is obtained by iterating the simulation by a user-settable, fixed number of steps, and it is assumed that convergence is achieved. We instead implement a method to detect convergence, using the stochastic oscillator for identifying convergence of source particles based on their accumulated Shannon Entropy. Using our in situ convergence detection, we are able to detect and begin tallying results for the full simulation once the proper source distribution has been confirmed. Our method ensures that the simulation is not started too early, by a user setting too optimistic parameters, or too late, by setting too conservative a parameter.
-        </p>
-      </details></td>
+      </td>
    </tr>
 </table>
 
