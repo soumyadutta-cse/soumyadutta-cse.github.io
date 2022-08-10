@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+## Book Chapters
+
+
+## Journal Publications
+
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
@@ -34,6 +40,14 @@ author_profile: true
       </details></td>
    </tr>
 </table>
+
+
+## Conferencee/Workshop Publications
+
+
+## Posters/Technical Reports
+
+
 
 
 <table>
