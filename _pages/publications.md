@@ -8,7 +8,6 @@ author_profile: true
 
 ## Book Chapters
 
-
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
