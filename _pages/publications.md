@@ -12,7 +12,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/topology_chapter.png"/> </td>
-      <td width="100%;" style="font-size:12pt;" align="justify" valign="top"> <strong>[4]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Flow Topology from Flowmap Expansion and Contraction, Topological Methods in Data Analysis and Visualization VI, Springer</em>, 2021. [Link] [Pdf] [BibTeX] [Book Chapter] 
+      <td width="100%;" style="font-size:12pt;" align="justify" valign="top"> <strong>[4]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Flow Topology from Flowmap Expansion and Contraction, Topological Methods in Data Analysis and Visualization VI, Springer</em>, 2021. [Link] [Pdf] [BibTeX] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -27,7 +27,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/insitu_dist_book_chapter.png"/> </td>
-      <td width="100%;" style="font-size:12pt;" align="justify" valign="top"> <strong>[3]</strong> <b>Soumya Dutta</b>, Subhashis Hazarika, and Han-Wei Shen, In Situ Statistical Distribution-based Data Summarization and Visual Analysis, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [Link] [Pdf] [BibTeX] [Book Chapter] 
+      <td width="100%;" style="font-size:12pt;" align="justify" valign="top"> <strong>[3]</strong> <b>Soumya Dutta</b>, Subhashis Hazarika, and Han-Wei Shen, In Situ Statistical Distribution-based Data Summarization and Visual Analysis, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [Link] [Pdf] [BibTeX] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -41,7 +41,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/cinema_chapter.png"/> </td>
-      <td width="100%;" style="font-size:12pt;" align="justify" valign="top"> <strong>[2]</strong> David Rogers, <b>Soumya Dutta</b>, Divya Banesh, Terece L. Turton, Ethan Stam, and James Ahrens, In situ Solutions with CinemaScience, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [Link] [Pdf] [BibTeX] [Book Chapter] 
+      <td width="100%;" style="font-size:12pt;" align="justify" valign="top"> <strong>[2]</strong> David Rogers, <b>Soumya Dutta</b>, Divya Banesh, Terece L. Turton, Ethan Stam, and James Ahrens, In situ Solutions with CinemaScience, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [Link] [Pdf] [BibTeX]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -56,7 +56,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/sampling_chapter.png"/> </td>
-      <td width="100%;" style="font-size:12pt;" align="justify" valign="top"> <strong>[1]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Terece Turton, and James Paul Ahrens, Sampling for Scientific Data Analysis and Reduction, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [Link] [Pdf] [BibTeX] [Book Chapter] 
+      <td width="100%;" style="font-size:12pt;" align="justify" valign="top"> <strong>[1]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Terece Turton, and James Paul Ahrens, Sampling for Scientific Data Analysis and Reduction, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [Link] [Pdf] [BibTeX] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
