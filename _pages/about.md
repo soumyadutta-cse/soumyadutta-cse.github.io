@@ -43,7 +43,7 @@ Dr. Dutta's current research interests include: (1) Techniques for Big Data Anal
 * Heritage Institute of Technology
 	* Independent Researcher under Prof. Madhurima Chattopadhyay (Nov. 2010-May 2011)
 * Indian Statistical Institute
-	* Undergraduate Student Researcher under Prof. Bidyut B. Chaudhuri (Dec. 2008 - Sep. 2009)
+	* Independent Student Researcher under Prof. Bidyut B. Chaudhuri (Dec. 2008 - Sep. 2009)
 
 
 ## Awards (Selected)
