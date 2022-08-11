@@ -508,14 +508,14 @@ author_profile: true
 
 <table>
    <tr width="100%;">
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[3]</strong> <b>Soumya Dutta</b> and Bidyut B. Chaudhuri, A Color Edge Detection Algorithm in RGB Color Space, <em>Advances in Recent Technologies in Communication and Computing (ARTCOM 2009)</em>, 2009, 337-340. [Link] [BibTeX] </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[3]</strong> <b>Soumya Dutta</b> and Bidyut B. Chaudhuri, A Color Edge Detection Algorithm in RGB Color Space, <em>Advances in Recent Technologies in Communication and Computing (ARTCOM 2009)</em>, 2009, 337-340. [<a href="https://ieeexplore.ieee.org/document/5329404">Link</a>] [BibTeX] </td>
    </tr>
 </table>
 
 
 <table>
    <tr width="100%;">
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[2]</strong>  <b>Soumya Dutta</b> and Bidyut B. Chaudhuri, Homogeneous region based color image segmentation, <em>The World Congress on Engineering and Computer Science (WCECS 2009)</em>, 2009, vol 2, 1301-1305. [Link] [BibTeX] </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[2]</strong>  <b>Soumya Dutta</b> and Bidyut B. Chaudhuri, Homogeneous region based color image segmentation, <em>The World Congress on Engineering and Computer Science (WCECS 2009)</em>, 2009, vol 2, 1301-1305. [<a href="http://www.iaeng.org/publication/WCECS2009/WCECS2009_pp1301-1305.pdf">Link</a>] [BibTeX] </td>
    </tr>
 </table>
 
@@ -523,7 +523,7 @@ author_profile: true
 
 <table>
    <tr width="100%;">
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top" border="none"> <strong>[1]</strong>   <b>Soumya Dutta</b> and Bidyut B. Chaudhuri, A Statistics and Local Homogeneity Based Color Edge Detection Algorithm, <em>Advances in Recent Technologies in Communication and Computing (ARTCOM 2009)</em>, 2009, 546-548. [Link] [BibTeX] </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top" border="none"> <strong>[1]</strong>   <b>Soumya Dutta</b> and Bidyut B. Chaudhuri, A Statistics and Local Homogeneity Based Color Edge Detection Algorithm, <em>Advances in Recent Technologies in Communication and Computing (ARTCOM 2009)</em>, 2009, 546-548. [<a href="https://ieeexplore.ieee.org/document/5329170">Link</a>] [BibTeX] </td>
    </tr>
 </table>
 
