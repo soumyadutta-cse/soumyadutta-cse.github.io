@@ -547,21 +547,21 @@ author_profile: true
 
 <table>
    <tr width="100%;">
-      <td width="100%;" style="font-size:12pt;" align="justify" valign="top" border="none"> <strong>[3]</strong><b>Soumya Dutta</b>, Divya Banesh, Li-Ta Lo, Roxana Bujack, and David Rogers, Model-based Visual Analytics of Big Data: Challenges and Opportunities, <em>DOE ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, & Communication</em>, January 18-20, 2022. [Link] [BibTeX] </td>
+      <td width="100%;" style="font-size:12pt;" align="justify" valign="top" border="none"> <strong>[3]</strong> <b>Soumya Dutta</b>, Divya Banesh, Li-Ta Lo, Roxana Bujack, and David Rogers, Model-based Visual Analytics of Big Data: Challenges and Opportunities, <em>DOE ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, & Communication</em>, January 18-20, 2022. [Link] [BibTeX] </td>
    </tr>
 </table>
 
 
 <table>
    <tr width="100%;">
-      <td width="100%;" style="font-size:12pt;" align="justify" valign="top" border="none"> <strong>[2]</strong>Roxana Bujack, Divya Banesh, <b>Soumya Dutta</b>, and Li-Ta Lo, Vector Field Segmentation for Data Analysis, <em>DOE ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, & Communication</em>, January 18-20, 2022. [Link] [BibTeX] </td>
+      <td width="100%;" style="font-size:12pt;" align="justify" valign="top" border="none"> <strong>[2]</strong> Roxana Bujack, Divya Banesh, <b>Soumya Dutta</b>, and Li-Ta Lo, Vector Field Segmentation for Data Analysis, <em>DOE ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, & Communication</em>, January 18-20, 2022. [Link] [BibTeX] </td>
    </tr>
 </table>
 
 
 <table>
    <tr width="100%;">
-      <td width="100%;" style="font-size:12pt;" align="justify" valign="top" border="none"> <strong>[1]</strong>Li-Ta Lo, Roxana Bujack, <b>Soumya Dutta</b>, and Divya Banesh, Sparsity for Extreme Scale Visualization and Data Analysis, <em>DOE ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, & Communication</em>, January 18-20, 2022. [Link] [BibTeX] </td>
+      <td width="100%;" style="font-size:12pt;" align="justify" valign="top" border="none"> <strong>[1]</strong> Li-Ta Lo, Roxana Bujack, <b>Soumya Dutta</b>, and Divya Banesh, Sparsity for Extreme Scale Visualization and Data Analysis, <em>DOE ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, & Communication</em>, January 18-20, 2022. [Link] [BibTeX] </td>
    </tr>
 </table>
 
