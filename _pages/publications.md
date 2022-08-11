@@ -195,7 +195,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/codda_tvcg.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[6]</strong> Subhashis Hazarika, <b>Soumya Dutta</b>, Han-Wei Shen, and Jen-Ping Chen, CoDDA: A Flexible Copula-based Distribution Driven Analysis Framework for Large-Scale Multivariate Data, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2019, Volume 25, Issue 1, pp. 1214-1224. [Link] [<a href="/papers/">Pdf</a>] [BibTeX] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[6]</strong> Subhashis Hazarika, <b>Soumya Dutta</b>, Han-Wei Shen, and Jen-Ping Chen, CoDDA: A Flexible Copula-based Distribution Driven Analysis Framework for Large-Scale Multivariate Data, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2019, Volume 25, Issue 1, pp. 1214-1224. [Link] [<a href="/papers/tvcg_hazarika_vis18_copula.pdf">Pdf</a>] [BibTeX] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -210,7 +210,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/hazarika_entropy_2018.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[5]</strong> Subhashis Hazarika, Ayan Biswas, <b>Soumya Dutta</b>, and Han-Wei Shen, Information Guided Exploration of Scalar Values and Isocontours in Ensemble Datasets, <em>MDPI Entropy (Special issue in Information Theory Application in Visualization)</em>, 2018, Volume 20, Issue 7. [Link] [<a href="/papers/">Pdf</a>] [BibTeX] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[5]</strong> Subhashis Hazarika, Ayan Biswas, <b>Soumya Dutta</b>, and Han-Wei Shen, Information Guided Exploration of Scalar Values and Isocontours in Ensemble Datasets, <em>MDPI Entropy (Special issue in Information Theory Application in Visualization)</em>, 2018, Volume 20, Issue 7. [Link] [<a href="/papers/hazarika_entropy_info_theory.pdf">Pdf</a>] [BibTeX] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -225,7 +225,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/stall_vis16.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[4]</strong> <b>Soumya Dutta</b>, Chun-Ming Chen, Gregory Heinlein, Han-Wei Shen, and Jen-Ping Chen, In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2017, Volume 23, Issue 1, pp. 811-820. [Link] [<a href="/papers/">Pdf</a>] [BibTeX] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[4]</strong> <b>Soumya Dutta</b>, Chun-Ming Chen, Gregory Heinlein, Han-Wei Shen, and Jen-Ping Chen, In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2017, Volume 23, Issue 1, pp. 811-820. [Link] [<a href="/papers/Vis16_insitu.pdf">Pdf</a>] [BibTeX] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -240,7 +240,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/vis15_tracking.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[3]</strong> <b>Soumya Dutta</b> and Han-Wei Shen, Distribution Driven Extraction and Tracking of Features for Time-varying Data Analysis, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2016, Volume 22, Issue 1, pp. 837-846. [Link] [<a href="/papers/">Pdf</a>] [BibTeX]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[3]</strong> <b>Soumya Dutta</b> and Han-Wei Shen, Distribution Driven Extraction and Tracking of Features for Time-varying Data Analysis, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2016, Volume 22, Issue 1, pp. 837-846. [Link] [<a href="/papers/Vis_15.pdf">Pdf</a>] [BibTeX]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -255,7 +255,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/vis15_stall.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[2]</strong> Chun-Ming Chen, <b>Soumya Dutta</b>, Xiaotong Liu, Gregory Heinlein, Han-Wei Shen, and Jen-Ping Chen, Visualization and Analysis of Rotating Stall for Transonic Jet Engine Simulation, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2016, Volume 22, Issue 1, pp. 847-856. [Link] [<a href="/papers/">Pdf</a>] [BibTeX] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[2]</strong> Chun-Ming Chen, <b>Soumya Dutta</b>, Xiaotong Liu, Gregory Heinlein, Han-Wei Shen, and Jen-Ping Chen, Visualization and Analysis of Rotating Stall for Transonic Jet Engine Simulation, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2016, Volume 22, Issue 1, pp. 847-856. [Link] [<a href="/papers/Vis_15_stall.pdf">Pdf</a>] [BibTeX] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -270,7 +270,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/vis13_tvcg.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[1]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Han-Wei Shen, and Jonathan Woodring, An Information-Aware Framework for Exploring Multivariate Data Sets, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2013, Volume 19, Issue 12, pp. 2683-2692. [Link] [<a href="/papers/">Pdf</a>] [BibTeX]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[1]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Han-Wei Shen, and Jonathan Woodring, An Information-Aware Framework for Exploring Multivariate Data Sets, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2013, Volume 19, Issue 12, pp. 2683-2692. [Link] [<a href="/papers/Vis13_Info_theory.pdf">Pdf</a>] [BibTeX]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
