@@ -12,7 +12,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/topology_chapter.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[4]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Flow Topology from Flowmap Expansion and Contraction, Topological Methods in Data Analysis and Visualization VI, Springer</em>, 2021. [Link] [<a href="/papers/Roxana_TopoInVis_2019">Pdf</a></a>] [BibTeX] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[4]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Flow Topology from Flowmap Expansion and Contraction, Topological Methods in Data Analysis and Visualization VI, Springer</em>, 2021. [Link] [<a href="/papers/Roxana_TopoInVis_2019.pdf">Pdf</a>] [BibTeX] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
