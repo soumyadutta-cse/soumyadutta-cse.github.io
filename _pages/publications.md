@@ -291,7 +291,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/mfix_woiv.png"/> </td>
-      <td width="100%;" style="font-size:12pt;" align="justify" valign="top"> <strong>[19]</strong> <b>Soumya Dutta</b>, Dan Lipsa, Terece L. Turton, Berk Geveci, and James Ahrens, In Situ Analysis and Visualization of Extreme-Scale Particle Simulations, <em>WOIV: 6th International Workshop on In Situ Visualization</em>, 2022 (co-located with ISC High Performance Conference). [Link] [Pdf] [BibTeX]
+      <td width="100%;" style="font-size:12pt;" align="justify" valign="top"> <strong>[18]</strong> <b>Soumya Dutta</b>, Dan Lipsa, Terece L. Turton, Berk Geveci, and James Ahrens, In Situ Analysis and Visualization of Extreme-Scale Particle Simulations, <em>WOIV: 6th International Workshop on In Situ Visualization</em>, 2022 (co-located with ISC High Performance Conference). [Link] [Pdf] [BibTeX]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -302,7 +302,7 @@ author_profile: true
 </table>
 
 
-<table>
+<!-- <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/ascr_workshop.png"/> </td>
@@ -314,7 +314,7 @@ author_profile: true
         </p>
       </details></td>
    </tr>
-</table>
+</table> -->
 
 
 <table>
@@ -543,9 +543,27 @@ author_profile: true
 </table>
 
 
+## White Papers
+
+<table>
+   <tr width="100%;">
+      <td width="100%;" style="font-size:12pt;" align="justify" valign="top" border="none"> <strong>[3]</strong><b>Soumya Dutta</b>, Divya Banesh, Li-Ta Lo, Roxana Bujack, and David Rogers, Model-based Visual Analytics of Big Data: Challenges and Opportunities, <em>DOE ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, & Communication</em>, January 18-20, 2022. [Link] [BibTeX] </td>
+   </tr>
+</table>
 
 
+<table>
+   <tr width="100%;">
+      <td width="100%;" style="font-size:12pt;" align="justify" valign="top" border="none"> <strong>[2]</strong>Roxana Bujack, Divya Banesh, <b>Soumya Dutta</b>, and Li-Ta Lo, Vector Field Segmentation for Data Analysis, <em>DOE ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, & Communication</em>, January 18-20, 2022. [Link] [BibTeX] </td>
+   </tr>
+</table>
 
+
+<table>
+   <tr width="100%;">
+      <td width="100%;" style="font-size:12pt;" align="justify" valign="top" border="none"> <strong>[1]</strong>Li-Ta Lo, Roxana Bujack, <b>Soumya Dutta</b>, and Divya Banesh, Sparsity for Extreme Scale Visualization and Data Analysis, <em>DOE ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, & Communication</em>, January 18-20, 2022. [Link] [BibTeX] </td>
+   </tr>
+</table>
 
 
 ## Posters/Technical Reports
