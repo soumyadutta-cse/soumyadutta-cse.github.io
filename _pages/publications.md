@@ -27,7 +27,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/insitu_dist_book_chapter.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[3]</strong> <b>Soumya Dutta</b>, Subhashis Hazarika, and Han-Wei Shen, In Situ Statistical Distribution-based Data Summarization and Visual Analysis, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [Link] [<a href="/papers/">Pdf</a>] [BibTeX] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[3]</strong> <b>Soumya Dutta</b>, Subhashis Hazarika, and Han-Wei Shen, In Situ Statistical Distribution-based Data Summarization and Visual Analysis, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [Link] [<a href="/papers/In_situ_distribution_chapter_preprint.pdf">Pdf</a>] [BibTeX] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -41,7 +41,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/cinema_chapter.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[2]</strong> David Rogers, <b>Soumya Dutta</b>, Divya Banesh, Terece L. Turton, Ethan Stam, and James Ahrens, In situ Solutions with CinemaScience, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [Link] [<a href="/papers/">Pdf</a>] [BibTeX]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[2]</strong> David Rogers, <b>Soumya Dutta</b>, Divya Banesh, Terece L. Turton, Ethan Stam, and James Ahrens, In situ Solutions with CinemaScience, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [Link] [<a href="/papers/cinema_chapter.pdf">Pdf</a>] [BibTeX]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -56,7 +56,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/sampling_chapter.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[1]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Terece Turton, and James Paul Ahrens, Sampling for Scientific Data Analysis and Reduction, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [Link] [<a href="/papers/">Pdf</a>] [BibTeX] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[1]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Terece Turton, and James Paul Ahrens, Sampling for Scientific Data Analysis and Reduction, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [Link] [<a href="/papers/Sampling_Chapter.pdf">Pdf</a>] [BibTeX] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -76,7 +76,7 @@ author_profile: true
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/mfix_jocs.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[14]</strong> <b>Soumya Dutta</b>, Terece L. Turton, David Rogers, Jordan M. Musser, James Ahrens, and Ann S. Almgren, In Situ Feature Analysis for Large-scale Multiphase Flow Simulations, <em>Journal of Computational Science (Elsivier)</em>, 2022.
-      [Link] [<a href="/papers/">Pdf</a>] [BibTeX]
+      [Link] [<a href="/papers/mfix_jour_comp_sc.pdf">Pdf</a>] [BibTeX]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -91,7 +91,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/Humayra_cise.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[13]</strong> Humayra Tasnim, <b>Soumya Dutta</b>, Terece L. Turton, David Rogers, and Melanie E. Moses, Information-theoretic Exploration of Multivariate Time-Varying Image Databases, <em>IEEE Computing in Science & Engineering (IEEE CiSE)</em>, 2022. [Link] [<a href="/papers/">Pdf</a>] [BibTeX]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[13]</strong> Humayra Tasnim, <b>Soumya Dutta</b>, Terece L. Turton, David Rogers, and Melanie E. Moses, Information-theoretic Exploration of Multivariate Time-Varying Image Databases, <em>IEEE Computing in Science & Engineering (IEEE CiSE)</em>, 2022. [Link] [<a href="/papers/multivar_humayra_cise.pdf">Pdf</a>] [BibTeX]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -106,7 +106,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/jiayi_tvcg.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[12]</strong> Jiayi Xu, <b>Soumya Dutta</b>, Wenbin He, Joachim Moortgat, and Han-Wei Shen, Geometry-Driven Detection, Tracking and Visual Analysis of Viscous and Gravitational Fingers, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2022, Volume: 28, Issue 3, pp. 1514 - 1528. [Link] [<a href="/papers/">Pdf</a>] [BibTeX]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[12]</strong> Jiayi Xu, <b>Soumya Dutta</b>, Wenbin He, Joachim Moortgat, and Han-Wei Shen, Geometry-Driven Detection, Tracking and Visual Analysis of Viscous and Gravitational Fingers, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2022, Volume: 28, Issue 3, pp. 1514 - 1528. [Link] [<a href="/papers/Tvcg_Gravitational_Fingers.pdf">Pdf</a>] [BibTeX]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -121,7 +121,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:90px" src="/images/fuzzy_tracking.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[11]</strong> <b>Soumya Dutta</b>, Terece L. Turton, and James Ahrens, A Confidence-guided Technique for Tracking Time-varying Features, <em>IEEE Computing in Science & Engineering (IEEE CiSE)</em>, 2021, Volume 23, Issue 2, pp. 84-92. [Link] [<a href="/papers/">Pdf</a>] [BibTeX] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[11]</strong> <b>Soumya Dutta</b>, Terece L. Turton, and James Ahrens, A Confidence-guided Technique for Tracking Time-varying Features, <em>IEEE Computing in Science & Engineering (IEEE CiSE)</em>, 2021, Volume 23, Issue 2, pp. 84-92. [Link] [<a href="/papers/CiSE_fuzzy_tracking.pdf">Pdf</a>] [BibTeX] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -136,7 +136,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/tvcg_sampling.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[10]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Earl Lawrence, John M. Patchett, Jon C. Calhoun, and James Ahrens, Probabilistic Data-Driven Sampling via Multi-Criteria Importance Analysis, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2021, Volume 27, Issue 12, pp. 4439-4454. [Link] [<a href="/papers/">Pdf</a>] [BibTeX] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[10]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Earl Lawrence, John M. Patchett, Jon C. Calhoun, and James Ahrens, Probabilistic Data-Driven Sampling via Multi-Criteria Importance Analysis, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2021, Volume 27, Issue 12, pp. 4439-4454. [Link] [<a href="/papers/TVCG_2019_Sampling.pdf">Pdf</a>] [BibTeX] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -151,7 +151,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/mfix_cise.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[9]</strong> Ayan Biswas, James Ahrens, <b>Soumya Dutta</b>, Jordan Musser, Ann Almgren, and Terece Turton, Feature Analysis, Tracking, and Data Reduction: An Application to Multiphase Reactor Simulation MFiX-Exa for In-Situ Use Case, <em>IEEE Computing in Science & Engineering (IEEE CiSE)</em>, 2021, Volume 23, Issue 1, pp. 75-82. [Link] [<a href="/papers/">Pdf</a>] [BibTeX]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[9]</strong> Ayan Biswas, James Ahrens, <b>Soumya Dutta</b>, Jordan Musser, Ann Almgren, and Terece Turton, Feature Analysis, Tracking, and Data Reduction: An Application to Multiphase Reactor Simulation MFiX-Exa for In-Situ Use Case, <em>IEEE Computing in Science & Engineering (IEEE CiSE)</em>, 2021, Volume 23, Issue 1, pp. 75-82. [Link] [<a href="/papers/cise_mfix.pdf">Pdf</a>] [BibTeX]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -166,7 +166,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/childs_insitu_terminology.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[8]</strong> Hank Childs, Sean D. Ahern, James Ahrens, Andrew C. Bauer, Janine Bennett, E. Wes Bethel, Peer-Timo Bremer, Eric Brugger, Joseph Cottam, Matthieu Dorier, <b>Soumya Dutta</b>, Jean M. Favre, Thomas Fogal, Steffen Frey, Christoph Garth, Berk Geveci, William F. Godoy, Charles D. Hansen, Cyrus Harrison, Bernd Hentschel, Joseph Insley, Chris R. Johnson, Scott Klasky, Aaron Knoll, James Kress, Matthew Larsen, Jay Lofstead, Kwan-Liu Ma, Preeti Malakar, Jeremy Meredith, Kenneth Moreland, Paul Navrátil, Patrick O’Leary, Manish Parashar, Valerio Pascucci, John Patchett, Tom Peterka, Steve Petruzza, Norbert Podhorszki, David Pugmire, Michel Rasquin, Silvio Rizzi, David H. Rogers, Sudhanshu Sane, Franz Sauer, Robert Sisneros, Han-Wei Shen, Will Usher, Rhonda Vickery, Venkatram Vishwanath, Ingo Wald, Ruonan Wang, Gunther H. Weber, Brad Whitlock, Matthew Wolf, Hongfeng Yu, Sean B. Ziegeler, A Terminology for In Situ Visualization and Analysis Systems, <em>International Journal of High Performance Computing Applications (IJHPCA)</em>, 2020, Volume 34, Issue 6, pp. 676-691. [Link] [<a href="/papers/">Pdf</a>] [BibTeX] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[8]</strong> Hank Childs, Sean D. Ahern, James Ahrens, Andrew C. Bauer, Janine Bennett, E. Wes Bethel, Peer-Timo Bremer, Eric Brugger, Joseph Cottam, Matthieu Dorier, <b>Soumya Dutta</b>, Jean M. Favre, Thomas Fogal, Steffen Frey, Christoph Garth, Berk Geveci, William F. Godoy, Charles D. Hansen, Cyrus Harrison, Bernd Hentschel, Joseph Insley, Chris R. Johnson, Scott Klasky, Aaron Knoll, James Kress, Matthew Larsen, Jay Lofstead, Kwan-Liu Ma, Preeti Malakar, Jeremy Meredith, Kenneth Moreland, Paul Navrátil, Patrick O’Leary, Manish Parashar, Valerio Pascucci, John Patchett, Tom Peterka, Steve Petruzza, Norbert Podhorszki, David Pugmire, Michel Rasquin, Silvio Rizzi, David H. Rogers, Sudhanshu Sane, Franz Sauer, Robert Sisneros, Han-Wei Shen, Will Usher, Rhonda Vickery, Venkatram Vishwanath, Ingo Wald, Ruonan Wang, Gunther H. Weber, Brad Whitlock, Matthew Wolf, Hongfeng Yu, Sean B. Ziegeler, A Terminology for In Situ Visualization and Analysis Systems, <em>International Journal of High Performance Computing Applications (IJHPCA)</em>, 2020, Volume 34, Issue 6, pp. 676-691. [Link] [<a href="/papers/Hank_IJHPCA_2020.pdf">Pdf</a>] [BibTeX] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -180,7 +180,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/PMI_sampling_entropy.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[7]</strong> <b>Soumya Dutta</b>, Ayan Biswas, and James Ahrens, Multivariate Pointwise Information-driven Data Sampling and Visualization, <em>MDPI Entropy (Special issue in Information Theory Application in Visualization)</em>, 2019, Volume 21, Issue 7. [Link] [<a href="/papers/">Pdf</a>] [BibTeX] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[7]</strong> <b>Soumya Dutta</b>, Ayan Biswas, and James Ahrens, Multivariate Pointwise Information-driven Data Sampling and Visualization, <em>MDPI Entropy (Special issue in Information Theory Application in Visualization)</em>, 2019, Volume 21, Issue 7. [Link] [<a href="/papers/multivarsampling_entropy_2019.pdf">Pdf</a>] [BibTeX] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
