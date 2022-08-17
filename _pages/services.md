@@ -36,13 +36,13 @@ author_profile: true
 
 ## Reviewer
 
-1. IEEE  Transactions on Visualization and Computer Graphics (TVCG)
+1. IEEE Transactions on Visualization and Computer Graphics (TVCG)
 2. Computer Graphics Forum (CGF)
 3. IEEE Visualization (SciVis, VAST, InfoVis)
 4. IEEE Transactions on Instrumentation and Measurement (TIM)
 5. EG/VGTC Conference on Visualization (EuroVis)
 6. ACM Conference on Human Factors in Computing Systems (CHI)
-7. IEEE  Transactions on Network Science and Engineering (TNSE)
+7. IEEE Transactions on Network Science and Engineering (TNSE)
 8. Springer Journal of Visualization (JOVI)
 9. IEEE Pacific Visualization Symposium (PacificVis)
 10. Elsevier Knowledge-based Systems
