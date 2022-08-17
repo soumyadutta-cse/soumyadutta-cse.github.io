@@ -1,4 +1,4 @@
-Dr. Soumya Dutta's Research Website. The template is originally adapted from https://academicpages.github.io/. 
+Dr. Soumya Dutta's Research Website. The template is originally adapted from https://github.com/academicpages/academicpages.github.io. 
 
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
