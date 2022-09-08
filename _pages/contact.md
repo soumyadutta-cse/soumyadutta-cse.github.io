@@ -16,9 +16,9 @@ Los Alamos National Laboratory, USA<br>
 Office: TA-03, Building: 508, Room: 107<br>
 </div>
 
-<div class="box" style="text-align:justify">
-Assistant Professor (Incoming Fall 2022),<br>
+<div class="box" style="text-align:justify"><p>
+Assistant Professor (Incoming Fall 2022)<br>
 Department of Computer Science and Engineering (CSE)<br>
 Indian Institute of Technology, Kanpur (IITK)<br><br>
 <strong>Email:</strong> soumya [dot] cvpr [at] gmail [dot] com
-</div>
+</p></div>
