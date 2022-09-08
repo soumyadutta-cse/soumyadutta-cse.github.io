@@ -15,9 +15,6 @@ Data-driven solutions, nowadays, have become omnipresent. While on one hand, hig
 
 ## Extreme-scale Data Analytics and Visualization at Scale
 
-Description: Coming soon.
 
 ## Machine Learning for Visual Computing
-
-Description: Coming soon.
 
