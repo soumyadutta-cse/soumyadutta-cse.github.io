@@ -13,7 +13,7 @@ Soumya Dutta is a full-time scientist in the <a href="https://www.lanl.gov/org/d
 </p>
 
 <p><strong>
-Dr. Dutta's current research interests include: (1) Techniques for Big Data Analytics & Visualization, (2) Machine Learning for Visual Computing, (3) Statistical Techniques for Big Data, (4) High Performance Visualization, and (5) In Situ Analysis.
+Dr. Dutta's current research interests include: (1) Techniques for Big Data Analytics & Visualization, (2) Machine Learning for Visual Computing, (3) Statistical Techniques for Big Data, (4) High Performance Visualization, (5) Scientific Visualization and Visual Analytics, and (6) In Situ Analysis.
 </strong></p>
 
 <p>

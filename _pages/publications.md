@@ -224,7 +224,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/stall_vis16.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[4]</strong> <b>Soumya Dutta</b>, Chun-Ming Chen, Gregory Heinlein, Han-Wei Shen, and Jen-Ping Chen, In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2017, Volume 23, Issue 1, pp. 811-820. [<a href="https://ieeexplore.ieee.org/document/7539561">Link</a>] [<a href="/papers/Vis16_insitu.pdf">Pdf</a>] <b>[Best Paper Honorable Mention Award]</b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[4]</strong> <b>Soumya Dutta</b>, Chun-Ming Chen, Gregory Heinlein, Han-Wei Shen, and Jen-Ping Chen, In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2017, Volume 23, Issue 1, pp. 811-820. [<a href="https://ieeexplore.ieee.org/document/7539561">Link</a>] [<a href="/papers/Vis16_insitu.pdf">Pdf</a>] <b><span style="color: red">[Best Paper Honorable Mention Award]</span></b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -319,7 +319,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/isav_21.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[16]</strong> <b>Soumya Dutta</b>, Natalie Klein, Li Tang, Jonathan Wolfe, Luke Van Roekel, James Benedict, Ayan Biswas, Earl Lawrence, and Nathan Urban, In Situ Climate Modeling for Analyzing Extreme Weather Events, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2021)</em>, pp. 18-23, co-located with SC 2021. [<a href="https://dl.acm.org/doi/10.1145/3490138.3490142">Link</a>] [<a href="/papers/SSW_GEV_ISAV21.pdf">Pdf</a>]  
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[16]</strong> <b>Soumya Dutta</b>, Natalie Klein, Li Tang, Jonathan Wolfe, Luke Van Roekel, James Benedict, Ayan Biswas, Earl Lawrence, and Nathan Urban, In Situ Climate Modeling for Analyzing Extreme Weather Events, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2021)</em>, pp. 18-23, co-located with SC 2021. [<a href="https://dl.acm.org/doi/10.1145/3490138.3490142">Link</a>] [<a href="/papers/SSW_GEV_ISAV21.pdf">Pdf</a>]  <b><span style="color: red">[Best Paper Award]</span></b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -348,7 +348,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/topoinvis_2019.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[14]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Flow Topology from Flowmap Expansion and Contraction, Workshop on  Topological Methods in Data Analysis and Visualization (TopoInVis)</em>, 2019. [<a href="https://cgl.ethz.ch/publications/papers/paperBuj19b.php">Link</a>] [<a href="/papers/Roxana_TopoInVis_2019.pdf">Pdf</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[14]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Flow Topology from Flowmap Expansion and Contraction, Workshop on  Topological Methods in Data Analysis and Visualization (TopoInVis)</em>, 2019. [<a href="https://cgl.ethz.ch/publications/papers/paperBuj19b.php">Link</a>] [<a href="/papers/Roxana_TopoInVis_2019.pdf">Pdf</a>] <b><span style="color: red">[Best Paper Award]</span></b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -424,7 +424,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/isav_trigger_18.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[9]</strong> Matthew Larsen, Amy Woods, Nicole Marsaglia, Ayan Biswas, <b>Soumya Dutta</b>, Cyrus Harrison, and Hank Childs, A Flexible System For In Situ Triggers, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2018)</em>, pp. 1-6, co-located with SC 2018. [<a href="https://dl.acm.org/doi/10.1145/3281464.3281468">Link</a>] [<a href="/papers/isav_trigger.pdf">Pdf</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[9]</strong> Matthew Larsen, Amy Woods, Nicole Marsaglia, Ayan Biswas, <b>Soumya Dutta</b>, Cyrus Harrison, and Hank Childs, A Flexible System For In Situ Triggers, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2018)</em>, pp. 1-6, co-located with SC 2018. [<a href="https://dl.acm.org/doi/10.1145/3281464.3281468">Link</a>] [<a href="/papers/isav_trigger.pdf">Pdf</a>] <b><span style="color: red">[Best Paper Award]</span></b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -566,7 +566,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/poster_18.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[4]</strong> <b>Soumya Dutta</b>, Han-Wei Shen, and Jen-Ping Chen, In Situ Prediction Driven Feature Analysis in Jet Engine Simulations, <em>12th Annual CSE Student Research Poster Exhibition, The Ohio State University</em>, 2018.</td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[4]</strong> <b>Soumya Dutta</b>, Han-Wei Shen, and Jen-Ping Chen, In Situ Prediction Driven Feature Analysis in Jet Engine Simulations, <em>12th Annual CSE Student Research Poster Exhibition, The Ohio State University</em>, 2018. <b><span style="color: red">[Best Poster Award]</span></b> </td> 
    </tr>
 </table>
 
@@ -574,7 +574,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/insitu_stall_poster_16.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[3]</strong> <b>Soumya Dutta</b>, Chun-Ming Chen, Gregory Heinlein, Han-Wei Shen, and Jen-Ping Chen, In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations, <em>11th Annual CSE Student Research Poster Exhibition, The Ohio State University</em>, 2017.
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[3]</strong> <b>Soumya Dutta</b>, Chun-Ming Chen, Gregory Heinlein, Han-Wei Shen, and Jen-Ping Chen, In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations, <em>11th Annual CSE Student Research Poster Exhibition, The Ohio State University</em>, 2017. <b><span style="color: red">[Best Poster Award]</span></b>
       </td>
    </tr>
 </table>

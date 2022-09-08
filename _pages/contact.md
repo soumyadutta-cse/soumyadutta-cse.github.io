@@ -10,7 +10,7 @@ author_profile: true
 </p></div>
 <div class="box" style="text-align:justify">
 <strong>Soumya Dutta</strong><br><br>
-Scientist 2, Information Sciences Group (Past)<br>
+Scientist 2, Information Sciences Group (Past Affiliation)<br>
 Computer, Computational, and Statistical Sciences (CCS) Division<br>
 Los Alamos National Laboratory, USA<br>
 Office: TA-03, Building: 508, Room: 107<br>
