@@ -10,9 +10,15 @@ author_profile: true
 </p></div>
 <div class="box" style="text-align:justify">
 <strong>Soumya Dutta</strong><br><br>
-Scientist 2, Information Sciences Group (CCS-3)<br>
+Scientist 2, Information Sciences Group (Past)<br>
 Computer, Computational, and Statistical Sciences (CCS) Division<br>
 Los Alamos National Laboratory, USA<br>
 Office: TA-03, Building: 508, Room: 107<br>
-<strong>Email:</strong> sdutta  [at] lanl [dot] gov,   soumya [dot] cvpr [at] gmail [dot] com
+</div>
+
+<div class="box" style="text-align:justify">
+Assistant Professor (Incoming Fall 2022),<br>
+Department of Computer Science and Engineering (CSE)<br>
+Indian Institute of Technology, Kanpur (IITK)<br><br>
+<strong>Email:</strong> soumya [dot] cvpr [at] gmail [dot] com
 </div>
