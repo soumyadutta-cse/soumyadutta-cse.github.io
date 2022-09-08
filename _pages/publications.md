@@ -224,7 +224,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/stall_vis16.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[4]</strong> <b>Soumya Dutta</b>, Chun-Ming Chen, Gregory Heinlein, Han-Wei Shen, and Jen-Ping Chen, In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2017, Volume 23, Issue 1, pp. 811-820. [<a href="https://ieeexplore.ieee.org/document/7539561">Link</a>] [<a href="/papers/Vis16_insitu.pdf">Pdf</a>] <b><span style="color:blue">[Best Paper Honorable Mention Award]</b></span>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[4]</strong> <b>Soumya Dutta</b>, Chun-Ming Chen, Gregory Heinlein, Han-Wei Shen, and Jen-Ping Chen, In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2017, Volume 23, Issue 1, pp. 811-820. [<a href="https://ieeexplore.ieee.org/document/7539561">Link</a>] [<a href="/papers/Vis16_insitu.pdf">Pdf</a>] <b>[Best Paper Honorable Mention Award]</b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
