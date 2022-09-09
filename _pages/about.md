@@ -58,3 +58,7 @@ Dr. Dutta's current research interests include: (1) Techniques for Big Data Anal
 * Aug 2016: <span style="color:Chocolate">Best Paper Honorable Mention Award</span> at IEEE Visualization Conference (IEEE VIS) 2016.
 
 
+
+<div><center><img style="height:100px" src="/images/wbut.png"/>
+<img style="height:100px" src="/images/OSU.png"/>
+<img style="height:100px" src="/images/LANL_logo.png"/></center></div>
