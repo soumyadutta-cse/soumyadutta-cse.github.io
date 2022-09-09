@@ -27,22 +27,22 @@ Dr. Dutta's current research interests include: (1) Techniques for Big Data Anal
 
 ## Education
 
-* Doctor of Philosophy (Ph.D.) and Master of Science (M.S.) (2011-2018)
+* <span style="color:Chocolate">Doctor of Philosophy (Ph.D.) and Master of Science (M.S.) (2011-2018)</span>
 	* Computer Science and Engineering (CSE), The Ohio State University, USA
-* Bachelor of Technology (B. Tech.) (2005-2009)
+* <span style="color:Chocolate">Bachelor of Technology (B. Tech.) (2005-2009)</span>
 	* Electronics and Communication Engineering (ECE), West Bengal University of Technology, India
 
 ## Experience
 
-* Los Alamos National Laboratory
+* <span style="color:Chocolate">Los Alamos National Laboratory</span>
 	* Scientist II (Jul. 2019 - Present)
 	* Postdoctoral Research Associate under Dr. James Ahrens and Dr. Roxana Bujack (Jun. 2018 - Jul. 2019)
 	* Graduate Summer Intern (May - Jul. 2015; May - Aug. 2016; May-Aug. 2017)
-* The Ohio State University
+* <span style="color:Chocolate">The Ohio State University</span>
 	* Graduate Research Associate (GRA)  under Prof. Han-Wei Shen (Aug. 2013 - May 2018)
-* Heritage Institute of Technology
+* <span style="color:Chocolate">Heritage Institute of Technology</span>
 	* Independent Researcher under Prof. Madhurima Chattopadhyay (Nov. 2010-May 2011)
-* Indian Statistical Institute
+* <span style="color:Chocolate">Indian Statistical Institute</span>
 	* Independent Student Researcher under Prof. Bidyut B. Chaudhuri (Dec. 2008 - Sep. 2009)
 
 
