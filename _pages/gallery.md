@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<table>
+<!-- <table>
    <tr width="100%;">
       <td width="40%;" valign="top">
       <video id="left" width="350" height="220" controls="controls"> 
@@ -16,7 +16,7 @@ author_profile: true
       </td>
       </td>
    </tr>
-</table>
+</table> -->
 
 
 <table>
