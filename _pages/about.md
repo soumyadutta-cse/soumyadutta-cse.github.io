@@ -61,4 +61,6 @@ Dr. Dutta's current research interests include: (1) Big Data Analytics & Visuali
 
 <div><center><img style="height:100px" src="/images/wbut.png"/>
 <img style="height:100px" src="/images/OSU.png"/>
-<img style="height:100px" src="/images/LANL_logo.png"/></center></div>
+<img style="height:100px" src="/images/LANL_logo.png"/>
+<!-- <img style="height:100px" src="/images/iitkredlogo.png"/> -->
+</center></div>
