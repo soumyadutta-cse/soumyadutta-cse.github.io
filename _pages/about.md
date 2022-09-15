@@ -18,7 +18,7 @@ Dr. Dutta's current research interests include: (1) Big Data Analytics & Visuali
 
 <p>
 <span style="color:blue">
-<b>** I will be joining the Department of Computer Science and Engineering (CSE) as an Assistant Professor at the Indian Institute of Technology, Kanpur (IITK) in Fall 2022. There will be several positions for all levels of students available in my group to conduct exciting and state-of-the-art research and projects on machine learning for visual computing, big data visual analytics, and data science. More information coming soon!</b>**
+<b>** I will be joining the Department of Computer Science and Engineering (CSE) as an Assistant Professor at the Indian Institute of Technology, Kanpur (IITK) in Fall 2022. There will be several positions for all levels of students available in my group to conduct exciting and state-of-the-art research and projects on machine learning for visual computing, big data visual analytics, and data science. More information coming soon!</b> **
 </span>
 </p>
 
