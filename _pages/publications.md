@@ -74,7 +74,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/mfix_jocs.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[14]</strong> <b>Soumya Dutta</b>, Terece L. Turton, David Rogers, Jordan M. Musser, James Ahrens, and Ann S. Almgren, In Situ Feature Analysis for Large-scale Multiphase Flow Simulations, <em>Journal of Computational Science (Elsivier)</em>, 2022.
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[14]</strong> <b>Soumya Dutta</b>, Terece L. Turton, David Rogers, Jordan M. Musser, James Ahrens, and Ann S. Almgren, In Situ Feature Analysis for Large-scale Multiphase Flow Simulations, <em>Journal of Computational Science (Elsivier)</em>, Volume: 63, 2022.
       [<a href="https://doi.org/10.1016/j.jocs.2022.101773">Link</a>] [<a href="/papers/mfix_jour_comp_sc.pdf">Pdf</a>] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -90,7 +90,7 @@ author_profile: true
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/Humayra_cise.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[13]</strong> Humayra Tasnim, <b>Soumya Dutta</b>, Terece L. Turton, David Rogers, and Melanie E. Moses, Information-theoretic Exploration of Multivariate Time-Varying Image Databases, <em>IEEE Computing in Science & Engineering (IEEE CiSE)</em>, 2022. [<a href="https://ieeexplore.ieee.org/document/9826433">Link</a>] [<a href="/papers/multivar_humayra_cise.pdf">Pdf</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[13]</strong> Humayra Tasnim, <b>Soumya Dutta</b>, Terece L. Turton, David Rogers, and Melanie E. Moses, Information-theoretic Exploration of Multivariate Time-Varying Image Databases, <em>IEEE Computing in Science & Engineering (IEEE CiSE)</em>, 2022, Volume: 24, Issue 3, pp. 61 - 70. [<a href="https://ieeexplore.ieee.org/document/9826433">Link</a>] [<a href="/papers/multivar_humayra_cise.pdf">Pdf</a>] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
