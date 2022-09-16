@@ -5,7 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!-- Table style with CSS -->
+<style type="text/css">
+table {
+    border: none;
+    border-collapse: collapse;
+}
+td {
+    border: none;
+    background-color: #F2F2F2;
+}
+</style>
 
+
+<!-- Publications -->
 ## Book Chapters
 
 <table>
@@ -284,7 +297,7 @@ author_profile: true
 
 
 
-## Conferencee/Workshop Publications
+## Conference/Workshop Publications
 
 <table>
    <tr width="100%;">
@@ -598,5 +611,9 @@ author_profile: true
       </td>
    </tr>
 </table>
+
+
+
+
 
 

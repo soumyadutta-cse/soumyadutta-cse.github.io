@@ -5,6 +5,17 @@ permalink: /gallery/
 author_profile: true
 ---
 
+<!-- Table style with CSS -->
+<style type="text/css">
+table {
+    border: none;
+    border-collapse: collapse;
+}
+td {
+    border: none;
+    background-color: #F2F2F2;
+}
+</style>
 
 <!-- <table>
    <tr width="100%;">
