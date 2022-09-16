@@ -53,14 +53,14 @@ Dr. Dutta's current research interests include: (1) Big Data Analytics & Visuali
 * Sep 2021: <span style="color:Chocolate">LAAP Award</span> at Los Alamos National Laboratory.
 * Jun 2019: <span style="color:Chocolate">Best Paper Award</span> at TopoInVis 2019.
 * Nov 2018: <span style="color:Chocolate">Best Paper Award</span> at ISAV 2018, co-located with Supercomputing (SC).
-* Mar 2018: <span style="color:Chocolate">Best Poster Award</span> in 12th Annual CSE Student Poster Exhibition 2018, The Ohio State University.
-* May 2017: <span style="color:Chocolate">Best Poster Award</span> in 11th Annual CSE Student Poster Exhibition 2018, The Ohio State University.
+* Mar 2018: <span style="color:Chocolate">Best Poster Award</span> in 12th Annual CSE Student Poster Exhibition, The Ohio State University.
+* May 2017: <span style="color:Chocolate">Best Poster Award</span> in 11th Annual CSE Student Poster Exhibition, The Ohio State University.
 * Aug 2016: <span style="color:Chocolate">Best Paper Honorable Mention Award</span> at IEEE Visualization Conference (IEEE VIS) 2016.
 
 
 
 <div><center><img style="height:100px" src="/images/wbut.png"/>
 <img style="height:100px" src="/images/OSU.png"/>
-<img style="height:100px" src="/images/LANL_logo.png"/>
+<img style="height:85px" src="/images/LANL_logo.png"/>
 <!-- <img style="height:100px" src="/images/iitkredlogo.png"/> -->
 </center></div>

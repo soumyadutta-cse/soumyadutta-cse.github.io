@@ -30,28 +30,28 @@ td {
 </style>
 
 
-<h1 style="text-align:center"> Various Computer Graphics Techniques for Rendering and Geometry Processing </h1>
+<h1 style="text-align:center"> Computer Graphics Techniques for Rendering and Geometric Modeling </h1>
 
 
 <div class="row">
   <div class="gifcol">
     <img src="/gifs/ray_tracing.gif"  style="width:300px;height:300px;">
-    <b>Ray Tracing:</b> Ray tracing is a computer graphics technique that can produce images of an environment by tracing paths of rays. Ray tracing is known to produce very realistic images and optical effects such as reflection, refraction, shadows can be modeled using the ray tracing technique.
+    <b>Ray Tracing:</b> Ray tracing is a computer graphics technique that can produce images of an environment by tracing paths of rays. Ray tracing is known to produce realistic images and optical effects such as reflection, refraction, and shadows.
   </div>
   <div class="gifcol">
     <img src="/gifs/opengl_shader.gif"  style="width:300px;height:300px;">
-    <b>OpenGL Shader Programming:</b> The image sequences show 3D computer graphics renderings generated using OpenGL and GLSL shaders. OpenGL is an application programming interface (API) using which 2D/3D graphics programming can be done in GPUs, utilizing hardware acceleration and achieve real-time rendering. 
+    <b>OpenGL Shader Programming:</b> The image sequence shows 3D computer graphics renderings generated using OpenGL and GLSL shader programming. Using OpenGL interactive 2D/3D graphics programming can be done in GPUs, utilizing hardware acceleration. 
   </div>
   <div class="gifcol">
     <img src="/gifs/geom_modeling.gif"  style="width:300px;height:300px;">
-    <b>Geometric Modeling:</b> The images show various geometric modeling algorithms. It shows examples of bezier, bspline curves, subdivision techniques such as Doo-Sabin, Loop etc., and examples of sweeping and extrusion of one surface on another to generate solid surfaces geometries.
+    <b>Geometric Modeling:</b> The images show various geometric modeling algorithms. Examples of bezier, bspline curves, subdivision techniques such as Doo-Sabin, Loop etc., and sweeping and extrusion are shown.
   </div>
 </div> 
 
 &nbsp;
 
 
-<h1 style="text-align:center"> Video Demos of Our Research Works </h1>
+<h1 style="text-align:center"> Selected Video Demos of Our Research Works </h1>
 
 <!-- <table>
    <tr width="100%;">
