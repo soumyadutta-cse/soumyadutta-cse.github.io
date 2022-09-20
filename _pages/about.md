@@ -35,7 +35,7 @@ Dr. Dutta's current research interests include: (1) Big Data Analytics & Visuali
 ## Experience
 
 * <span style="color:Chocolate">Los Alamos National Laboratory</span>
-	* Scientist II (Jul. 2019 - Present)
+	* Scientist II (Jul. 2019 - Aug. 2022)
 	* Postdoctoral Research Associate under Dr. James Ahrens and Dr. Roxana Bujack (Jun. 2018 - Jul. 2019)
 	* Graduate Summer Intern (May - Jul. 2015; May - Aug. 2016; May-Aug. 2017)
 * <span style="color:Chocolate">The Ohio State University</span>
