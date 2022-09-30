@@ -12,9 +12,9 @@ title: ""
 
 &nbsp;
 
-<div class="box"><p>
+<!-- <div class="box"><p>
 <img class="map" src="/images/bigdata_5v.png" width="30%;" align="right" style="margin: 15px 0px 0px 15px;"/>
-</p></div>
+</p></div> -->
 <div class="box" style="text-align:justify; font-size:16px">
 
 <p>
