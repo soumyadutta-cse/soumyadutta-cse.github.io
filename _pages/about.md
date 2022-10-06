@@ -27,35 +27,35 @@ Dr. Dutta's current research interests include: (1) Big Data Analytics & Visuali
 
 ## Education
 
-* <span style="color:Chocolate">Doctor of Philosophy (Ph.D.) and Master of Science (M.S.) (2011-2018)</span>
+* <b><span style="color:Chocolate">Doctor of Philosophy (Ph.D.) and Master of Science (M.S.) (2011-2018)</span></b>
 	* Computer Science and Engineering (CSE), The Ohio State University, USA
-* <span style="color:Chocolate">Bachelor of Technology (B. Tech.) (2005-2009)</span>
+* <b><span style="color:Chocolate">Bachelor of Technology (B. Tech.) (2005-2009)</span></b>
 	* Electronics and Communication Engineering (ECE), West Bengal University of Technology, India
 
 ## Experience
 
-* <span style="color:Chocolate">Los Alamos National Laboratory</span>
+* <b><span style="color:Chocolate">Los Alamos National Laboratory</span></b>
 	* Scientist II (Jul. 2019 - Aug. 2022)
 	* Postdoctoral Research Associate under Dr. James Ahrens and Dr. Roxana Bujack (Jun. 2018 - Jul. 2019)
 	* Graduate Summer Intern (May - Jul. 2015; May - Aug. 2016; May-Aug. 2017)
-* <span style="color:Chocolate">The Ohio State University</span>
+* <b><span style="color:Chocolate">The Ohio State University</span></b>
 	* Graduate Research Associate (GRA)  under Prof. Han-Wei Shen (Aug. 2013 - May 2018)
-* <span style="color:Chocolate">Heritage Institute of Technology</span>
+* <b><span style="color:Chocolate">Heritage Institute of Technology</span></b>
 	* Independent Researcher under Prof. Madhurima Chattopadhyay (Nov. 2010-May 2011)
-* <span style="color:Chocolate">Indian Statistical Institute</span>
+* <b><span style="color:Chocolate">Indian Statistical Institute</span></b>
 	* Independent Student Researcher under Prof. Bidyut B. Chaudhuri (Dec. 2008 - Sep. 2009)
 
 
 ## Awards (Selected)
 
-* Jan 2022: <span style="color:Chocolate">Best Reviewer, Honorary Mention Award</span> for the journal IEEE Transactions on Visualization & Computer Graphics (TVCG), 2021.
-* Nov 2021: <span style="color:Chocolate">Best Paper Award</span> at ISAV 2021, co-located with Supercomputing (SC).
-* Sep 2021: <span style="color:Chocolate">LAAP Award</span> at Los Alamos National Laboratory.
-* Jun 2019: <span style="color:Chocolate">Best Paper Award</span> at TopoInVis 2019.
-* Nov 2018: <span style="color:Chocolate">Best Paper Award</span> at ISAV 2018, co-located with Supercomputing (SC).
-* Mar 2018: <span style="color:Chocolate">Best Poster Award</span> in 12th Annual CSE Student Poster Exhibition, The Ohio State University.
-* May 2017: <span style="color:Chocolate">Best Poster Award</span> in 11th Annual CSE Student Poster Exhibition, The Ohio State University.
-* Aug 2016: <span style="color:Chocolate">Best Paper Honorable Mention Award</span> at IEEE Visualization Conference (IEEE VIS) 2016.
+* Jan 2022: <b><span style="color:Chocolate">Best Reviewer, Honorary Mention Award</span></b> for the journal IEEE Transactions on Visualization & Computer Graphics (TVCG), 2021.
+* Nov 2021: <b><span style="color:Chocolate">Best Paper Award</span></b> at ISAV 2021, co-located with Supercomputing (SC).
+* Sep 2021: <b><span style="color:Chocolate">LAAP Award</span></b> at Los Alamos National Laboratory.
+* Jun 2019: <b><span style="color:Chocolate">Best Paper Award</span></b> at TopoInVis 2019.
+* Nov 2018: <b><span style="color:Chocolate">Best Paper Award</span></b> at ISAV 2018, co-located with Supercomputing (SC).
+* Mar 2018: <b><span style="color:Chocolate">Best Poster Award</span></b> in 12th Annual CSE Student Poster Exhibition, The Ohio State University.
+* May 2017: <b><span style="color:Chocolate">Best Poster Award</span></b> in 11th Annual CSE Student Poster Exhibition, The Ohio State University.
+* Aug 2016: <b><span style="color:Chocolate">Best Paper Honorable Mention Award</span></b> at IEEE Visualization Conference (IEEE VIS) 2016.
 
 
 

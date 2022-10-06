@@ -303,7 +303,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/mfix_woiv.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[18]</strong> <b>Soumya Dutta</b>, Dan Lipsa, Terece L. Turton, Berk Geveci, and James Ahrens, In Situ Analysis and Visualization of Extreme-Scale Particle Simulations, <em>WOIV: 6th International Workshop on In Situ Visualization</em>, 2022 (co-located with ISC High Performance Conference). [Link] [<a href="/papers/WOIV_MFIX_insitu_catalyst.pdf">Pdf</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[18]</strong> <b>Soumya Dutta</b>, Dan Lipsa, Terece L. Turton, Berk Geveci, and James Ahrens, In Situ Analysis and Visualization of Extreme-Scale Particle Simulations, <em>WOIV: 6th International Workshop on In Situ Visualization</em>, 2022 (co-located with ISC High Performance Conference). [Link] [<a href="/papers/WOIV_MFIX_insitu_catalyst.pdf">Pdf</a>] [BibTex]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -318,7 +318,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/ieeebigdata_I1_summarization.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[17]</strong> <b>Soumya Dutta</b>, Humayra Tasnim, Terece L. Turton, and James Ahrens, In Situ Adaptive Spatio-Temporal Data Summarization, <em>IEEE International Conference on Big Data (IEEE Bigdata)</em>, 2021, pp. 315-321. [<a href="https://ieeexplore.ieee.org/document/9671581">Link</a>] [<a href="/papers/IEEEBigData_I1_based_summarization.pdf">Pdf</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[17]</strong> <b>Soumya Dutta</b>, Humayra Tasnim, Terece L. Turton, and James Ahrens, In Situ Adaptive Spatio-Temporal Data Summarization, <em>IEEE International Conference on Big Data (IEEE Bigdata)</em>, 2021, pp. 315-321. [<a href="https://ieeexplore.ieee.org/document/9671581">Link</a>] [<a href="/papers/IEEEBigData_I1_based_summarization.pdf">Pdf</a>] [<a href="/bibtex/Bigdata_fusion.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -332,7 +332,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/isav_21.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[16]</strong> <b>Soumya Dutta</b>, Natalie Klein, Li Tang, Jonathan Wolfe, Luke Van Roekel, James Benedict, Ayan Biswas, Earl Lawrence, and Nathan Urban, In Situ Climate Modeling for Analyzing Extreme Weather Events, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2021)</em>, pp. 18-23, co-located with SC 2021. [<a href="https://dl.acm.org/doi/10.1145/3490138.3490142">Link</a>] [<a href="/papers/SSW_GEV_ISAV21.pdf">Pdf</a>]  <b><span style="color: red">[Best Paper Award]</span></b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[16]</strong> <b>Soumya Dutta</b>, Natalie Klein, Li Tang, Jonathan Wolfe, Luke Van Roekel, James Benedict, Ayan Biswas, Earl Lawrence, and Nathan Urban, In Situ Climate Modeling for Analyzing Extreme Weather Events, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2021)</em>, pp. 18-23, co-located with SC 2021. [<a href="https://dl.acm.org/doi/10.1145/3490138.3490142">Link</a>] [<a href="/papers/SSW_GEV_ISAV21.pdf">Pdf</a>]  [<a href="/bibtex/ISAV_climate_modeling.bib">BibTex</a>] <b><span style="color: red">[Best Paper Award]</span></b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -347,7 +347,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/envirvis_2019.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[15]</strong> <b>Soumya Dutta</b>, Riley X. Brady, Mathew E. Maltrud, Philip Wolfram, and Roxana Bujack, <em>Leveraging Lagrangian Analysis for Discriminating Nutrient Origins, Visualization in Environmental Sciences (EnvirVis)</em>, 2019, pp. 17-24. [<a href="https://doi.org/10.2312/envirvis.20191100">Link</a>] [<a href="/papers/envirvis_2019.pdf">Pdf</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[15]</strong> <b>Soumya Dutta</b>, Riley X. Brady, Mathew E. Maltrud, Philip Wolfram, and Roxana Bujack, <em>Leveraging Lagrangian Analysis for Discriminating Nutrient Origins, Visualization in Environmental Sciences (EnvirVis)</em>, 2019, pp. 17-24. [<a href="https://doi.org/10.2312/envirvis.20191100">Link</a>] [<a href="/papers/envirvis_2019.pdf">Pdf</a>] [<a href="/bibtex/Envirvis_lagrange.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -361,7 +361,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/topoinvis_2019.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[14]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Flow Topology from Flowmap Expansion and Contraction, Workshop on  Topological Methods in Data Analysis and Visualization (TopoInVis)</em>, 2019. [<a href="https://cgl.ethz.ch/publications/papers/paperBuj19b.php">Link</a>] [<a href="/papers/Roxana_TopoInVis_2019.pdf">Pdf</a>] <b><span style="color: red">[Best Paper Award]</span></b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[14]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Flow Topology from Flowmap Expansion and Contraction, Workshop on  Topological Methods in Data Analysis and Visualization (TopoInVis)</em>, 2019. [<a href="https://cgl.ethz.ch/publications/papers/paperBuj19b.php">Link</a>] [<a href="/papers/Roxana_TopoInVis_2019.pdf">Pdf</a>] [<a href="/bibtex/Topoinvis_topology.bib">BibTex</a>] <b><span style="color: red">[Best Paper Award]</span></b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -377,7 +377,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/eurovis_shoprt_2019.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[13]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Irene Baeza Rojo, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Saddles and their Connection to FTLE, EG/VGTC Conference on Visualization (EuroVis Short Paper)</em>, 2019, pp. 49-53. [<a href="https://doi.org/10.2312/evs.20191169">Link</a>] [<a href="/papers/Roxana_Evis_2019.pdf">Pdf</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[13]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Irene Baeza Rojo, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Saddles and their Connection to FTLE, EG/VGTC Conference on Visualization (EuroVis Short Paper)</em>, 2019, pp. 49-53. [<a href="https://doi.org/10.2312/evs.20191169">Link</a>] [<a href="/papers/Roxana_Evis_2019.pdf">Pdf</a>] [<a href="/bibtex/Evis_topology.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -392,7 +392,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/pvis2018_fuzzy_insitu.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[12]</strong> <b>Soumya Dutta</b>, Han-Wei Shen, and Jen-Ping Chen, In Situ Prediction Driven Feature Analysis in Jet Engine Simulations, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis)</em>, 2018, pp. 66-75. [<a href="https://ieeexplore.ieee.org/document/8365977">Link</a>] [<a href="/papers/pvis_18_fuzzy_insitu.pdf">Pdf</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[12]</strong> <b>Soumya Dutta</b>, Han-Wei Shen, and Jen-Ping Chen, In Situ Prediction Driven Feature Analysis in Jet Engine Simulations, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis)</em>, 2018, pp. 66-75. [<a href="https://ieeexplore.ieee.org/document/8365977">Link</a>] [<a href="/papers/pvis_18_fuzzy_insitu.pdf">Pdf</a>] [<a href="/bibtex/Pvis_fuzzy_stall.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -407,7 +407,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/tzu_sampling_pvis_18.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[11]</strong> Tzu-Hsuan Wei, <b>Soumya Dutta</b>, and Han-Wei Shen, Information Guided Data Sampling and Recovery using Bitmap Indexing, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis)</em>, 2018, pp. 56-65. [<a href="https://ieeexplore.ieee.org/document/8365976">Link</a>] [<a href="/papers/pvis18_tzu_sampling.pdf">Pdf</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[11]</strong> Tzu-Hsuan Wei, <b>Soumya Dutta</b>, and Han-Wei Shen, Information Guided Data Sampling and Recovery using Bitmap Indexing, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis)</em>, 2018, pp. 56-65. [<a href="https://ieeexplore.ieee.org/document/8365976">Link</a>] [<a href="/papers/pvis18_tzu_sampling.pdf">Pdf</a>] [<a href="/bibtex/Pvis_sampling.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -422,7 +422,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/isav_sampling_18.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[10]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Jesus Pulido, and James Ahrens, In Situ Data-Driven Adaptive Sampling for Large-scale Simulation Data Summarization, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV)</em>, pp. 13-18, co-located with SC 2018. [<a href="https://dl.acm.org/doi/10.1145/3281464.3281467">Link</a>] [<a href="/papers/isav_sampling.pdf">Pdf</a>]  
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[10]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Jesus Pulido, and James Ahrens, In Situ Data-Driven Adaptive Sampling for Large-scale Simulation Data Summarization, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV)</em>, pp. 13-18, co-located with SC 2018. [<a href="https://dl.acm.org/doi/10.1145/3281464.3281467">Link</a>] [<a href="/papers/isav_sampling.pdf">Pdf</a>] [<a href="/bibtex/ISAV_sampling.bib">BibTex</a>] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -437,7 +437,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/isav_trigger_18.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[9]</strong> Matthew Larsen, Amy Woods, Nicole Marsaglia, Ayan Biswas, <b>Soumya Dutta</b>, Cyrus Harrison, and Hank Childs, A Flexible System For In Situ Triggers, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2018)</em>, pp. 1-6, co-located with SC 2018. [<a href="https://dl.acm.org/doi/10.1145/3281464.3281468">Link</a>] [<a href="/papers/isav_trigger.pdf">Pdf</a>] <b><span style="color: red">[Best Paper Award]</span></b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[9]</strong> Matthew Larsen, Amy Woods, Nicole Marsaglia, Ayan Biswas, <b>Soumya Dutta</b>, Cyrus Harrison, and Hank Childs, A Flexible System For In Situ Triggers, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2018)</em>, pp. 1-6, co-located with SC 2018. [<a href="https://dl.acm.org/doi/10.1145/3281464.3281468">Link</a>] [<a href="/papers/isav_trigger.pdf">Pdf</a>] [<a href="/bibtex/ISAV_trigger.bib">BibTex</a>] <b><span style="color: red">[Best Paper Award]</span></b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -452,7 +452,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/slic_pvis.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[8]</strong> <b>Soumya Dutta</b>, Jonathan Woodring, Han-Wei Shen, Jen-Ping Chen, and James Ahrens, Homogeneity Guided Probabilistic Data Summaries for Analysis and Visualization of Large-Scale Data Sets, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis)</em>, 2017, 111-120. [<a href="https://ieeexplore.ieee.org/document/8031585">Link</a>] [<a href="/papers/PVis17.pdf">Pdf</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[8]</strong> <b>Soumya Dutta</b>, Jonathan Woodring, Han-Wei Shen, Jen-Ping Chen, and James Ahrens, Homogeneity Guided Probabilistic Data Summaries for Analysis and Visualization of Large-Scale Data Sets, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis)</em>, 2017, 111-120. [<a href="https://ieeexplore.ieee.org/document/8031585">Link</a>] [<a href="/papers/PVis17.pdf">Pdf</a>] [<a href="/bibtex/Pvis_dist_summary.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -467,7 +467,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/PMI_SA17.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[7]</strong> <b>Soumya Dutta</b>, Xiaotong Liu, Ayan Biswas, Han-Wei Shen, and Jen-Ping Chen, Pointwise Information Guided Visual Analysis of Time-varying Multi-fields, <em>SA'17, SIGGRAPH Asia Symposium on Visualization</em>, 2017. [<a href="https://dl.acm.org/doi/10.1145/3139295.3139298">Link</a>] [<a href="/papers/siggraph_vis17.pdf">Pdf</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[7]</strong> <b>Soumya Dutta</b>, Xiaotong Liu, Ayan Biswas, Han-Wei Shen, and Jen-Ping Chen, Pointwise Information Guided Visual Analysis of Time-varying Multi-fields, <em>SA'17, SIGGRAPH Asia Symposium on Visualization</em>, 2017. [<a href="https://dl.acm.org/doi/10.1145/3139295.3139298">Link</a>] [<a href="/papers/siggraph_vis17.pdf">Pdf</a>] [<a href="/bibtex/SIGASIA_pmi.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -482,7 +482,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/Greg_stall_2017.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[6]</strong> Gregory Heinlein, Jen-Ping Chen, Chun-Ming Chen, <b>Soumya Dutta</b>, and Han-Wei Shen, Statistical Anomaly Based Study of Rotating Stall in a Transonic Axial Compressor Stage, <em>Turbomachinery Technical Conference & Exposition (ASME Turbo Expo, GT 2017)</em>. [<a href="https://doi.org/10.1115/GT2017-64685">Link</a>] [<a href="/papers/Greg_GT_paper.pdf">Pdf</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[6]</strong> Gregory Heinlein, Jen-Ping Chen, Chun-Ming Chen, <b>Soumya Dutta</b>, and Han-Wei Shen, Statistical Anomaly Based Study of Rotating Stall in a Transonic Axial Compressor Stage, <em>Turbomachinery Technical Conference & Exposition (ASME Turbo Expo, GT 2017)</em>. [<a href="https://doi.org/10.1115/GT2017-64685">Link</a>] [<a href="/papers/Greg_GT_paper.pdf">Pdf</a>] [<a href="/bibtex/Turbo_turbine.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -497,7 +497,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/hazarika_pvis_16.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[5]</strong> Subhashis Hazarika, <b>Soumya Dutta</b>, Han-Wei Shen, Visualizing the Variations of Ensemble of Isosurfaces, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis Notes)</em>, 2016, 209-213. [<a href="https://ieeexplore.ieee.org/document/7465272">Link</a>] [<a href="/papers/ensemble_pvis_notes2016.pdf">Pdf</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[5]</strong> Subhashis Hazarika, <b>Soumya Dutta</b>, Han-Wei Shen, Visualizing the Variations of Ensemble of Isosurfaces, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis Notes)</em>, 2016, 209-213. [<a href="https://ieeexplore.ieee.org/document/7465272">Link</a>] [<a href="/papers/ensemble_pvis_notes2016.pdf">Pdf</a>] [<a href="/bibtex/Pvis_ensemble_isosurface.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -512,7 +512,7 @@ td {
 
 <table>
    <tr width="100%;">
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[4]</strong> <b>Soumya Dutta</b> and Madhurima Chattopadhyay, A change detection algorithm for medical cell images, <em>International Conference on Scientific Paradigm Shift in Information Technology and Management (SPSITM 2011)</em>, 2011, 524-527. </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[4]</strong> <b>Soumya Dutta</b> and Madhurima Chattopadhyay, A change detection algorithm for medical cell images, <em>International Conference on Scientific Paradigm Shift in Information Technology and Management (SPSITM 2011)</em>, 2011, 524-527. [Link] [<a href="/bibtex/SPSITM_change_det.bib">BibTex</a>] </td>
    </tr>
 </table>
 
@@ -520,14 +520,14 @@ td {
 
 <table>
    <tr width="100%;">
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[3]</strong> <b>Soumya Dutta</b> and Bidyut B. Chaudhuri, A Color Edge Detection Algorithm in RGB Color Space, <em>Advances in Recent Technologies in Communication and Computing (ARTCOM 2009)</em>, 2009, 337-340. [<a href="https://ieeexplore.ieee.org/document/5329404">Link</a>]  </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[3]</strong> <b>Soumya Dutta</b> and Bidyut B. Chaudhuri, A Color Edge Detection Algorithm in RGB Color Space, <em>Advances in Recent Technologies in Communication and Computing (ARTCOM 2009)</em>, 2009, 337-340. [<a href="https://ieeexplore.ieee.org/document/5329404">Link</a>] [<a href="/bibtex/ARTCOM_edge1.bib">BibTex</a>]  </td>
    </tr>
 </table>
 
 
 <table>
    <tr width="100%;">
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[2]</strong>  <b>Soumya Dutta</b> and Bidyut B. Chaudhuri, Homogeneous region based color image segmentation, <em>The World Congress on Engineering and Computer Science (WCECS 2009)</em>, 2009, vol 2, 1301-1305. [<a href="http://www.iaeng.org/publication/WCECS2009/WCECS2009_pp1301-1305.pdf">Link</a>]  </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[2]</strong>  <b>Soumya Dutta</b> and Bidyut B. Chaudhuri, Homogeneous region based color image segmentation, <em>The World Congress on Engineering and Computer Science (WCECS 2009)</em>, 2009, vol 2, 1301-1305. [<a href="http://www.iaeng.org/publication/WCECS2009/WCECS2009_pp1301-1305.pdf">Link</a>]  [<a href="/bibtex/WC_segmentation.bib">BibTex</a>] </td>
    </tr>
 </table>
 
@@ -535,7 +535,7 @@ td {
 
 <table>
    <tr width="100%;">
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top" border="none"> <strong>[1]</strong>   <b>Soumya Dutta</b> and Bidyut B. Chaudhuri, A Statistics and Local Homogeneity Based Color Edge Detection Algorithm, <em>Advances in Recent Technologies in Communication and Computing (ARTCOM 2009)</em>, 2009, 546-548. [<a href="https://ieeexplore.ieee.org/document/5329170">Link</a>]  </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top" border="none"> <strong>[1]</strong>   <b>Soumya Dutta</b> and Bidyut B. Chaudhuri, A Statistics and Local Homogeneity Based Color Edge Detection Algorithm, <em>Advances in Recent Technologies in Communication and Computing (ARTCOM 2009)</em>, 2009, 546-548. [<a href="https://ieeexplore.ieee.org/document/5329170">Link</a>]  [<a href="/bibtex/ARTCOM_edge2.bib">BibTex</a>] </td>
    </tr>
 </table>
 
@@ -544,14 +544,14 @@ td {
 
 <table>
    <tr width="100%;">
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top" border="none"> <strong>[3]</strong> <b>Soumya Dutta</b>, Divya Banesh, Li-Ta Lo, Roxana Bujack, and David Rogers, Model-based Visual Analytics of Big Data: Challenges and Opportunities, <em>DOE ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, & Communication</em>, January 18-20, 2022.</td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top" border="none"> <strong>[3]</strong> <b>Soumya Dutta</b>, Divya Banesh, Li-Ta Lo, Roxana Bujack, and David Rogers, Model-based Visual Analytics of Big Data: Challenges and Opportunities, <em>DOE ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, & Communication</em>, January 18-20, 2022. </td>
    </tr>
 </table>
 
 
 <table>
    <tr width="100%;">
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top" border="none"> <strong>[2]</strong> Roxana Bujack, Divya Banesh, <b>Soumya Dutta</b>, and Li-Ta Lo, Vector Field Segmentation for Data Analysis, <em>DOE ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, & Communication</em>, January 18-20, 2022.</td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top" border="none"> <strong>[2]</strong> Roxana Bujack, Divya Banesh, <b>Soumya Dutta</b>, and Li-Ta Lo, Vector Field Segmentation for Data Analysis, <em>DOE ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, & Communication</em>, January 18-20, 2022. </td>
    </tr>
 </table>
 

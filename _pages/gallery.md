@@ -30,7 +30,7 @@ td {
 </style>
 
 
-<h1 style="text-align:center"> Computer Graphics Techniques for Rendering and Geometric Modeling </h1>
+<h1 style="text-align:center"> Computer Graphics Techniques for 3D Rendering and Geometric Modeling </h1>
 
 
 <div class="row">
@@ -51,7 +51,7 @@ td {
 &nbsp;
 
 
-<h1 style="text-align:center"> Selected Video Demos of Our Research Works </h1>
+<h1 style="text-align:center"> Selected Video Demos of Our Research </h1>
 
 <!-- <table>
    <tr width="100%;">
