@@ -303,11 +303,26 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/mfix_woiv.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[18]</strong> <b>Soumya Dutta</b>, Dan Lipsa, Terece L. Turton, Berk Geveci, and James Ahrens, In Situ Analysis and Visualization of Extreme-Scale Particle Simulations, <em>WOIV: 6th International Workshop on In Situ Visualization</em>, 2022 (co-located with ISC High Performance Conference). [Link] [<a href="/papers/WOIV_MFIX_insitu_catalyst.pdf">Pdf</a>] [BibTex]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[19]</strong> <b>Soumya Dutta</b>, Dan Lipsa, Terece L. Turton, Berk Geveci, and James Ahrens, In Situ Analysis and Visualization of Extreme-Scale Particle Simulations, <em>WOIV: 6th International Workshop on In Situ Visualization</em>, 2022 (co-located with ISC High Performance Conference). [Link] [<a href="/papers/WOIV_MFIX_insitu_catalyst.pdf">Pdf</a>] [BibTex]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
         In situ analysis has emerged as a dominant paradigm for performing scalable visual analysis of extreme-scale computational simulation data. Compared to the traditional post hoc analysis pipeline where data is first stored into disks and then analyzed offline, in situ analysis processes data at the time its generation in the supercomputers so that the slow and expensive disk I/O is minimized. In this work, we present a new in situ visual analysis pipeline for the extreme-scale multiphase flow simulation MFiX-Exa and demonstrate how the pipeline can be used to process large particle fields in situ and produce informative visualizations of the data features. We deploy our analysis pipeline on Oak Ridge's Summit supercomputer to study its in situ applicability and usefulness.
+        </p>
+      </details></td>
+   </tr>
+</table>
+
+
+<table>
+   <tr width="100%;">
+      <td width="23%;" valign="top">
+      <img style="height:100px" src="/images/mfix_sc_video.png"/> </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[18]</strong> Alexandra R. Stewart, Terece L. Turton, David H. Rogers, James P. Ahrens, and <b>Soumya Dutta</b>, <em>Visualization of MFIX-Exa Simulation Data for Chemical Looping Combustion</em>, SC22 Scientific Visualization and Data Analytics Showcase, 2022. [Link] [<a href="/papers/mfix_sc_video_paper.pdf">Pdf</a>] [BibTex]
+      <details>
+        <summary><b><span style="color:blue">Abstract</span></b></summary>
+        <p>
+        In the United States, fossil-fuel related industrial processes account for approximately half of all greenhouse gas emissions in the United States. Wide-scale implementation of Carbon-Capture Technologies such as Chemical Looping Reactors (CLRs) provide a promising path to reducing carbon emissions. However, scale-up and testing of these systems is expensive and time-consuming. In recent years, scientists have developed computational tools to simulate multiphase reactors to reduce scaling and testing costs by harnessing the power of HPC. In particular, understanding bubble dynamics in fluidized beds is important to scientists studying multiphase flows in order to design efficient, cost-effective chemical looping reactors. In our video, we highlight scientific use cases of the MFiX-Exa simulation for a general science audience and outline the importance of Los Alamos National Laboratory’s (LANL) in situ statistical feature detection algorithm in identifying the features of interest in the MFiX-Exa data; and the use of LANL’s Cinema visualization tool to create a novel post hoc workflow. In particular, we highlight MFiX-Exa, which provides new computing capabilities needed to combine CFD-DEM simulation with computing at the Exascale via an adaptive mesh refinement (AMReX) framework. Visualizations were run in ParaView and the rendering in our model visualizes bubble features as well as fluid velocity of fluid in the fluidized bed. Average rise velocities from the particle data were estimated and saved for comparison and overlayed in the background of the visualized bubbles to study fluid features. We discuss the influence of exascale computing in the future of CLR and Carbon capture technologies.
         </p>
       </details></td>
    </tr>
