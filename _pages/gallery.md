@@ -53,7 +53,7 @@ td {
 
 <h1 style="text-align:center"> Selected Video Demos of Our Research </h1>
 
-<!-- <table>
+<table>
    <tr width="100%;">
       <td width="40%;" valign="top"><center>
       <video id="left" width="350" height="220" controls="controls"> 
@@ -63,7 +63,7 @@ td {
       </td>
       </center></td>
    </tr>
-</table> -->
+</table>
 
 
 <table>
