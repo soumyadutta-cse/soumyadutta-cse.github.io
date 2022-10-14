@@ -19,7 +19,7 @@ title: ""
 
 <p>
 <span style="color:blue">
-<b>** Announcement: There are several positions available for all levels of students in my group to conduct exciting and state-of-the-art research and projects on machine learning for visual computing, big data visual analytics, and data science. If you are interested in working with me, please contact me at <u>soumyad [at] cse [dot] iitk [dot] ac [dot] in</u> </b> **
+<b>** <u>Announcement:</u> There are several positions available for all levels of students in my group to conduct exciting and state-of-the-art research and projects on machine learning for visual computing, big data visual analytics, and data science. If you are interested in working with me, please contact me at <u>soumyad [at] cse [dot] iitk [dot] ac [dot] in</u> </b> **
 </span>
 </p>  
 
