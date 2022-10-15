@@ -23,15 +23,16 @@ author_profile: true
 ## International Program Committee (IPC) Member
 
 1. IEEE Visualization Full Papers (2022)
-2. IEEE Pacific Visualization (PacificVis 2021-23)
-3. EuroGraphics Symposium on Parallel Graphics and Visualization (EGPGV 2021-22)
-4. IEEE Symposium on Large Data Analysis and Visualization (LDAV 2019, 2021-22)
-5. Visualization in Environmental Sciences Workshop (EnvirVis 2019)
-6. IEEE Visualization Short Papers (2019-21)
-7. In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2019-22)
-8. International Symposium on Visual Computing (ISVC 2019-2022)
-9. International Workshop on Big Data Reduction (IEEE IWBDR 2020-21)
-10. Program committee member at other venues: IVAPP 2020, VISUAL 2017-2020
+2. EG/VGTC Conference on Visualization (EuroVis 2023)
+3. IEEE Pacific Visualization (PacificVis 2021-23)
+4. EuroGraphics Symposium on Parallel Graphics and Visualization (EGPGV 2021-22)
+5. IEEE Symposium on Large Data Analysis and Visualization (LDAV 2019, 2021-22)
+6. Visualization in Environmental Sciences Workshop (EnvirVis 2019)
+7. IEEE Visualization Short Papers (2019-21)
+8. In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2019-22)
+9. International Symposium on Visual Computing (ISVC 2019-2022)
+10. International Workshop on Big Data Reduction (IEEE IWBDR 2020-21)
+11. Program committee member at other venues: IVAPP 2020, VISUAL 2017-2020
 
 
 ## Reviewer
