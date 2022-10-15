@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <div style="text-align: justify"> <p>
-Soumya Dutta is a full-time scientist in the <a href="https://www.lanl.gov/org/ddste/aldsc/computer-computational-statistical-sciences/information-sciences/index.php">Information Sciences group (CCS-3)</a> at <a href="https://www.lanl.gov/">Los Alamos National Laboratory (LANL)</a>. Previously, Dr. Dutta was a postdoctoral researcher at the Applied Computer Sciences group (CCS-7) at LANL from June 2018-July 2019, mentored by <a href="https://sites.google.com/site/jamesahrens/">Dr. James Ahrens</a> and <a href="https://www.linkedin.com/in/roxana-bujack-b73a2a64/">Dr. Roxana Bujack</a>. Dr. Dutta obtained his Ph.D. degree in Computer Science and Engineering from the <a href="https://www.osu.edu/">Ohio State University</a> in May 2018 where he was part of the <a href="https://sites.google.com/view/gravity-research-group/">GRAVITY research group</a> and was supervised by <a href="https://web.cse.ohio-state.edu/~shen.94/shen.94/Welcome.html">Prof. Han-Wei Shen</a>. For more details, please take a look at my <b><a href="/docs/Soumya_CV.pdf">CV</a></b>.
-</p> -->
 
 <div style="text-align: justify"> <p>
-Soumya Dutta is an Assistant Professor in the Department of Computer Science and Engineering (CSE) at the Indian Institute of Technology, Kanpur (IITK). Soumya obtained his Ph.D. degree in Computer Science and Engineering from the <a href="https://www.osu.edu/">Ohio State University</a> in May 2018 where he was part of the <a href="https://sites.google.com/view/gravity-research-group/">GRAVITY research group</a>. After his doctoral studies, Soumya worked as a postdoctoral researcher at the Applied Computer Sciences group (CCS-7) of <a href="https://www.lanl.gov/">Los Alamos National Laboratory (LANL)</a> from June 2018-July 2019. Then he was converted to a full-time scientist in the <a href="https://www.lanl.gov/org/ddste/aldsc/computer-computational-statistical-sciences/information-sciences/index.php">Information Sciences group (CCS-3)</a> at LANL where he worked from July 2019 - August 2022. For more details, please take a look at Soumya's <b><a href="/docs/Soumya_CV.pdf">CV</a></b>.
+Soumya Dutta is an Assistant Professor in the <a href="https://www.cse.iitk.ac.in">Department of Computer Science and Engineering</a> (CSE) at the <a href="https://www.iitk.ac.in">Indian Institute of Technology, Kanpur (IITK)</a>. Soumya obtained his Ph.D. degree in Computer Science and Engineering from the <a href="https://www.osu.edu/">Ohio State University</a> in May 2018 where he was part of the <a href="https://sites.google.com/view/gravity-research-group/">GRAVITY research group</a>. After his doctoral studies, Soumya worked as a postdoctoral researcher at the Applied Computer Sciences group (CCS-7) of <a href="https://www.lanl.gov/">Los Alamos National Laboratory (LANL)</a> from June 2018-July 2019. Then he was converted to a full-time scientist in the Information Sciences group (CCS-3) at LANL where he worked from July 2019 - August 2022. For more details, please take a look at Soumya's <b><a href="/docs/Soumya_CV.pdf">CV</a></b>.
 </p>
 
 
@@ -39,6 +36,9 @@ Dr. Dutta's current research interests include: (1) Big Data Analytics & Visuali
 
 ## Experience
 
+
+* <b><span style="color:Chocolate">Indian Institute of Technology, Kanpur</span></b>
+	* Assistant Professor of Computer Science and Engineering (Oct. 2022 - Present)
 * <b><span style="color:Chocolate">Los Alamos National Laboratory</span></b>
 	* Scientist II (Jul. 2019 - Aug. 2022)
 	* Postdoctoral Research Associate under Dr. James Ahrens and Dr. Roxana Bujack (Jun. 2018 - Jul. 2019)
