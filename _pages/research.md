@@ -4,7 +4,7 @@ title: ""
 ---
 
 
-<h1 style="text-align:center"> Visualization and Data Science (VDS) Laboratory </h1>
+<h1 style="text-align:center"> Visualization and Data Science (VDS) Group </h1>
 
 <div class="box"><p>
 <img class="map" src="/images/collage.png" width="100%;" align="left" style="margin: 0px 0px 0px 0px;"/>
@@ -19,11 +19,10 @@ title: ""
 
 <p>
 <span style="color:blue">
-** There are a few positions available in my group to conduct exciting and state-of-the-art research and projects on big data visual analytics, machine learning for visual computing,  and data science. <b>If you can devote a minimum of six months (preferably 1 year for doing something meaningful and publishable!), and are motivated to learn new concepts and have strong programming skills in C/C++ and Python, then <u> please send me an email with your CV at soumyad [at] cse [dot] iitk [dot] ac [dot] in</u></b>. Prior knowledge in data analysis, visualization, machine learning, statistics, and computer graphics will be beneficial. I apologies if I am not able to respond to your email as I get many requests for projects. I will try my best to get back to you as soon as I can. ** 
+There are a few positions (limited for B.Tech. students) available in my group to do research on big data visual analytics, machine learning for visual computing, and data science. <b>If you can devote a minimum of six months (preferably 1 year for doing something meaningful and publishable!), and are motivated to learn new concepts and have strong programming skills in C/C++ and Python, then <u> please send me an email with your CV at soumyad [at] cse [dot] iitk [dot] ac [dot] in</u></b>. Prior knowledge in data analysis, machine learning, statistics, and computer graphics will be beneficial. I apologies if I am not able to respond to your email as I get many requests for projects. I will try my best to get back to you as soon as I can. 
 </span>
 
-
-<p><u><b> <span style="color:blue">M.Tech./Ph.D. students who are interested in doing their thesis with me, please write a paragraph stating your background and your research interests along with your CV.</span></b></u></p>
+<p><u><b> <span style="color:blue">M.Tech./Ph.D. students who are interested in doing research or their thesis with me, please write a paragraph stating your background, research experiences (if any), and research interests along with your CV.</span></b></u></p>
 </p>
 
 <p>
