@@ -8,7 +8,7 @@ author_profile: true
 ## Organizational Activities
 
 13. Posters Co-chair: IEEE Symposium on Large Data Analysis and Visualization (LDAV 2023)
-12. Co-chair: IEEE Visualization First Forward and Video Preview (2023)
+12. Co-chair: IEEE Visualization Fast Forward and Video Previews (2023)
 11. Co-chair: [Visualization in Environmental Sciences](https://www.informatik.uni-leipzig.de/bsv/envirvis2022/) (EnvirVis 2020-Present) (Co-located with EuroVis) 
 10. Co-chair: [IEEE Visualization Application Spotlights](http://ieeevis.org/year/2022/info/call-participation/application-spotlights) (2021-22)
 9. Co-chair: [IEEE Visualization Open Practices](http://ieeevis.org/year/2022/info/open-practices/open-practices) (2019-20)
