@@ -22,7 +22,7 @@ Dr. Dutta's current research interests include: (1) Big Data Analytics & Visuali
 
 <p>
 <span style="color:Chocolate">
-There are a few positions (currently limited positions for B.Tech. students) available in my group to do research on big data visual analytics, machine learning for visual computing, statistical visualization, high performance and in situ visual analysis, and data science. <b>Please  <a href='../openings'>click here</a> or check the Openings page for more details.</b>
+There are a few positions (currently no positions for for B.Tech. students) available in my group to do research on big data visual analytics, machine learning for visual computing, statistical visualization, high performance and in situ visual analysis, and data science. <b>Please  <a href='../openings'>click here</a> or check the Openings page for more details.</b>
 </span>
 </p>
 

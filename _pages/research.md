@@ -21,7 +21,7 @@ title: ""
 
 <p>
 <span style="color:Chocolate"><b>
-** We are always looking for motivated students with excellent programming skills. To know more about the open positions in our group, please <a href='../openings'>click here</a> or check the Openings page for more details.</b> **
+** We are always looking for motivated students with excellent programming skills. To know more about the open positions in our group, please <a href='../openings'>click here</a> or check the Openings page for more details. Currently, we do not have openings for B.Tech. students. If new positions open up, this will be updated accordingly.</b> **
 </span>
 </p>
 

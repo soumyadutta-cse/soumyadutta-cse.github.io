@@ -129,7 +129,7 @@ td {
 
 <table>
    <tr width="100%;">
-      <td width="40%;" valign="top"><center>
+      <td width="35%;" valign="top"><center>
       <video id="id" width="350" height="220" controls="controls"> 
         <source type="video/mp4" src="/videos/vis15_turbine_supplementary.mp4"/> 
       </video>
@@ -137,5 +137,5 @@ td {
       </td>
       </center></td>
    </tr>
-</table>
+</table> 
 
