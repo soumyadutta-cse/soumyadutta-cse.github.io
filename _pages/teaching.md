@@ -5,4 +5,4 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## CS798E: Big Data Visual Analytics
+## Upcoming Course (Semester 2022-23-II): CS798E - Big Data Visual Analytics
