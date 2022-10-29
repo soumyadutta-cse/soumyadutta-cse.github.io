@@ -9,7 +9,7 @@ author_profile: true
 
 <h3> <span style="color:Chocolate"> For all prospective students: </span></h3>
 
-<p>Prior knowledge in data analysis, machine learning, statistics, and visualization and computer graphics will be beneficial, but not always necessary.
+<p>Prior knowledge in data analysis, machine learning, statistics, and visualization will be beneficial, but not mandatory.
 
 <p>There are a few positions (currently no positions for B.Tech. students) available in my group to do research on big data visual analytics, machine learning for visual computing, high performance and in situ visual analysis, and data science. <b>If you can devote a minimum of six months (preferably 1 year for doing something meaningful and publishable!), and are motivated to learn new concepts and have strong programming skills in C/C++ and Python then <u> please send me an email with your CV at soumyad [at] cse [dot] iitk [dot] ac [dot] in</u></b>. 
 
