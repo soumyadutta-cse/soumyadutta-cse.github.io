@@ -83,6 +83,26 @@ td {
 
 ## Journal Publications
 
+
+<table>
+   <tr width="100%;">
+      <td width="23%;" valign="top">
+      <img style="height:100px" src="/images/juliacon.png"/> </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[15]</strong> Li Tang, <b>Soumya Dutta</b>, Natalie Klein, Wayne Yu Wang, Jonathan David Wolfe, Luke Van Roekel, Nathan Urban, Ayan Biswas, and Earl Lawrence, Julia for HPC: In Situ Data Analysis with Julia for Climate Simulations at Large Scale, <em>Proceedings of JuliaCon</em>.
+      <b>[Under review]</b>
+      <details>
+        <summary><b><span style="color:blue">Abstract</span></b></summary>
+        <p>
+        Fast-evolving data science techniques have enabled scientific dis- coveries in part by providing the ability to analyze large amounts of scientific data and extract relevant patterns. Scientific simulations offer a unique opportunity to study large-scale, complex systems, such as the Earth’s climate, under varying conditions and modeling assumptions. However, one major obstacle to improved utilization of large scientific simulations is the ever-increasing gap between computing speed, which continues to increase, and data I/O band- width, which remains relatively constant. This mismatch often pre- vents full utilization of the data; we are likely unable to save all of the generated data for analysis, and simple solutions such as saving compressed versions of the data for later analysis may be insuffi- cient to answer questions of interest.
+        </p>
+        <p>
+        In situ data analysis techniques seek to address this issue by com- pleting analysis and pattern extraction from generated scientific data while the application is running, and the in situ data anal- ysis only involves compute and in-memory data I/O, which im- proves performance. However, one major challenge of employing in situ data analysis to legacy scientific applications is that mod- ern advanced data science techniques are usually not implemented in the same way as the scientific codes (typically, using the For- tran programming language with parallel programming models). To address this challenge, we develop an infrastructure for cou- pling a popular high-level data science programming language, Ju- lia, with the large-scale production-level climate code Energy Ex- ascale Earth System Model (E3SM) on high performance comput- ing (HPC) systems. To demonstrate the infrastructure, we develop two in situ data analysis methods in Julia and evaluate their per- formance and the infrastructure overhead. Our results show that our in situ Julia data analysis methods are able to detect extreme weather events and characterize climate patterns with insignifi- cant infrastructure overhead. Furthermore, our infrastructure allows user-friendly development and deployment of new Julia data anal- ysis modules without the need to recompile the simulation code, giving data analysts a simple new tool for in situ analysis.
+        </p>
+      </details></td>
+   </tr>
+</table>
+
+
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
