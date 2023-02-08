@@ -30,7 +30,7 @@ There are a few positions (currently no positions for B.Tech. students) availabl
 
 <p>
 <span style="color:Chocolate">
-There are several open positions for PhD/MS/MTech students to conduct exciting reserach on Machine learning and Deep learning with applications in visual computing, data analysis, HCI, and HPC. Research projects on data science and big data analytics are also available. If you want to pursue your thesis with me, please email me at 'soumyad [at] cse [dot] iitk [dot] ac [dot] in' or meet me in my office @KD-224. <b>Please  <a href='../openings'>click here</a> or check the Openings page for more details.</b>
+There are several open positions for PhD/MS/MTech students to conduct exciting reserach on Machine learning and Deep learning with applications in visual computing, data analysis and visualization, and HPC. If you want to pursue your thesis with me, please email me at 'soumyad [at] cse [dot] iitk [dot] ac [dot] in' or meet me in my office @KD-224. <b>Please  <a href='../openings'>click here</a> or check the Openings page for more details.</b>
 </span>
 </p>
 
