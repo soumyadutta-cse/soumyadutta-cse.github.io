@@ -11,8 +11,6 @@ author_profile: true
 2. Abhay Kumar Dwivedi
 3. Atul Kumar
 
-## M.S.
-1. Mohit Singh
 
 ## UGP
 1. Ayush Kumar (EE)
