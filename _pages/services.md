@@ -22,6 +22,7 @@ author_profile: true
 1. Co-organizer: [Application Spotlight titled "Feature-based Visual Interactive Systems to Optimize Decision Making"](http://ieeevis.org/year/2019/info/application-spotlights) at IEEE Visualization 2019
 
 
+
 ## International Program Committee (IPC) Member
 
 11. EG/VGTC Conference on Visualization (EuroVis 2023)
@@ -56,5 +57,16 @@ author_profile: true
 3. International Workshop on Big Data Reduction (IEEE IWBDR)
 2. Visualization in Environmental Sciences (EnvirVis)
 1. ACM In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV)
+
+
+## PhD Comprehensive and SOTA Examination Committee Member
+
+3. Chandan Prakash
+2. Joydeep Mondal
+1. Muzafar Wani
+
+## MTech Thesis Final Examination Committee Member
+
+1. Ashankur Tripathi
 
 
