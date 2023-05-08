@@ -15,7 +15,7 @@ Soumya Dutta is an Assistant Professor in the <a href="https://www.cse.iitk.ac.i
 
 
 <p><strong>
-Dr. Dutta's current research interests include: (1) Machine/Deep Learning for Visual Computing, (2) Big Data Analytics & Visualization, (3) Statistical Techniques for Big Data, (4) Human-Computer Interaction (HCI), (5) High Performance Computing and Visualization, (6) Scientific and Information Visualization, and (7) In Situ Analysis.
+Dr. Dutta's current research interests include: (1) Machine/Deep Learning for Visual Computing, (2) Big Data Analytics & Visualization, (3) Statistical Techniques for Big Data, (4) Human-Computer Interaction (HCI) for Visualization, (5) High Performance Computing and Visualization, (6) Scientific and Information Visualization, and (7) In Situ Analysis.
 </strong></p>
 
 <!-- <h2> ** Want to join our group? ** </h2>
@@ -26,11 +26,11 @@ There are a few positions (currently no positions for B.Tech. students) availabl
 </span>
 </p> -->
 
-<h2> ** Open PhD/MS/MTech positions for ML/DL research ** </h2>
+<h2> ** Open PhD/MS positions for ML/DL + Visual Computing Research ** </h2>
 
 <p>
 <span style="color:Chocolate">
-There are several open positions for PhD/MS/MTech students to conduct exciting reserach on Machine learning and Deep learning with applications in visual computing, data analysis and visualization, and HPC. If you want to pursue your thesis with me, please email me at 'soumyad [at] cse [dot] iitk [dot] ac [dot] in' or meet me in my office @KD-224. <b>Please  <a href='../openings'>click here</a> or check the Openings page for more details.</b>
+There are a few open positions for PhD/MS students to conduct exciting reserach on Machine learning and Deep learning with applications in visual computing, data analysis and visualization, and HPC. If you want to pursue your thesis with me, please email me at 'soumyad [at] cse [dot] iitk [dot] ac [dot] in' or meet me in my office @KD-224. <b>Please  <a href='../openings'>click here</a> or check the Openings page for more details.</b>
 </span>
 </p>
 

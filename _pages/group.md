@@ -7,22 +7,24 @@ author_profile: true
 
 
 ## M. Tech.
-1. Vivek Kumar Gautam
-2. Abhay Kumar Dwivedi
-3. Atul Kumar
+5. Drashtant Singh Rathod [2022-23]
+4. Komal Yadav [2022-23]
+3. Vivek Kumar Gautam [2022-23]
+2. Abhay Kumar Dwivedi [2022-23]
+1. Atul Kumar [2022-23]
 
 
 ## UGP
-1. Ayush Kumar (EE)
-2. Yashwant Mahajan (EE)
-3. Faheem Nizar (EE)
-4. Ahmad Amaan (ME)
+4. Ayush Kumar (EE) [Sem. 2022-23-II]
+3. Yashwant Mahajan (EE) [Sem. 2022-23-II]
+2. Faheem Nizar (EE) [Sem. 2022-23-II]
+1. Ahmad Amaan (ME) [Sem. 2022-23-II]
 
 ## B. Tech./B.S.
-1. Paritosh Pankaj (Statistics and Data Science)
-2. Abhijeet Agarwal (EE)
-3. Danish Vasdev (EE)
-4. Soham Sen (Aerospace)
-5. Sai Praneeth Donthu (Mathematics and Computing)
-6. Anuj Singhal (CSE)
+6. Paritosh Pankaj (Statistics and Data Science)
+5. Abhijeet Agarwal (EE)
+4. Danish Vasdev (EE)
+3. Soham Sen (Aerospace)
+2. Sai Praneeth Donthu (Mathematics and Computing)
+1. Anuj Singhal (CSE)
 
