@@ -15,7 +15,7 @@ Soumya Dutta is an Assistant Professor in the <a href="https://www.cse.iitk.ac.i
 
 
 <p><strong>
-Dr. Dutta's current research interests include: (1) Machine/Deep Learning for Visual Computing, (2) Big Data Analytics & Visualization, (3) Statistical Techniques for Big Data, (4) Human-Computer Interaction (HCI) for Visualization, (5) High Performance Computing and Visualization, (6) Scientific and Information Visualization, and (7) In Situ Analysis.
+Dr. Dutta's current research interests include: (1) Machine/Deep Learning for Visual Computing and Image Analysis, (2) Uncertainty, Explainability, and Interpretability Analysis of Deep Learning Models (3) Big Data Analytics & Visualization (4) Human-Computer Interaction (HCI) for Visualization, (5) High Performance Computing and In Situ Analysis, and (6) Scientific and Information Visualization.
 </strong></p>
 
 <!-- <h2> ** Want to join our group? ** </h2>
