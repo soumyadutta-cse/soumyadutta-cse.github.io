@@ -26,12 +26,12 @@ author_profile: true
 ## International Program Committee (IPC) Member
 
 11. EG/VGTC Conference on Visualization (EuroVis 2023)
-10. IEEE Visualization Full Papers (2022)
+10. IEEE Visualization Full Papers (2022-23)
 9. IEEE Pacific Visualization (PacificVis 2021-23)
 8. EuroGraphics Symposium on Parallel Graphics and Visualization (EGPGV 2021-22)
 7. IEEE Symposium on Large Data Analysis and Visualization (LDAV 2019, 2021-22)
 6. Visualization in Environmental Sciences Workshop (EnvirVis 2019)
-5. IEEE Visualization Short Papers (2019-21)
+5. IEEE Visualization Short Papers (2019-21,2023)
 4. In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2019-22)
 3. International Symposium on Visual Computing (ISVC 2019-2022)
 2. International Workshop on Big Data Reduction (IEEE IWBDR 2020-21)
@@ -59,13 +59,13 @@ author_profile: true
 1. ACM In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV)
 
 
-## PhD Comprehensive and SOTA Examination Committee Member
+## PhD Comprehensive and SOTA Examination Committee Member (IITK)
 
 3. Chandan Prakash
 2. Joydeep Mondal
 1. Muzafar Wani
 
-## MTech Thesis Final Examination Committee Member
+## MTech Thesis Final Examination Committee Member (IITK)
 
 1. Ashankur Tripathi
 

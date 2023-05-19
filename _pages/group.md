@@ -20,7 +20,18 @@ author_profile: true
 2. Faheem Nizar (EE) [Sem. 2022-23-II]
 1. Ahmad Amaan (ME) [Sem. 2022-23-II]
 
+
+## SURGE Projects
+2. Narendra Singh (CSE) [Summer 2023]
+1. Soham Sen (Aerospace) [Summer 2023]
+
+
 ## B. Tech./B.S.
+11. Divyansh Verma (Mathematics)
+10. Tanmey Agarwal (Mathematics)
+9. Tejus Khandelwal (Mathematics)
+8. Shlok Mishra (Statistics and Data Science)
+7. Faheem Nizar (EE)
 6. Paritosh Pankaj (Statistics and Data Science)
 5. Abhijeet Agarwal (EE)
 4. Danish Vasdev (EE)
