@@ -29,7 +29,7 @@ author_profile: true
 10. IEEE Visualization Full Papers (2022-23)
 9. IEEE Pacific Visualization (PacificVis 2021-23)
 8. EuroGraphics Symposium on Parallel Graphics and Visualization (EGPGV 2021-22)
-7. IEEE Symposium on Large Data Analysis and Visualization (LDAV 2019, 2021-22)
+7. IEEE Symposium on Large Data Analysis and Visualization (LDAV 2019, 2021-23)
 6. Visualization in Environmental Sciences Workshop (EnvirVis 2019)
 5. IEEE Visualization Short Papers (2019-21,2023)
 4. In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2019-22)
