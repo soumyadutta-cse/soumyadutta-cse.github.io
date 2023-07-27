@@ -25,8 +25,9 @@ author_profile: true
 
 ## International Program Committee (IPC) Member
 
-11. EG/VGTC Conference on Visualization (EuroVis 2023)
-10. IEEE Visualization Full Papers (2022-23)
+12. EG/VGTC Conference on Visualization (EuroVis 2023)
+11. IEEE Visualization Full Papers (2022-23)
+10. International Conference on High Performance Computing, Data, and Analytics (HiPC 2023)
 9. IEEE Pacific Visualization (PacificVis 2021-23)
 8. EuroGraphics Symposium on Parallel Graphics and Visualization (EGPGV 2021-22)
 7. IEEE Symposium on Large Data Analysis and Visualization (LDAV 2019, 2021-23)
