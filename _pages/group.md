@@ -5,6 +5,9 @@ permalink: /group/
 author_profile: true
 ---
 
+## Ph.D.
+1. Shanu Saklani
+
 
 ## M. Tech.
 5. Drashtant Singh Rathod [2022-23]
