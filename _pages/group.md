@@ -18,6 +18,7 @@ author_profile: true
 
 
 ## UGP
+5. Rashmi G R [CSE] [Sem. 2023-24-I]
 4. Ayush Kumar (EE) [Sem. 2022-23-II]
 3. Yashwant Mahajan (EE) [Sem. 2022-23-II]
 2. Faheem Nizar (EE) [Sem. 2022-23-II]

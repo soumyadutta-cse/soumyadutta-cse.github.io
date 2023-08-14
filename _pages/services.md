@@ -28,7 +28,7 @@ author_profile: true
 12. EG/VGTC Conference on Visualization (EuroVis 2023)
 11. IEEE Visualization Full Papers (2022-23)
 10. International Conference on High Performance Computing, Data, and Analytics (HiPC 2023)
-9. IEEE Pacific Visualization (PacificVis 2021-23)
+9. IEEE Pacific Visualization (PacificVis 2021-23, 2024 (TVCG Track))
 8. EuroGraphics Symposium on Parallel Graphics and Visualization (EGPGV 2021-22)
 7. IEEE Symposium on Large Data Analysis and Visualization (LDAV 2019, 2021-23)
 6. Visualization in Environmental Sciences Workshop (EnvirVis 2019)
