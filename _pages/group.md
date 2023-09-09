@@ -5,41 +5,190 @@ permalink: /group/
 author_profile: true
 ---
 
-## Ph.D.
-1. Shanu Saklani
+<!-- Some help were taken from: https://www.w3schools.com/ -->
 
 
-## M. Tech.
-5. Drashtant Singh Rathod [2022-23]
-4. Komal Yadav [2022-23]
-3. Vivek Kumar Gautam [2022-23]
-2. Abhay Kumar Dwivedi [2022-23]
-1. Atul Kumar [2022-23]
+<style>
+
+img {
+  border-radius: 70%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 30%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+  margin: 8px;
+}
+
+.about-section {
+  padding: 10px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.container {
+  padding: 0 12px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+</style>
 
 
-## UGP
+<h2 style="text-align:left">Ph.D. Students</h2>
+
+<div class="row">
+
+<!-- phd student 1 -->
+  <div class="column">
+    <div class="card">
+      <center><img src="/images/shanu.png" alt="shanu" style="width:70%"></center>
+      <div class="container">
+        <br><b>Shanu Saklani</b>
+        <br><b>Ph.D. Student [2023-present]</b>
+        <!-- <br><b>Topic:</b>Efficeint and Interpretable Deep Learning Methods for Visual Computing of Big Data -->
+        <br><b>Email:</b>shanu@cse.iitk.ac.in
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+
+<h2 style="text-align:left">M.Tech. Students</h2>
+
+<div class="row">
+
+<!-- mtech student 1 -->
+  <div class="column">
+    <div class="card">
+      <center><img src="/images/dummy.jpg" alt="Jane" style="width:70%"></center>
+      <div class="container">
+        <br><b>Abhay Kumar Dwivedi</b>
+        <br><b>M.Tech. Student [2022-24]</b>
+        <!-- <br><b>Topic:</b> Implicit Neural Networks for Visual Analytics of Large Multivariate Data -->
+        <br><b>Email:</b>abhaykd@cse.iitk.ac.in
+      </div>
+    </div>
+  </div>
+
+<!-- mtech student 2 -->
+  <div class="column">
+    <div class="card">
+      <center><img src="/images/atul.png" alt="Jane" style="width:70%"></center>
+      <div class="container">
+        <br><b>Atul Kumar</b>
+        <br><b>M.Tech. Student [2022-24]</b>
+        <!-- <br><b>Topic:</b> Implicit Neural Networks for Visual Analytics of Large Vector Fields -->
+        <br><b>Email:</b>atulk@cse.iitk.ac.in
+      </div>
+    </div>
+  </div>
+
+ <!-- mtech student 3 -->
+  <div class="column">
+    <div class="card">
+      <center><img src="/images/dummy.jpg" alt="Jane" style="width:70%"></center>
+      <div class="container">
+        <br><b>Drashtant Singh Rathod</b>
+        <br><b>M.Tech. Student [2022-24]</b>
+        <!-- <br><b>Topic:</b> XAI + Visual Analytics for Comprehending Adversarial Attacks on Neural Networks -->
+        <br><b>Email:</b>drashtant@cse.iitk.ac.in
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+<div class="row">
+
+<!-- mtech student 4 -->
+  <div class="column">
+    <div class="card">
+      <center><img src="/images/dummy.jpg" alt="Jane" style="width:70%"></center>
+      <div class="container">
+        <br><b>Komal Yadav</b>
+        <br><b>M.Tech. Student [2022-24]</b>
+        <!-- <br><b>Topic:</b> Deep Learning Assisted Compresssive Modeling of Large Scientific Data -->
+        <br><b>Email:</b>komaly22@iitk.ac.in
+      </div>
+    </div>
+  </div>
+
+<!-- mtech student 5 -->
+  <div class="column">
+    <div class="card">
+      <center><img src="/images/dummy.jpg" alt="Jane" style="width:70%"></center>
+      <div class="container">
+        <br><b>Vivek Kumar Gautam</b>
+        <br><b>M.Tech. Student [2022-24]</b>
+        <!-- <br><b>Topic:</b> ML for Visual Computing of Big Data -->
+        <br><b>Email:</b>vivekg@cse.iitk.ac.in
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+<h2 style="text-align:left">UGP Students</h2>
+
 5. Rashmi G R [CSE] [Sem. 2023-24-I]
 4. Ayush Kumar (EE) [Sem. 2022-23-II]
 3. Yashwant Mahajan (EE) [Sem. 2022-23-II]
 2. Faheem Nizar (EE) [Sem. 2022-23-II]
 1. Ahmad Amaan (ME) [Sem. 2022-23-II]
 
+<h2 style="text-align:left">SURGE Students</h2>
 
-## SURGE Projects
 2. Narendra Singh (CSE) [Summer 2023]
 1. Soham Sen (Aerospace) [Summer 2023]
 
 
-## B. Tech./B.S.
-11. Divyansh Verma (Mathematics)
-10. Tanmey Agarwal (Mathematics)
-9. Tejus Khandelwal (Mathematics)
-8. Shlok Mishra (Statistics and Data Science)
-7. Faheem Nizar (EE)
-6. Paritosh Pankaj (Statistics and Data Science)
-5. Abhijeet Agarwal (EE)
-4. Danish Vasdev (EE)
-3. Soham Sen (Aerospace)
-2. Sai Praneeth Donthu (Mathematics and Computing)
-1. Anuj Singhal (CSE)
+<h2 style="text-align:left">B. Tech./B.S. Students</h2>
+
+7. Divyansh Verma (Mathematics)
+6. Tanmey Agarwal (Mathematics)
+5. Tejus Khandelwal (Mathematics)
+4. Shlok Mishra (Statistics and Data Science)
+3. Faheem Nizar (EE)
+2. Paritosh Pankaj (Statistics and Data Science)
+1. Abhijeet Agarwal (EE)
+
 
