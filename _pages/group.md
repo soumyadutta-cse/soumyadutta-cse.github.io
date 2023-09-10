@@ -78,7 +78,7 @@ html {
     <div class="card">
       <center><img src="/images/shanu.png" alt="shanu" style="width:70%"></center>
       <div class="container">
-        <br><b>Shanu Saklani</b>
+		<br><a href="https://www.linkedin.com/in/shanu-saklani-10b97b171">Shanu Saklani</a>
         <br><b>Ph.D. Student [2023-present]</b>
         <!-- <br><b>Topic:</b>Efficeint and Interpretable Deep Learning Methods for Visual Computing of Big Data -->
         <br><b>Email:</b>shanu@cse.iitk.ac.in
@@ -97,9 +97,9 @@ html {
 <!-- mtech student 1 -->
   <div class="column">
     <div class="card">
-      <center><img src="/images/dummy.jpg" alt="Jane" style="width:70%"></center>
+      <center><img src="/images/abhay.png" alt="abhay" style="width:70%"></center>
       <div class="container">
-        <br><b>Abhay Kumar Dwivedi</b>
+        <br><a href=" https://www.linkedin.com/in/abhaykdwivedi/">Abhay Kumar Dwivedi</a>
         <br><b>M.Tech. Student [2022-24]</b>
         <!-- <br><b>Topic:</b> Implicit Neural Networks for Visual Analytics of Large Multivariate Data -->
         <br><b>Email:</b>abhaykd@cse.iitk.ac.in
@@ -110,9 +110,9 @@ html {
 <!-- mtech student 2 -->
   <div class="column">
     <div class="card">
-      <center><img src="/images/atul.png" alt="Jane" style="width:70%"></center>
+      <center><img src="/images/atul.png" alt="atul" style="width:62%"></center>
       <div class="container">
-        <br><b>Atul Kumar</b>
+        <br><a href="https://www.linkedin.com/in/atulky/">Atul Kumar</a>
         <br><b>M.Tech. Student [2022-24]</b>
         <!-- <br><b>Topic:</b> Implicit Neural Networks for Visual Analytics of Large Vector Fields -->
         <br><b>Email:</b>atulk@cse.iitk.ac.in
@@ -123,7 +123,7 @@ html {
  <!-- mtech student 3 -->
   <div class="column">
     <div class="card">
-      <center><img src="/images/dummy.jpg" alt="Jane" style="width:70%"></center>
+      <center><img src="/images/dummy.jpg" alt="drashtant" style="width:65%"></center>
       <div class="container">
         <br><b>Drashtant Singh Rathod</b>
         <br><b>M.Tech. Student [2022-24]</b>
@@ -141,9 +141,9 @@ html {
 <!-- mtech student 4 -->
   <div class="column">
     <div class="card">
-      <center><img src="/images/dummy.jpg" alt="Jane" style="width:70%"></center>
+      <center><img src="/images/komal.png" alt="komal" style="width:70%"></center>
       <div class="container">
-        <br><b>Komal Yadav</b>
+        <br><a href="https://www.linkedin.com/in/komalyadaviit/">Komal Yadav</a>
         <br><b>M.Tech. Student [2022-24]</b>
         <!-- <br><b>Topic:</b> Deep Learning Assisted Compresssive Modeling of Large Scientific Data -->
         <br><b>Email:</b>komaly22@iitk.ac.in
@@ -154,7 +154,7 @@ html {
 <!-- mtech student 5 -->
   <div class="column">
     <div class="card">
-      <center><img src="/images/dummy.jpg" alt="Jane" style="width:70%"></center>
+      <center><img src="/images/dummy.jpg" alt="vivek" style="width:70%"></center>
       <div class="container">
         <br><b>Vivek Kumar Gautam</b>
         <br><b>M.Tech. Student [2022-24]</b>
