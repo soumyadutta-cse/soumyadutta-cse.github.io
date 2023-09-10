@@ -34,10 +34,9 @@ html {
   padding: 0 8px;
 }
 
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
-  margin: 8px;
-}
+/*.card {
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+}*/
 
 .about-section {
   padding: 10px;
@@ -78,7 +77,7 @@ html {
     <div class="card">
       <center><img src="/images/shanu.png" alt="shanu" style="width:70%"></center>
       <div class="container">
-		<br><a href="https://www.linkedin.com/in/shanu-saklani-10b97b171">Shanu Saklani</a>
+		<br><b><a href="https://www.linkedin.com/in/shanu-saklani-10b97b171">Shanu Saklani</a></b>
         <br><b>Ph.D. Student [2023-present]</b>
         <!-- <br><b>Topic:</b>Efficeint and Interpretable Deep Learning Methods for Visual Computing of Big Data -->
         <br><b>Email:</b>shanu@cse.iitk.ac.in
@@ -99,7 +98,7 @@ html {
     <div class="card">
       <center><img src="/images/abhay.png" alt="abhay" style="width:70%"></center>
       <div class="container">
-        <br><a href=" https://www.linkedin.com/in/abhaykdwivedi/">Abhay Kumar Dwivedi</a>
+        <br><b><a href=" https://www.linkedin.com/in/abhaykdwivedi/">Abhay Kumar Dwivedi</a></b>
         <br><b>M.Tech. Student [2022-24]</b>
         <!-- <br><b>Topic:</b> Implicit Neural Networks for Visual Analytics of Large Multivariate Data -->
         <br><b>Email:</b>abhaykd@cse.iitk.ac.in
@@ -112,7 +111,7 @@ html {
     <div class="card">
       <center><img src="/images/atul.png" alt="atul" style="width:62%"></center>
       <div class="container">
-        <br><a href="https://www.linkedin.com/in/atulky/">Atul Kumar</a>
+        <br><b><a href="https://www.linkedin.com/in/atulky/">Atul Kumar</a></b>
         <br><b>M.Tech. Student [2022-24]</b>
         <!-- <br><b>Topic:</b> Implicit Neural Networks for Visual Analytics of Large Vector Fields -->
         <br><b>Email:</b>atulk@cse.iitk.ac.in
@@ -143,7 +142,7 @@ html {
     <div class="card">
       <center><img src="/images/komal.png" alt="komal" style="width:70%"></center>
       <div class="container">
-        <br><a href="https://www.linkedin.com/in/komalyadaviit/">Komal Yadav</a>
+        <br><b><a href="https://www.linkedin.com/in/komalyadaviit/">Komal Yadav</a></b>
         <br><b>M.Tech. Student [2022-24]</b>
         <!-- <br><b>Topic:</b> Deep Learning Assisted Compresssive Modeling of Large Scientific Data -->
         <br><b>Email:</b>komaly22@iitk.ac.in
