@@ -40,7 +40,7 @@ td {
   </div>
   <div class="gifcol">
     <img src="/gifs/opengl_shader.gif"  style="width:300px;height:300px;">
-    <b>OpenGL Shader Programming:</b> The image sequence shows 3D computer graphics renderings generated using OpenGL and GLSL shader programming. Using OpenGL interactive 2D/3D graphics programming can be done in GPUs, utilizing hardware acceleration. 
+    <b>OpenGL/WebGL Shader Programming:</b> The image sequence shows 3D computer graphics renderings generated using OpenGL and GLSL shader programming. Using OpenGL interactive 2D/3D graphics programming can be done in GPUs, utilizing hardware acceleration. 
   </div>
   <div class="gifcol">
     <img src="/gifs/geom_modeling.gif"  style="width:300px;height:300px;">
