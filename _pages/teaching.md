@@ -88,7 +88,7 @@ Effective analysis and visualization of large-scale data can help users to compr
     1.  Data Visualization: Principles and Practice by Alexandru C. Telea, CRC Press.<br>
     2.  Visualization Analysis and Design by Tamara Munzner, A K Peters Visualization Series, CRC Press.<br>
     3.  The Visualization Handbook edited by Charles D. Hansen and Chris R. Johnson.<br>
-    4.  Research papers and other study materials provided during the class to cover selected topics.<br>
+    4.  Research papers, articels, and other study materials provided during the class to cover selected topics.<br>
 </p>	
 
 </details>
