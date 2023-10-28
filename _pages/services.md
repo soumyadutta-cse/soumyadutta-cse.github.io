@@ -62,6 +62,7 @@ author_profile: true
 
 ## PhD Comprehensive and SOTA Examination Committee Member (IITK)
 
+4. Sarbajit Ghosh
 3. Chandan Prakash
 2. Joydeep Mondal
 1. Muzafar Wani
