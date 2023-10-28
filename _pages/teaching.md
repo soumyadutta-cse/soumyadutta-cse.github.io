@@ -78,8 +78,17 @@ Effective analysis and visualization of large-scale data can help users to compr
 	The contents for this course will be based on a few books and research papers from top-tier journals and conferences such as IEEE TVCG, CGF, ACM CHI, IEEE/ACM Supercomputing, IEEE Visualization, EuroVis and EuroGraphics, IEEE Pacific Visualization, IEEE LDAV, EGPGV, etc.
 </p>
 
-<p>
-	For more details <a href="https://www.cse.iitk.ac.in/pages/CS661.html">click here.</a>
+<p> 
+    <h3>(Tentative) Course Contents:</h3> 
+    <img style="width:700px" src="/images/CS661_course_contents.png"/>
+</p>
+
+<p> 
+    <h3>Books, References, and Resources:</h3> 
+    1.  Data Visualization: Principles and Practice by Alexandru C. Telea, CRC Press.<br>
+    2.  Visualization Analysis and Design by Tamara Munzner, A K Peters Visualization Series, CRC Press.<br>
+    3.  The Visualization Handbook edited by Charles D. Hansen and Chris R. Johnson.<br>
+    4.  Research papers and other study materials provided during the class to cover selected topics.<br>
 </p>	
 
 </details>
