@@ -6,7 +6,25 @@ author_profile: true
 ---
 
 
-## Semester 2023-24-I: 
+## <span style="color:red"> Upcoming Semester: 2023-24-II: </span>
+
+## CS661 - Big Data Visual Analytics
+
+<p>
+    <h3>Prerequisites:</h3> 
+    Basics of Linear Algebra, Statistics, and Probability theory will be beneficial but not mandatory, knowledge in Programming (C/C++, Python)
+</p>
+
+<p>
+    <h3>Course Description (Tentative):</h3> 
+    The necessity of visual analytics capabilities for big data is becoming omnipresent due to its significant demand in the current age of data science and analytics. Interactive data visualization techniques enable us to comprehend and explore diverse types of complex data sets efficiently so that patterns and features from the data can be readily identified and studied in detail. As the data grows larger and becomes intricate, it poses significant challenges to manage, curate, and explore such large data sets in a scalable manner. These data sets can come from various scientific simulations as well as from social media, IoT, various sensors, and many other industry and application domains. In this course, we will cover a comprehensive view of data visualization techniques with a specific focus on the techniques that are applicable to big data. We will discuss the theory and foundations of visualization techniques and have hands-on exercises on visualizing different types of data sets using available visualization software and libraries. We will study scientific and information visualization techniques with a focus on data compression, statistical and information theory techniques, and selected high-performance visualization algorithms. Next, we will discuss how modern machine learning and deep learning techniques are adapted for big data visual analytics. Finally, we will learn about exascale visual computing and state-of-the-art in situ analysis techniques and conclude by discussing the future paradigms of the big data visual analytics domain. The contents for this course will be based on a few books and research papers from top-tier journals and conferences such as IEEE TVCG, CGF, ACM CHI, IEEE/ACM Supercomputing, IEEE Visualization, EuroVis and EuroGraphics, IEEE Pacific Visualization, IEEE LDAV, EGPGV, etc.
+</p>
+
+For more details and  list of topics that were covered in earlier offering of this course, please check the past course section at the bottom of this page.  
+
+
+
+## <span style="color:red"> Current Semester: 2023-24-I: </span>
 
 ## Course 1. CS360A - Introduction to Computer Graphics
 
@@ -38,13 +56,11 @@ This course is jointly offered with Prof. Preeti Malakar.
 ### Prerequisites: 
 Instructor’s consent
 
-
 ### Course Objective:
 Effective analysis and visualization of large-scale data can help users to comprehend the salient patterns and features in their data quickly. Modern high-resolution scientific simulations produce gigabytes to terabytes of data. Contemporary petaflop machines result in orders of magnitude higher data production rate as compared to data consumption rate. The data generation rate will soon reach exascale. To deal with extreme-scale data, the high performance computing and visualization community has been developing novel scalable data analysis and visualization algorithms. As part of this course, we will study research papers that demonstrate big data analysis and visualization techniques from the last decade or so. This course will also focus on state-of-the-art parallel and high performance data visualization techniques. The contents of this course will be based on research papers from top-tier journals and conferences such as IEEE TVCG, CGF, IEEE/ACM Supercomputing, IEEE Visualization, IEEE TPDS, IJHPCA, IEEE LDAV, EGPGV, EuroVis and EuroGraphics, IEEE Pacific Visualization, etc.
 
 ### (Tentative) Course Contents:
 <img style="width:500px" src="/images/CS677_course_contents.png"/>
-
 
 ### Books, References, and Resources:
 
@@ -55,9 +71,7 @@ Effective analysis and visualization of large-scale data can help users to compr
 5. Information Theory Tools for Visualization By Min Chen, Miquel Feixas, Ivan Viola, Anton Bardera, Han-Wei Shen, Mateu Sbert, by A K Peters/CRC Press, 2017.
 
 
-
-
-## Past Courses:
+## <span style="color:red"> Past Courses: </span>
 
 ### Semester 2022-23-II: CS661A - Big Data Visual Analytics
 
