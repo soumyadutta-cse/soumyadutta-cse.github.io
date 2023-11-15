@@ -19,9 +19,10 @@ title: ""
 
 <!-- <h2> Want to join our group? </h2> -->
 
+
 <p>
 <span style="color:Chocolate"><b>
-** We are always looking for motivated students with excellent programming skills. To know more about the open positions in our group, please <a href='../openings'>click here</a> or check the Openings page for more details. Currently, we do not have openings for B.Tech. students. If new positions open up, this will be updated accordingly.</b> **
+** We are looking for motivated students (Ph.D., M.S., M.Tech.) with excellent programming skills to work with us. To know more about the open positions in our group, please <a href='../openings'>click here</a> or check the Openings page for more details. Currently, we do not have openings for B.Tech. students. If new positions open up, this will be updated accordingly.</b> **
 </span>
 </p>
 
@@ -33,6 +34,20 @@ Welcome to the <u><b>V</b>isualization and <b>D</b>ata <b>S</b>cience (VDS) Grou
 <p>To achieve our goal, we build data science and machine (deep) learning-based solutions to analyze extreme-scale multifaceted data in a scalable way, enabling interactive and interpretable analytics of the large-scale complex data. We are focused on developing and analyzing technqiues that make complex machine learning models more interpretable and explainable so that they can be trusted and adopted in real-life applications effectviely. Our research seeks to address various characteristics of the big data, including its fundamental 5 Vs: <b>Volume, Velocity, Variety, Veracity, and Value</b>. We study extreme-scale data from scientific simulations using modern high performance computing and machine learning capabilities to advance research in various domains such as climate modeling and weather forecasting, chemical reactor design, combustion science, computational fluid dynamics, etc. We are also actively focused on building scalable and novel interactive visual analytics systems to analyze diverse types of data generated via social media, IoT, various sensors, engineering design, healthcare, and many other industry applications. </p></div>
 
 
+<h3> Research Grants: </h3>
+<b>1. Project Title: Enabling Interactive Big Data Analytics and Visualization at Exascale via In Situ Efficient Statistical Data Modeling </b><br>
+PI: Soumya Dutta<br>
+Duration: 2 years <br>
+Funding Amount: ~ INR 30.00 Lakh <br>
+Funding Agency: SERB, DST, Government of India<br>
+Status: Project approved, funds awaited <br>
+
+<b>2. Project Title: DAVi: An Intelligent Data Analytics and Visualization Framework </b><br>
+PI: Soumya Dutta, Co-PI: Purushottam Kar<br>
+Duration: 2 years <br>
+Funding Amount: ~ INR 30.00 Lakh <br>
+Funding Agency: ISRO<br>
+Status: Project approved, funds awaited <br>
 
 <!-- ## 1. Visual Analytics of Extreme-scale Data
 ## 2. Machine Learning for Visual Computing -->
