@@ -68,6 +68,14 @@ html {
 </style>
 
 
+<p>
+<span style="color:darkblue;"><b>
+** We are looking for motivated students (Ph.D., M.S., M.Tech.) with excellent programming skills to join our group to work on exciting problems at the intersection of machine (deep) learning, visual computing, and big data science. **</b>
+</span>
+</p>
+
+
+
 <h2 style="text-align:left">Ph.D. Students</h2>
 
 <div class="row">
@@ -79,7 +87,7 @@ html {
       <div class="container">
 		<br><b><a href="https://www.linkedin.com/in/shanu-saklani-10b97b171">Shanu Saklani</a></b>
         <br><b>Ph.D. Student [2023-present]</b>
-        <!-- <br><b>Topic:</b>Efficeint and Interpretable Deep Learning Methods for Visual Computing of Big Data -->
+        <br><b>Topic:</b>Efficeint and Interpretable Deep Learning Methods for Visual Computing of Big Data
         <br><b>Email:</b>shanu@cse.iitk.ac.in
       </div>
     </div>
@@ -100,7 +108,7 @@ html {
       <div class="container">
         <br><b><a href=" https://www.linkedin.com/in/abhaykdwivedi/">Abhay Kumar Dwivedi</a></b>
         <br><b>M.Tech. Student [2022-24]</b>
-        <!-- <br><b>Topic:</b> Implicit Neural Networks for Visual Analytics of Large Multivariate Data -->
+        <br><b>Topic:</b> Implicit Neural Networks for Visual Analytics of Large Multivariate Data
         <br><b>Email:</b>abhaykd@cse.iitk.ac.in
       </div>
     </div>
@@ -113,7 +121,7 @@ html {
       <div class="container">
         <br><b><a href="https://www.linkedin.com/in/atulky/">Atul Kumar</a></b>
         <br><b>M.Tech. Student [2022-24]</b>
-        <!-- <br><b>Topic:</b> Implicit Neural Networks for Visual Analytics of Large Vector Fields -->
+        <br><b>Topic:</b> Implicit Neural Networks for Visual Analytics of Large Vector Fields
         <br><b>Email:</b>atulk@cse.iitk.ac.in
       </div>
     </div>
@@ -126,7 +134,7 @@ html {
       <div class="container">
         <br><b>Drashtant Singh Rathod</b>
         <br><b>M.Tech. Student [2022-24]</b>
-        <!-- <br><b>Topic:</b> XAI + Visual Analytics for Comprehending Adversarial Attacks on Neural Networks -->
+        <br><b>Topic:</b> XAI + Visual Analytics for Comprehending Adversarial Attacks on Neural Networks
         <br><b>Email:</b>drashtant@cse.iitk.ac.in
       </div>
     </div>
@@ -144,7 +152,7 @@ html {
       <div class="container">
         <br><b><a href="https://www.linkedin.com/in/komalyadaviit/">Komal Yadav</a></b>
         <br><b>M.Tech. Student [2022-24]</b>
-        <!-- <br><b>Topic:</b> Deep Learning Assisted Compresssive Modeling of Large Scientific Data -->
+        <br><b>Topic:</b> Impact of Adaptive Sampling for Building Comprerssive Neural Representations of Large Scientific Data
         <br><b>Email:</b>komaly22@iitk.ac.in
       </div>
     </div>
@@ -157,7 +165,7 @@ html {
       <div class="container">
         <br><b>Vivek Kumar Gautam</b>
         <br><b>M.Tech. Student [2022-24]</b>
-        <!-- <br><b>Topic:</b> ML for Visual Computing of Big Data -->
+        <br><b>Topic:</b> Efficient Image Synthesis of Large Data using Deep Active Learning
         <br><b>Email:</b>vivekg@cse.iitk.ac.in
       </div>
     </div>
@@ -168,16 +176,26 @@ html {
 
 <h2 style="text-align:left">UGP Students</h2>
 
-5. Rashmi G R [CSE] [Sem. 2023-24-I]
-4. Ayush Kumar (EE) [Sem. 2022-23-II]
-3. Yashwant Mahajan (EE) [Sem. 2022-23-II]
-2. Faheem Nizar (EE) [Sem. 2022-23-II]
-1. Ahmad Amaan (ME) [Sem. 2022-23-II]
+5. Rashmi G R [CSE] [Sem. 2023-24-I]<br>
+    Project Title: Frailty Data Analysis and Visualization
+4. Ayush Kumar (EE) [Sem. 2022-23-II]<br>
+    Project Title: Visualizing Impact of Uncertainty and Adversarial Attack on Deep Classifier Models
+3. Yashwant Mahajan (EE) [Sem. 2022-23-II]<br>
+    Project Title: Visualizing Impact of Uncertainty and Adversarial Attack on Deep Classifier Models
+2. Faheem Nizar (EE) [Sem. 2022-23-II]<br>
+    Project Title: Exploring Uncertainty in Deep Learning Models using Interactive Visual Analytics
+1. Ahmad Amaan (ME) [Sem. 2022-23-II]<br>
+    Project Title: Estimation and Visual Analytics of Uncertainty in Deep Image Synthesizing Models
 
 <h2 style="text-align:left">SURGE Students</h2>
 
-2. Narendra Singh (CSE) [Summer 2023]
-1. Soham Sen (Aerospace) [Summer 2023]
+2. Narendra Singh (CSE) [Summer 2023]<br>
+    Project Title: Visualizing Convolutional Neural Networks for Explainability and Interpretability
+1. Soham Sen (AE) [Summer 2023]<br>
+    Project Title: Visualizing Convolutional Neural Networks: Explainability and Interpretability
+    <ul>
+      <li><span style="color:blue;">Best Project in Engineering Award</span>
+      <li><span style="color:blue;">Dr. Elizabeth and Dr. Verkey Cherian Award for Best Project</span>
 
 
 <h2 style="text-align:left">B. Tech./B.S. Students</h2>
