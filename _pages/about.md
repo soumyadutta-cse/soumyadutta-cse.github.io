@@ -15,7 +15,7 @@ Soumya Dutta is an Assistant Professor in the <a href="https://www.cse.iitk.ac.i
 
 
 <p><strong>
-Dr. Dutta's current research interests include: (1) Machine/Deep Learning for Visual Computing and Image Analysis, (2) Uncertainty, Explainability, and Interpretability Analysis of Deep Learning Models (3) Big Data Analytics & Visualization (4) Human-Computer Interaction (HCI) for Visualization, (5) High Performance Computing and In Situ Analysis, and (6) Scientific and Information Visualization.
+Dr. Dutta's current research interests include: (1) Machine/Deep Learning for Visual Computing and Image Analysis, (2) Uncertainty, Explainability, and Interpretability Analysis of Deep Learning Models (3) Big Data Analytics & Visualization, (4) High Performance Computing and In Situ Analysis, and (5) Scientific and Information Visualization.
 </strong></p>
 
 <!-- <h2> ** Want to join our group? ** </h2>
@@ -30,7 +30,7 @@ There are a few positions (currently no positions for B.Tech. students) availabl
 
 <p>
 <span style="color:Chocolate">
-There are a few open positions for PhD/MS students to conduct exciting reserach on Machine learning and Deep learning with applications in visual computing, data analysis and visualization, and HPC. If you want to pursue your thesis with me, please email me at 'soumyad [at] cse [dot] iitk [dot] ac [dot] in' or meet me in my office @KD-224. <b>Please  <a href='../openings'>click here</a> or check the Openings page for more details.</b>
+There are open positions for PhD/MS students to conduct exciting reserach on Machine learning and Deep learning with applications in visual computing, image analysis, data analysis and visualization. If you want to pursue your thesis with me, please email me at 'soumyad [at] cse [dot] iitk [dot] ac [dot] in' or meet me in my office @KD-224. <b>Please  <a href='../openings'>click here</a> or check the Openings page for more details.</b>
 </span>
 </p>
 

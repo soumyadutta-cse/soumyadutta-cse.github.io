@@ -70,7 +70,7 @@ html {
 
 <p>
 <span style="color:darkblue;"><b>
-** We are looking for motivated students (Ph.D., M.S., M.Tech.) with excellent programming skills to join our group to work on exciting problems at the intersection of machine (deep) learning, visual computing, and big data science. **</b>
+** We are looking for motivated students (Ph.D., M.S., M.Tech.) with excellent programming skills to join our group to work on exciting problems at the intersection of machine (deep) learning, visual computing, image analysis, and big data science. **</b>
 </span>
 </p>
 

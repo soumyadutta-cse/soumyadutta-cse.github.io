@@ -4,7 +4,7 @@ title: ""
 ---
 
 
-<h1 style="text-align:center"> Visualization and Data Science (VDS) Group </h1>
+<h1 style="text-align:center"> Visual Computing and Visualization Group </h1>
 
 <div class="box"><p>
 <img class="map" src="/images/collage.png" width="100%;" align="left" style="margin: 0px 0px 0px 0px;"/>
@@ -22,16 +22,16 @@ title: ""
 
 <p>
 <span style="color:Chocolate"><b>
-** We are looking for motivated students (Ph.D., M.S., M.Tech.) with excellent programming skills to work with us. To know more about the open positions in our group, please <a href='../openings'>click here</a> or check the Openings page for more details. Currently, we do not have openings for B.Tech. students. If new positions open up, this will be updated accordingly.</b> **
+** We are looking for motivated students (Ph.D., M.S., M.Tech.) with excellent programming skills to join us and conduct exciting research on Machine/Deep Learning with applications in Visual Computing, Visualization, and Data Science. To know more about the open positions in our group, please <a href='../openings'>click here</a> or check the Openings page for more details. Currently, we do not have openings for B.Tech. students. If new positions open up, this will be updated accordingly.</b> **
 </span>
 </p>
 
 
 
 <p>
-Welcome to the <u><b>V</b>isualization and <b>D</b>ata <b>S</b>cience (VDS) Group</u> at the <a href="https://www.iitk.ac.in">Indian Institute of Technology, Kanpur (IITK)</a>. We are part of the <a href="https://www.cse.iitk.ac.in/">Department of Computer Science and Engineering</a>. Our research lies at the unique intersection of <b>data science, machine (deep) learning, visualization, visual computing, big data analytics, and high-performance computing</b>. We develop state-of-the-art data analytics, machine learning, and visualization techniques to accelerate data-driven discoveries in diverse application domains. Summarizing, extracting, and comprehending the crux from the vast seas of data and representing them visually and interactively in an interpretable manner is the broad-scale focus of our research.</p>
+Welcome to the <u>Visual Computing and Visualization Group</u> at the <a href="https://www.iitk.ac.in">Indian Institute of Technology, Kanpur (IITK)</a>. We are part of the <a href="https://www.cse.iitk.ac.in/">Department of Computer Science and Engineering</a>. Our research lies at the unique intersection of <b>machine/deep learning, visual computing, visualization, big data, and high-performance computing</b>. We develop state-of-the-art data analytics, machine learning, and visualization techniques to accelerate data-driven discoveries in diverse application domains. Summarizing, extracting, and comprehending the crux from the vast seas of data and representing them visually and interactively in an interpretable manner is the broad-scale focus of our research.</p>
 
-<p>To achieve our goal, we build data science and machine (deep) learning-based solutions to analyze extreme-scale multifaceted data in a scalable way, enabling interactive and interpretable analytics of the large-scale complex data. We are focused on developing and analyzing technqiues that make complex machine learning models more interpretable and explainable so that they can be trusted and adopted in real-life applications effectviely. Our research seeks to address various characteristics of the big data, including its fundamental 5 Vs: <b>Volume, Velocity, Variety, Veracity, and Value</b>. We study extreme-scale data from scientific simulations using modern high performance computing and machine learning capabilities to advance research in various domains such as climate modeling and weather forecasting, chemical reactor design, combustion science, computational fluid dynamics, etc. We are also actively focused on building scalable and novel interactive visual analytics systems to analyze diverse types of data generated via social media, IoT, various sensors, engineering design, healthcare, and many other industry applications. </p></div>
+<p>To achieve our goal, we build data science and machine (deep) learning-based solutions to analyze large-scale multifaceted data in a scalable way, enabling interactive and interpretable analytics of complex data. We are also focused on developing techniques that make complex machine learning models more interpretable and explainable so that they can be trusted and effectively adopted in real-life applications. Our research addresses various big data characteristics, including its fundamental 5 Vs: <b>Volume, Velocity, Variety, Veracity, and Value</b>. We study extreme-scale data from scientific domains using machine learning and modern high-performance computing capabilities to advance research in various domains. We are also actively focused on building scalable and novel interactive visual analytics systems to analyze diverse data generated via social media, IoT, various sensors, engineering design, healthcare, and many other industry applications.</p></div>
 
 
 <h3> Research Grants: </h3>
