@@ -195,7 +195,7 @@ html {
     Project Title: Visualizing Convolutional Neural Networks: Explainability and Interpretability
     <ul>
       <li><span style="color:blue;">Best Project in Engineering Award</span>
-      <li><span style="color:blue;">Dr. Elizabeth and Dr. Verkey Cherian Award for Best Project</span>
+      <li><span style="color:blue;">Dr. Elizabeth and Dr. Varkey Cherian Award for Best Project</span>
 
 
 <h2 style="text-align:left">B. Tech./B.S. Students</h2>
