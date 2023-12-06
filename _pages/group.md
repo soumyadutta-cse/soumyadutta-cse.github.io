@@ -88,7 +88,7 @@ html {
 		<br><b><a href="https://www.linkedin.com/in/shanu-saklani-10b97b171">Shanu Saklani</a></b>
         <br><b>Ph.D. Student [2023-present]</b>
         <br><b>Topic:</b>Efficeint and Interpretable Deep Learning Methods for Visual Computing of Big Data
-        <br><b>Email:</b>shanu@cse.iitk.ac.in
+        <br><b>Email:</b>shanu [at] cse.iitk.ac.in
       </div>
     </div>
   </div>
@@ -109,7 +109,7 @@ html {
         <br><b><a href=" https://www.linkedin.com/in/abhaykdwivedi/">Abhay Kumar Dwivedi</a></b>
         <br><b>M.Tech. Student [2022-24]</b>
         <br><b>Topic:</b> Implicit Neural Networks for Visual Analytics of Large Multivariate Data
-        <br><b>Email:</b>abhaykd@cse.iitk.ac.in
+        <br><b>Email:</b>abhaykd [at] cse.iitk.ac.in
       </div>
     </div>
   </div>
@@ -122,7 +122,7 @@ html {
         <br><b><a href="https://www.linkedin.com/in/atulky/">Atul Kumar</a></b>
         <br><b>M.Tech. Student [2022-24]</b>
         <br><b>Topic:</b> Implicit Neural Networks for Visual Analytics of Large Vector Fields
-        <br><b>Email:</b>atulk@cse.iitk.ac.in
+        <br><b>Email:</b>atulk [at] cse.iitk.ac.in
       </div>
     </div>
   </div>
@@ -135,7 +135,7 @@ html {
         <br><b>Drashtant Singh Rathod</b>
         <br><b>M.Tech. Student [2022-24]</b>
         <br><b>Topic:</b> XAI + Visual Analytics for Comprehending Adversarial Attacks on Neural Networks
-        <br><b>Email:</b>drashtant@cse.iitk.ac.in
+        <br><b>Email:</b>drashtant [at] cse.iitk.ac.in
       </div>
     </div>
   </div>
@@ -153,7 +153,7 @@ html {
         <br><b><a href="https://www.linkedin.com/in/komalyadaviit/">Komal Yadav</a></b>
         <br><b>M.Tech. Student [2022-24]</b>
         <br><b>Topic:</b> Impact of Adaptive Sampling for Building Comprerssive Neural Representations of Large Scientific Data
-        <br><b>Email:</b>komaly22@iitk.ac.in
+        <br><b>Email:</b>komaly22 [at] iitk.ac.in
       </div>
     </div>
   </div>
@@ -166,7 +166,7 @@ html {
         <br><b>Vivek Kumar Gautam</b>
         <br><b>M.Tech. Student [2022-24]</b>
         <br><b>Topic:</b> Efficient Image Synthesis of Large Data using Deep Active Learning
-        <br><b>Email:</b>vivekg@cse.iitk.ac.in
+        <br><b>Email:</b>vivekg [at] cse.iitk.ac.in
       </div>
     </div>
   </div>
