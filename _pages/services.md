@@ -9,8 +9,8 @@ author_profile: true
 
 15. Proposal Reviewer: Invited to review research proposal for [German Research Foundation](https://www.dfg.de/en/): Deutsche Forschungsgemeinschaft (DFG) (2023)
 14. Best Paper Committee: In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization ([ISAV 2023](https://isav-workshop.github.io/2023/))
-13. Posters Co-chair: IEEE Symposium on Large Data Analysis and Visualization (LDAV 2023)
-12. Co-chair: IEEE Visualization Fast Forward and Video Previews (2023)
+13. Posters Co-chair: IEEE Symposium on Large Data Analysis and Visualization (LDAV 2023-24)
+12. Co-chair: IEEE Visualization Fast Forward and Video Previews (2023-24)
 11. Co-chair: [Visualization in Environmental Sciences](https://www.informatik.uni-leipzig.de/bsv/envirvis2022/) (EnvirVis 2020-Present) (Co-located with EuroVis) 
 10. Co-chair: [IEEE Visualization Application Spotlights](http://ieeevis.org/year/2022/info/call-participation/application-spotlights) (2021-22)
 9. Co-chair: [IEEE Visualization Open Practices](http://ieeevis.org/year/2022/info/open-practices/open-practices) (2019-20)
