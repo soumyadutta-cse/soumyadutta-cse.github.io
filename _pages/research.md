@@ -34,15 +34,15 @@ Welcome to the <u><b>V</b>isual Computing and <b>D</b>ata <b>S</b>cience (<b>VDS
 <p>To achieve our goal, we build data science and machine (deep) learning-based solutions to analyze large-scale multifaceted data in a scalable way, enabling interactive and interpretable analytics of complex data. We are also focused on developing techniques that make complex machine learning models more interpretable and explainable so that they can be trusted and effectively adopted in real-life applications. Our research addresses various big data characteristics, including its fundamental 5 Vs: <b>Volume, Velocity, Variety, Veracity, and Value</b>. We study extreme-scale data from scientific domains using machine learning and modern high-performance computing capabilities to advance research in various domains. We are also actively focused on building scalable and novel interactive visual analytics systems to analyze diverse data generated via social media, IoT, various sensors, engineering design, healthcare, and many other industry applications.</p></div>
 
 
-<!-- <h3> Research Grants: </h3>
+<h3> Research Grants: </h3>
 <b>1. Project Title: Enabling Interactive Big Data Analytics and Visualization at Exascale via In Situ Efficient Statistical Data Modeling </b><br>
 PI: Soumya Dutta<br>
 Duration: 2 years <br>
 Funding Amount: ~ INR 30.00 Lakh <br>
 Funding Agency: SERB, DST, Government of India<br>
-Status: Project approved, funds awaited <br>
+Status: Ongoing <br>
 
-<b>2. Project Title: DAVi: An Intelligent Data Analytics and Visualization Framework </b><br>
+<!-- <b>2. Project Title: DAVi: An Intelligent Data Analytics and Visualization Framework </b><br>
 PI: Soumya Dutta, Co-PI: Purushottam Kar<br>
 Duration: 2 years <br>
 Funding Amount: ~ INR 30.00 Lakh <br>
