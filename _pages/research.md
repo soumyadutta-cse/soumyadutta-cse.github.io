@@ -42,12 +42,12 @@ Funding Amount: ~ INR 30.00 Lakh <br>
 Funding Agency: SERB, DST, Government of India<br>
 Status: Ongoing <br>
 
-<!-- <b>2. Project Title: DAVi: An Intelligent Data Analytics and Visualization Framework </b><br>
+<b>2. Project Title: DAVi: An Intelligent Data Analytics and Visualization Framework </b><br>
 PI: Soumya Dutta, Co-PI: Purushottam Kar<br>
 Duration: 2 years <br>
 Funding Amount: ~ INR 30.00 Lakh <br>
 Funding Agency: ISRO<br>
-Status: Project approved, funds awaited <br> -->
+Status: Ongoing <br>
 
 
 
