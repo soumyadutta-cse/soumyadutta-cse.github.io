@@ -45,8 +45,8 @@ Status: Ongoing <br>
 <b>2. Project Title: DAVi: An Intelligent Data Analytics and Visualization Framework </b><br>
 PI: Soumya Dutta, Co-PI: Purushottam Kar<br>
 Duration: 2 years (Feb 2024-Feb 2026)<br>
-Funding Amount: ~ INR 30.00 Lakh <br>
-Funding Agency: ISRO<br>
+Funding Amount: ~ INR 30.00 Lakh<br>
+Funding Agency: Indian Space Research Organisation (ISRO)<br>
 Status: Ongoing <br>
 
 
