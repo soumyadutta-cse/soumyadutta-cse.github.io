@@ -37,14 +37,14 @@ Welcome to the <u><b>V</b>isual Computing and <b>D</b>ata <b>S</b>cience (<b>VDS
 <h3> Research Grants: </h3>
 <b>1. Project Title: Enabling Interactive Big Data Analytics and Visualization at Exascale via In Situ Efficient Statistical Data Modeling </b><br>
 PI: Soumya Dutta<br>
-Duration: 2 years <br>
+Duration: 2 years (Dec 2023-Dec 2025) <br>
 Funding Amount: ~ INR 30.00 Lakh <br>
-Funding Agency: SERB, DST, Government of India<br>
+Funding Agency: SERB, Government of India<br>
 Status: Ongoing <br>
 
 <b>2. Project Title: DAVi: An Intelligent Data Analytics and Visualization Framework </b><br>
 PI: Soumya Dutta, Co-PI: Purushottam Kar<br>
-Duration: 2 years <br>
+Duration: 2 years (Feb 2024-Feb 2026)<br>
 Funding Amount: ~ INR 30.00 Lakh <br>
 Funding Agency: ISRO<br>
 Status: Ongoing <br>

@@ -7,6 +7,7 @@ author_profile: true
 
 ## Organizational Activities
 
+16. Program Co-chair (VIS track): 19th [International Symposium on Visual Computing (ISVC’24)](https://www.isvc.net/), Lake Tahoe, Nevada, USA.
 15. Proposal Reviewer: Invited to review research proposal for [German Research Foundation](https://www.dfg.de/en/): Deutsche Forschungsgemeinschaft (DFG) (2023)
 14. Best Paper Committee: In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization ([ISAV 2023](https://isav-workshop.github.io/2023/))
 13. Posters Co-chair: IEEE Symposium on Large Data Analysis and Visualization (LDAV 2023-24)
@@ -64,6 +65,7 @@ author_profile: true
 
 ## PhD Comprehensive and SOTA Examination Committee Member (IITK)
 
+5. Avinab Anand
 4. Sarbajit Ghosh
 3. Chandan Prakash
 2. Joydeep Mondal
