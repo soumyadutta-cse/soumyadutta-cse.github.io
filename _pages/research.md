@@ -35,15 +35,34 @@ Welcome to the <u><b>V</b>isual Computing and <b>D</b>ata <b>S</b>cience (<b>VDS
 
 
 <h3> Research Grants: </h3>
-<b>1. Project Title: Enabling Interactive Big Data Analytics and Visualization at Exascale via In Situ Efficient Statistical Data Modeling </b><br>
-PI: Soumya Dutta<br>
+
+<b>4. Project Title: Development of AI-Enabled National Portal for Efficient
+Search of Missing People </b><br>
+PI: Tufan Guha (IIT Kanpur)<br>
+Co-PI: Soumya Dutta (IIT Kanpur)<br>
+Duration: 2 years <br>
+Funding Amount: ~ INR 20.00 Lakh <br>
+Funding Agency: C3iHub, IIT Kanpur<br>
+Status: Projected accepted, funds awaited <br>
+
+<b>3. Project Title: Proactive and Generalized Deepfake Defense Mechanisms to Reinforce Cyberspace </b><br>
+PI: Chandranath Adak (IIT Patna)<br>
+Co-PI: Soumi Chattopadhyay (IIT Indore), Soumya Dutta (IIT Kanpur), Zahid Akhtar (State University of New York Polytechnic Institute)<br>
+Duration: 3 years <br>
+Funding Amount: ~ INR 40.00 Lakh <br>
+Funding Agency: C3iHub, IIT Kanpur<br>
+Status: Projected accepted, funds awaited <br>
+
+<b>2. Project Title: Enabling Interactive Big Data Analytics and Visualization at Exascale via In Situ Efficient Statistical Data Modeling </b><br>
+PI: Soumya Dutta (IIT Kanpur)<br>
 Duration: 2 years (Dec 2023-Dec 2025) <br>
 Funding Amount: ~ INR 30.00 Lakh <br>
 Funding Agency: SERB, Government of India<br>
 Status: Ongoing <br>
 
-<b>2. Project Title: DAVi: An Intelligent Data Analytics and Visualization Framework </b><br>
-PI: Soumya Dutta, Co-PI: Purushottam Kar<br>
+<b>1. Project Title: DAVi: An Intelligent Data Analytics and Visualization Framework </b><br>
+PI: Soumya Dutta (IIT Kanpur)<br>
+Co-PI: Purushottam Kar (IIT Kanpur)<br>
 Duration: 2 years (Feb 2024-Feb 2026)<br>
 Funding Amount: ~ INR 30.00 Lakh<br>
 Funding Agency: Indian Space Research Organisation (ISRO)<br>

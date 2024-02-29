@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## <span style="color:red"> Upcoming Semester: 2023-24-II: </span>
+## <span style="color:red"> Current Semester: 2023-24-II: </span>
 
 ## CS661 - Big Data Visual Analytics
 

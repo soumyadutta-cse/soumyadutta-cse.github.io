@@ -7,18 +7,19 @@ author_profile: true
 
 ## Organizational Activities
 
-16. Program Co-chair (VIS track): 19th [International Symposium on Visual Computing (ISVC’24)](https://www.isvc.net/), Lake Tahoe, Nevada, USA.
+17. Program Co-chair (VIS track): 19th [International Symposium on Visual Computing (ISVC’24)](https://www.isvc.net/), Lake Tahoe, Nevada, USA.
+16. Member: South Asian Biodiversity Council (SABDC), India.
 15. Proposal Reviewer: Invited to review research proposal for [German Research Foundation](https://www.dfg.de/en/): Deutsche Forschungsgemeinschaft (DFG) (2023)
 14. Best Paper Committee: In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization ([ISAV 2023](https://isav-workshop.github.io/2023/))
 13. Posters Co-chair: IEEE Symposium on Large Data Analysis and Visualization (LDAV 2023-24)
 12. Co-chair: IEEE Visualization Fast Forward and Video Previews (2023-24)
-11. Co-chair: [Visualization in Environmental Sciences](https://www.informatik.uni-leipzig.de/bsv/envirvis2022/) (EnvirVis 2020-Present) (Co-located with EuroVis) 
+11. Co-chair: [Visualization in Environmental Sciences](https://www.informatik.uni-leipzig.de/bsv/envirvis2022/) (EnvirVis 2020-24) (Co-located with EuroVis) 
 10. Co-chair: [IEEE Visualization Application Spotlights](http://ieeevis.org/year/2022/info/call-participation/application-spotlights) (2021-22)
 9. Co-chair: [IEEE Visualization Open Practices](http://ieeevis.org/year/2022/info/open-practices/open-practices) (2019-20)
 8. Co-lead: [Data Science at Scale Summer School](https://dssschool.org/), Los Alamos National Laboratory (2020-22)
 7. Board Member: Student Program Advisory Committee, Los Alamos National Laboratory (2021-22)
-6. Reviewer board member: [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td/about/107377?title=Review%20Board&periodical=IEEE%20Transactions%20on%20Parallel%20and%20Distributed%20Systems) (2021-present)
-5. Topic Editor and member of reviewer board: [MDPI Entropy Journal](https://www.mdpi.com/journal/entropy/topic_editors) (2021-present)
+6. Reviewer board member: [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td/about/107377?title=Review%20Board&periodical=IEEE%20Transactions%20on%20Parallel%20and%20Distributed%20Systems) (2021-22)
+5. Topic Editor and member of reviewer board: [MDPI Entropy Journal](https://www.mdpi.com/journal/entropy/topic_editors) (2021-22)
 4. Poster judge: [Los Alamos National Laboratory Student Symposium](https://www.lanl.gov/careers/career-options/student-internships/symposium/index.php) (2021)
 3. Poster Judge: [ACSESS](https://sites.google.com/sdsu.edu/acsess-2021/home?authuser=0) event for Computational Science Research Center (CSRC) graduate students at San Diego State University (SDSU) (2021)
 2. Tutorial Co-organizer: [Statistical Data Representation, Visualization, and Uncertainty Analysis](https://sites.google.com/view/distributiontutorial) at IEEE Visualization 2019
@@ -29,7 +30,7 @@ author_profile: true
 ## International Program Committee (IPC) Member
 
 12. EG/VGTC Conference on Visualization (EuroVis 2023)
-11. IEEE Visualization Full Papers (2022-23)
+11. IEEE Visualization Full Papers (2022-24)
 10. International Conference on High Performance Computing, Data, and Analytics (HiPC 2023)
 9. IEEE Pacific Visualization (PacificVis 2021-23, 2024 (TVCG Track))
 8. EuroGraphics Symposium on Parallel Graphics and Visualization (EGPGV 2021-22)
