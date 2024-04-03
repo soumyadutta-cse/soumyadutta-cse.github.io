@@ -130,7 +130,7 @@ html {
  <!-- mtech student 3 -->
   <div class="column">
     <div class="card">
-      <center><img src="/images/dummy.jpg" alt="drashtant" style="width:65%"></center>
+      <center><img src="/images/drashtant.png" alt="drashtant" style="width:68%"></center>
       <div class="container">
         <br><b>Drashtant Singh Rathod</b>
         <br><b>M.Tech. Student [2022-24]</b>
@@ -161,7 +161,7 @@ html {
 <!-- mtech student 5 -->
   <div class="column">
     <div class="card">
-      <center><img src="/images/dummy.jpg" alt="vivek" style="width:70%"></center>
+      <center><img src="/images/vivek.png" alt="vivek" style="width:72%"></center>
       <div class="container">
         <br><b>Vivek Kumar Gautam</b>
         <br><b>M.Tech. Student [2022-24]</b>
