@@ -49,7 +49,7 @@ Status: Projected accepted, funds awaited <br>
 PI: Chandranath Adak (IIT Patna)<br>
 Co-PI: Soumi Chattopadhyay (IIT Indore), Soumya Dutta (IIT Kanpur), Zahid Akhtar (State University of New York Polytechnic Institute)<br>
 Duration: 3 years <br>
-Funding Amount: ~ INR 40.00 Lakh <br>
+Funding Amount: ~ INR 34.00 Lakh <br>
 Funding Agency: C3iHub, IIT Kanpur<br>
 Status: Projected accepted, funds awaited <br>
 
