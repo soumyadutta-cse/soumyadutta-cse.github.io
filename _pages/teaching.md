@@ -34,7 +34,7 @@ For more details and  list of topics that were covered in earlier offering of th
 
 <p>
     <h3>Prerequisites:</h3> 
-    Linear Algebra, knowledge in Programming (JavaScript, C/C++, HTML)
+    Linear Algebra, knowledge in Programming (JavaScript, HTML, CSS)
 </p>
 
 <p>
