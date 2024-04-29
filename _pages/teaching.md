@@ -6,9 +6,22 @@ author_profile: true
 ---
 
 
-## <span style="color:red"> Current Semester: 2023-24-II: </span>
+## <span style="color:red"> Upcoming Semester: 2024-25-I: </span>
 
-## CS661 - Big Data Visual Analytics
+## CS360 - Introduction to Computer Graphics
+
+## CS677 - Topics in Large Data Analysis and Visualization
+
+For more details and list of topics that will be covered, please check the past course section at the bottom of this page.
+
+
+
+## <span style="color:red"> Past Courses: </span>
+
+### Semester 2023-24-II: CS661 - Big Data Visual Analytics
+
+<details>
+    <summary><b><span style="color:blue">Click for more details</span></b></summary>
 
 <p>
     <h3>Prerequisites:</h3> 
@@ -16,15 +29,28 @@ author_profile: true
 </p>
 
 <p>
-    <h3>Course Description (Tentative):</h3> 
-    The necessity of visual analytics capabilities for big data is becoming omnipresent due to its significant demand in the current age of data science and analytics. Interactive data visualization techniques enable us to comprehend and explore diverse types of complex data sets efficiently so that patterns and features from the data can be readily identified and studied in detail. As the data grows larger and becomes intricate, it poses significant challenges to manage, curate, and explore such large data sets in a scalable manner. These data sets can come from various scientific simulations as well as from social media, IoT, various sensors, and many other industry and application domains. In this course, we will cover a comprehensive view of data visualization techniques with a specific focus on the techniques that are applicable to big data. We will discuss the theory and foundations of visualization techniques and have hands-on exercises on visualizing different types of data sets using available visualization software and libraries. We will study scientific and information visualization techniques with a focus on data compression, statistical and information theory techniques, and selected high-performance visualization algorithms. Next, we will discuss how modern machine learning and deep learning techniques are adapted for big data visual analytics. Finally, we will learn about exascale visual computing and state-of-the-art in situ analysis techniques and conclude by discussing the future paradigms of the big data visual analytics domain. The contents for this course will be based on a few books and research papers from top-tier journals and conferences such as IEEE TVCG, CGF, ACM CHI, IEEE/ACM Supercomputing, IEEE Visualization, EuroVis and EuroGraphics, IEEE Pacific Visualization, IEEE LDAV, EGPGV, etc.
+    <h3>Course Description:</h3> 
+    The necessity of visual analytics capabilities for big data is becoming omnipresent due to its significant demand in the current age of data science and analytics. Interactive data visualization techniques enable us to comprehend and explore diverse types of complex data sets efficiently so that patterns and features from the data can be readily identified and studied in detail. As the data grows larger and becomes intricate, it poses significant challenges to manage, curate, and explore such large data sets in a scalable manner. These data sets can come from various scientific simulations as well as from social media, IoT, various sensors, and many other industry and application domains. In this course, we will cover a comprehensive view of data visualization techniques with a specific focus on the techniques that are applicable to big data. We will discuss the theory and foundations of visualization techniques and have hands-on exercises on visualizing different types of data sets using available visualization software and libraries. We will study scientific and information visualization techniques with a focus on data compression, statistical and information theory techniques, and selected high-performance visualization algorithms. Next, we will discuss how modern machine learning and deep learning techniques are adapted for big data visual analytics. Finally, we will learn about exascale visual computing and state-of-the-art in situ analysis techniques and conclude by discussing the future paradigms of the big data visual analytics domain. 
 </p>
 
-For more details and  list of topics that were covered in earlier offering of this course, please check the past course section at the bottom of this page.
+<p>
+    The contents for this course will be based on a few books and research papers from top-tier journals and conferences such as IEEE TVCG, CGF, ACM CHI, IEEE/ACM Supercomputing, IEEE Visualization, EuroVis and EuroGraphics, IEEE Pacific Visualization, IEEE LDAV, EGPGV, etc.
+</p>
 
+<p> 
+    <h3>(Tentative) Course Contents:</h3> 
+    <img style="width:700px" src="/images/CS661_course_contents.png"/>
+</p>
 
+<p> 
+    <h3>Books, References, and Resources:</h3> 
+    1.  Data Visualization: Principles and Practice by Alexandru C. Telea, CRC Press.<br>
+    2.  Visualization Analysis and Design by Tamara Munzner, A K Peters Visualization Series, CRC Press.<br>
+    3.  The Visualization Handbook edited by Charles D. Hansen and Chris R. Johnson.<br>
+    4.  Research papers, articels, and other study materials provided during the class to cover selected topics.<br>
+</p>    
 
-## <span style="color:red"> Past Courses: </span>
+</details>
 
 ### Semester 2023-24-I: CS360A - Introduction to Computer Graphics
 
