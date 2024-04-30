@@ -11,6 +11,7 @@ author_profile: true
 ## CS360 - Introduction to Computer Graphics
 
 ## CS677 - Topics in Large Data Analysis and Visualization
+(This course is jointly offered with Prof. Preeti Malakar)
 
 For more details and list of topics that will be covered, please check the past course section at the bottom of this page.
 
