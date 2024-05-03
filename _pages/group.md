@@ -134,7 +134,7 @@ html {
       <div class="container">
         <br><b>Drashtant Singh Rathod</b>
         <br><b>M.Tech. Student [2022-24]</b>
-        <br><b>Topic:</b> XAI + Visual Analytics for Comprehending Adversarial Attacks on Neural Networks
+        <br><b>Topic:</b> xAI + Visual Analytics for Comprehending Adversarial Attacks on Neural Networks
         <br><b>Email:</b>drashtant [at] cse.iitk.ac.in
       </div>
     </div>
@@ -176,6 +176,18 @@ html {
 
 <h2 style="text-align:left">UGP Students</h2>
 
+11. Chitwan Goel [CSE] [Sem. 2023-24-II]<br>
+    Project Title: Modeling 3D Volumetric data using Uncertainty-Aware Deep Learning Models
+10. Shrey Bansal [CSE] [Sem. 2023-24-II]<br>
+    Project Title: Modeling 3D Volumetric data using Uncertainty-Aware Deep Learning Models
+9. Aditya Bangar [CSE] [Sem. 2023-24-II]<br>
+    Project Title: Uncertainty Aware Affective Behaviour Analysis: Baseline Setup
+8. Ahmad Amaan [ME] [Sem. 2023-24-II]<br>
+    Project Title: Evaluating Generative Models for Volume Visualization
+7. Yerusu Dharini Reddy [EE] [Sem. 2023-24-II]<br>
+    Project Title: Evaluating CoordNet for Diverse Visualization Generation Tasks
+6. Navya [EE] [Sem. 2023-24-II]<br>
+    Project Title: Evaluating CoordNet for Diverse Visualization Generation Tasks
 5. Rashmi G R [CSE] [Sem. 2023-24-I]<br>
     Project Title: Frailty Data Analysis and Visualization
 4. Ayush Kumar (EE) [Sem. 2022-23-II]<br>
