@@ -7,7 +7,6 @@ author_profile: true
 
 <!-- Some help were taken from: https://www.w3schools.com/ -->
 
-
 <style>
 
 img {
@@ -70,7 +69,7 @@ html {
 
 <p>
 <span style="color:darkblue;"><b>
-** We are looking for motivated students (Ph.D., M.S., M.Tech.) with excellent programming skills to join our group to work on exciting problems at the intersection of machine (deep) learning, visual computing, image analysis, and big data science. **</b>
+** We are looking for motivated students (Ph.D., M.S., M.Tech.) with excellent programming skills to join our group to work on exciting problems at the intersection of machine (deep) learning, visual computing, image analysis, HPC, and big data science. **</b>
 </span>
 </p>
 
@@ -96,82 +95,50 @@ html {
 </div>
 
 
+<h2 style="text-align:left">MSR Students</h2>
+
+1. <b>Indraneel Rajeevan | MSR CSE | Batch'26</b> <br>
+Topic: Understanding Loss Landscape of Neural Networks
+
 
 <h2 style="text-align:left">M.Tech. Students</h2>
 
-<div class="row">
+12. <b>Kartik Jain | M.Tech. CSE | Batch'25</b> <br>
+Topic: Modeling of Large Time-varying Volumetric Data using Sparse Data Samples via Deep Learning
 
-<!-- mtech student 1 -->
-  <div class="column">
-    <div class="card">
-      <center><img src="/images/abhay.png" alt="abhay" style="width:70%"></center>
-      <div class="container">
-        <br><b><a href=" https://www.linkedin.com/in/abhaykdwivedi/">Abhay Kumar Dwivedi</a></b>
-        <br><b>M.Tech. Student [2022-24]</b>
-        <br><b>Topic:</b> Implicit Neural Networks for Visual Analytics of Large Multivariate Data
-        <br><b>Email:</b>abhaykd [at] cse.iitk.ac.in
-      </div>
-    </div>
-  </div>
+11. <b>Komala Yaramareddy | M.Tech. CSE | Batch'25</b> <br>
+Topic: Visualizing Neural Networks to Explore Their Internal Inference Methodology 
 
-<!-- mtech student 2 -->
-  <div class="column">
-    <div class="card">
-      <center><img src="/images/atul.png" alt="atul" style="width:62%"></center>
-      <div class="container">
-        <br><b><a href="https://www.linkedin.com/in/atulky/">Atul Kumar</a></b>
-        <br><b>M.Tech. Student [2022-24]</b>
-        <br><b>Topic:</b> Implicit Neural Networks for Visual Analytics of Large Vector Fields
-        <br><b>Email:</b>atulk [at] cse.iitk.ac.in
-      </div>
-    </div>
-  </div>
+10. <b>Shaurya Agarwal | M.Tech. CSE | Batch'25</b> <br>
+Topic: Deep Facial Recognition for Enabling Efficient Search and Rescue of Missing People
 
- <!-- mtech student 3 -->
-  <div class="column">
-    <div class="card">
-      <center><img src="/images/drashtant.png" alt="drashtant" style="width:68%"></center>
-      <div class="container">
-        <br><b>Drashtant Singh Rathod</b>
-        <br><b>M.Tech. Student [2022-24]</b>
-        <br><b>Topic:</b> xAI + Visual Analytics for Comprehending Adversarial Attacks on Neural Networks
-        <br><b>Email:</b>drashtant [at] cse.iitk.ac.in
-      </div>
-    </div>
-  </div>
+9. <b>Shubham Srivastava | M.Tech. CSE | Batch'25</b> <br>
+Topic: Developing AI-enabled Portal for Enabling Efficient Search and Rescue of Missing People
 
-</div>
+8. <b>Prashik Ganer | M.Tech. CSE | Batch'25 (Co-supervisor: Prof. Purushottam Kar)</b> <br>
+Topic: Developing AI-enabled Portal for Real-time Monitoring of Satellite Health
 
+7. <b>Manish Agrawal | M.Tech. CSE | Batch'25 (Co-supervisor: Prof. Purushottam Kar)</b> <br>
+Topic: Developing AI-enabled Portal for Real-time Monitoring of Satellite Health
 
-<div class="row">
+6. <b>Vishal Kumar | M.Tech. CyS | Batch'25</b> <br>
+Topic: Development of Deep Fake Detection Technologies
 
-<!-- mtech student 4 -->
-  <div class="column">
-    <div class="card">
-      <center><img src="/images/komal.png" alt="komal" style="width:70%"></center>
-      <div class="container">
-        <br><b><a href="https://www.linkedin.com/in/komalyadaviit/">Komal Yadav</a></b>
-        <br><b>M.Tech. Student [2022-24]</b>
-        <br><b>Topic:</b> Impact of Adaptive Sampling for Building Comprerssive Neural Representations of Large Scientific Data
-        <br><b>Email:</b>komaly22 [at] iitk.ac.in
-      </div>
-    </div>
-  </div>
+5. <b>Atul Kumar | M.Tech. CSE | Batch'24</b> <br>
+Topic: Uncertainty-Aware Implicit Neural Networks for Visual Analytics of Complex Vector Fields 
 
-<!-- mtech student 5 -->
-  <div class="column">
-    <div class="card">
-      <center><img src="/images/vivek.png" alt="vivek" style="width:72%"></center>
-      <div class="container">
-        <br><b>Vivek Kumar Gautam</b>
-        <br><b>M.Tech. Student [2022-24]</b>
-        <br><b>Topic:</b> Efficient Image Synthesis of Large Data using Deep Active Learning
-        <br><b>Email:</b>vivekg [at] cse.iitk.ac.in
-      </div>
-    </div>
-  </div>
+4. <b>Abhay Kumar Dwivedi | M.Tech. CSE | Batch'24</b> <br>
+Topic: Implicit Neural Networks for Visual Analytics of Large Multivariate Data
 
-</div>
+3. <b>Komal Yadav | M.Tech. CSE | Batch'24</b> <br>
+Topic: Impact of Adaptive Sampling for Building Comprerssive Neural Representations of Large Scientific Data
+
+2. <b>Vivek Kumar Gautam | M.Tech. CSE | Batch'24</b> <br>
+Topic: Efficient Image Synthesis of Large Data using Deep Active Learning 
+
+1. <b>Drashtant Singh Rathod | M.Tech. CSE | Batch'24</b> <br>
+Topic: xAI + Visual Analytics for Comprehending Adversarial Attacks on Facial Recognition Models 
+
 
 
 <h2 style="text-align:left">UGP Students</h2>
@@ -210,7 +177,7 @@ html {
       <li><span style="color:blue;">Dr. Elizabeth and Dr. Varkey Cherian Award for Best Project</span>
 
 
-<h2 style="text-align:left">B. Tech./B.S. Students</h2>
+<!-- <h2 style="text-align:left">B. Tech./B.S. Students</h2>
 
 7. Divyansh Verma (Mathematics)
 6. Tanmey Agarwal (Mathematics)
@@ -218,6 +185,6 @@ html {
 4. Shlok Mishra (Statistics and Data Science)
 3. Faheem Nizar (EE)
 2. Paritosh Pankaj (Statistics and Data Science)
-1. Abhijeet Agarwal (EE)
+1. Abhijeet Agarwal (EE) -->
 
 
