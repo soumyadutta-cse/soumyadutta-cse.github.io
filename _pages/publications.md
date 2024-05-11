@@ -83,6 +83,20 @@ td {
 
 ## Journal Publications
 
+<table>
+   <tr width="100%;">
+      <td width="23%;" valign="top">
+      <img style="height:100px" src="/images/alpine.png"/> </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[15]</strong> James Ahrens, Marco Arienti, Utkarsh Ayachit, Janine Bennett, Roba Binyahib12, Ayan Biswas, Peer-Timo Bremer, Eric Brugger, Roxana Bujack, Hamish Carr, Jieyang Chen, Hank Childs, <b>Soumya Dutta</b>, Berk Geveci, Cyrus Harrison, Subhashis Hazarika, Megan Hickman Fulp, Petar Hristov, Xuan Huang, Joseph Insley, Yuya Kawakami, Chloe Keilers, Mark Kim, James Kress, Matthew Larsen, Dan Lipsa, Meghanto Majumder, Nicole Marsaglia, Victor Mateevitsi, Valerio Pascucci, John Patchett, Saumil Patel, Steve Petruzza, David Pugmire, Silvio Rizzi, David H. Rogers, Oliver Rubel, Jorge Salinas, Sudhanshu Sane, Sergei Shudler, Alexandra Stewart, Karen Tsai, Terece L Turton, Will Usher, Zhe Wang, Gunther Weber, Corey Wetterer-Nelson, Jonathan Woodring, Abhishek Yenpure, The ECP ALPINE project: In Situ and Post Hoc Visualization Infrastructure and Analysis Capabilities for Exascale, <em>International Journal of High Performance Computing Applications</em>.
+      <b>[Under review]</b>
+      <details>
+        <summary><b><span style="color:blue">Abstract</span></b></summary>
+        <p>
+        A significant challenge on an exascale computer is the speed at which we compute results exceeds by many orders of magnitude the speed at which we save these results. Therefore the Exascale Computing Project (ECP) ALPINE project focuses on providing exascale-ready visualization solutions including in situ processing. In situ visualization and analysis runs as the simulation is run, on simulations results are they are generated avoiding the need to save entire simulations to storage for later analysis. The ALPINE project made post hoc visualization tools, ParaView and VisIt, exascale ready and developed in situ algorithms and infrastructures. The suite of ALPINE algorithms developed under ECP includes novel approaches to enable automated data analysis and visualization to focus on the most important aspects of the simulation. Many of the algorithms also provide data reduction benefits to meet the I/O challenges at exascale. ALPINE developed a new lightweight in situ infrastructure, Ascent.
+        </p>
+      </details></td>
+   </tr>
+</table>
 
 <table>
    <tr width="100%;">
