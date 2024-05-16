@@ -7,9 +7,8 @@ author_profile: true
 
 ## Organizational Activities
 
-17. Program Co-chair (VIS track): 19th [International Symposium on Visual Computing (ISVC’24)](https://www.isvc.net/), Lake Tahoe, Nevada, USA (2024).
-16. Executive Team Member: South Asian Biodiversity Portal Project, India.
-15. Proposal Reviewer: Invited to review research proposal for [German Research Foundation](https://www.dfg.de/en/): Deutsche Forschungsgemeinschaft (DFG) (2023)
+16. Program Co-chair (VIS track): 19th [International Symposium on Visual Computing (ISVC’24)](https://www.isvc.net/), Lake Tahoe, Nevada, USA (2024).
+15. Executive Team Member: South Asian Biodiversity Portal Project, India.
 14. Best Paper Committee: In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization ([ISAV 2023](https://isav-workshop.github.io/2023/))
 13. Posters Co-chair: IEEE Symposium on Large Data Analysis and Visualization (LDAV 2023-24)
 12. Co-chair: IEEE Visualization Fast Forward and Video Previews (2023-24)
@@ -29,8 +28,9 @@ author_profile: true
 
 ## International Program Committee (IPC) Member
 
-12. EG/VGTC Conference on Visualization (EuroVis 2023)
-11. IEEE Visualization Full Papers (2022-24)
+13. IEEE Cluster 2024
+12. IEEE Visualization Full Papers (2022-24)
+11. EG/VGTC Conference on Visualization (EuroVis 2023)
 10. International Conference on High Performance Computing, Data, and Analytics (HiPC 2023)
 9. IEEE Pacific Visualization (PacificVis 2021-23, 2024 (TVCG Track))
 8. EuroGraphics Symposium on Parallel Graphics and Visualization (EGPGV 2021-22)
@@ -42,9 +42,15 @@ author_profile: true
 2. International Workshop on Big Data Reduction (IEEE IWBDR 2020-21)
 1. Program committee member at other venues: IVAPP 2020, VISUAL 2017-2020
 
+## Reviewer Proposal
 
-## Reviewer
+2. United States Department of Energy (DOE), Office of Advanced Scientific Computing Research (ASCR), 2024.
+1. [German Research Foundation](https://www.dfg.de/en/): Deutsche Forschungsgemeinschaft (DFG) (2023)
 
+
+## Reviewer Paper
+
+18. IEEE Cluster
 17. IEEE Transactions on Visualization and Computer Graphics (TVCG)
 16. Computer Graphics Forum (CGF)
 15. IEEE Visualization (SciVis, VAST, InfoVis)
