@@ -53,6 +53,20 @@ td {
 
 <h1 style="text-align:center"> Selected Video Demos of Our Research </h1>
 
+
+
+<table>
+   <tr width="100%;">
+      <td width="40%;" valign="top"><center>
+      <video id="left" width="350" height="220" controls="controls"> 
+        <source type="video/mp4" src="/videos/TVCG_DL_View_Synthesis.mp4"/> 
+      </video>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <b>Soumya Dutta</b>, Faheem Nizar, Ahmad Amaan, and Ayan Acharya, <em>Visual Analysis of Prediction Uncertainty in Neural Networks for Deep Image Synthesis</em>, IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024.
+      </td>
+      </center></td>
+   </tr>
+</table>
+
 <table>
    <tr width="100%;">
       <td width="40%;" valign="top"><center>
