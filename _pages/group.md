@@ -144,9 +144,9 @@ Topic: xAI + Visual Analytics for Comprehending Adversarial Attacks on Facial Re
 <h2 style="text-align:left">UGP Students</h2>
 
 11. Chitwan Goel [CSE] [Sem. 2023-24-II]<br>
-    Project Title: Modeling 3D Volumetric data using Uncertainty-Aware Deep Learning Models
+    Project Title: Representing Large 3D Volumetric Data using Uncertainty-Aware Deep Learning Models
 10. Shrey Bansal [CSE] [Sem. 2023-24-II]<br>
-    Project Title: Modeling 3D Volumetric data using Uncertainty-Aware Deep Learning Models
+    Project Title: Representing Large 3D Volumetric Data using Uncertainty-Aware Deep Learning Models
 9. Aditya Bangar [CSE] [Sem. 2023-24-II]<br>
     Project Title: Uncertainty Aware Affective Behaviour Analysis: Baseline Setup
 8. Ahmad Amaan [ME] [Sem. 2023-24-II]<br>

@@ -33,8 +33,13 @@ Welcome to the <u><b>V</b>isual Computing and <b>D</b>ata <b>S</b>cience (<b>VDS
 
 <p>To achieve our goal, we build data science and machine (deep) learning-based solutions to analyze large-scale multifaceted data in a scalable way, enabling interactive and interpretable analytics of complex data. We are also focused on developing techniques that make complex machine learning models more interpretable and explainable so that they can be trusted and effectively adopted in real-life applications. Our research addresses various big data characteristics, including its fundamental 5 Vs: <b>Volume, Velocity, Variety, Veracity, and Value</b>. We study extreme-scale data from scientific domains using machine learning and modern high-performance computing capabilities to advance research in various domains. We are also actively focused on building scalable and novel interactive visual analytics systems to analyze diverse data generated via social media, IoT, various sensors, engineering design, healthcare, and many other industry applications.</p></div>
 
+<h3 style="color:Chocolate"> Research Collaborators: </h3>
+1. [Dr. Ayan Acharya](https://aacharya-cs.github.io/) (Meta, USA)<br>
+2. [Dr. Tushar Athawale](https://tusharathawale.info/) (Oak Ridge National Laboratory, USA)<br>
+3. [Prof. Ko-Chih Wang](https://sites.google.com/view/kochihwang) (National Taiwan Normal University, Taiwan)<br>
 
-<h3> Research Grants: </h3>
+
+<h3 style="color:Chocolate"> Research Grants: </h3>
 
 <b>4. Project Title: Development of AI-Enabled National Portal for Efficient
 Search of Missing People </b><br>
