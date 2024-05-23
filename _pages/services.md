@@ -69,6 +69,9 @@ author_profile: true
 2. Visualization in Environmental Sciences (EnvirVis)
 1. ACM In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV)
 
+## PhD Thesis Defense Committee Member
+
+1. Humayra Tasnim (University of New Mexico, USA)
 
 ## PhD Comprehensive and SOTA Examination Committee Member (IITK)
 
