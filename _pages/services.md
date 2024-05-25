@@ -84,6 +84,12 @@ author_profile: true
 
 ## MTech Thesis Final Examination Committee Member (IITK)
 
-1. Ashankur Tripathi
+4. Karthik Kumar G R (EE)
+3. Ketan Shakya (EE)
+2. Landa Tarakeswara Rao (EE) 
+1. Ashankur Tripathi (CSE)
+
+
+
 
 
