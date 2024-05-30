@@ -121,8 +121,8 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/tvcg_dl_uncert_image_synthesis.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[15]</strong> <b>Soumya Dutta</b>, Faheem Nizar, Ahmad Amaan, and Ayan Acharya, Visual Analysis of Prediction Uncertainty in Neural Networks for Deep Image Synthesis, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG),</em> 2024 [Link] [<a href="/papers/TVCG_2024_Uncert_DL_ImageAnal.pdf">Pdf</a>] [BibTex].
-      <b>[Accepted]</b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[15]</strong> <b>Soumya Dutta</b>, Faheem Nizar, Ahmad Amaan, and Ayan Acharya, Visual Analysis of Prediction Uncertainty in Neural Networks for Deep Image Synthesis, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG),</em> 2024.
+      [<a href="https://ieeexplore.ieee.org/document/10541088">Link</a>] [<a href="/papers/TVCG_2024_Uncert_DL_ImageAnal.pdf">Pdf</a>] [<a href="/bibtex/TVCG_DL_Uncert.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
