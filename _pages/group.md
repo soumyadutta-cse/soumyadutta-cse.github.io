@@ -95,10 +95,10 @@ html {
 </div>
 
 
-<h2 style="text-align:left">MSR Students</h2>
+<!-- <h2 style="text-align:left">MSR Students</h2>
 
 1. <b>Indraneel Rajeevan | MSR CSE | Batch'26</b> <br>
-Topic: Understanding Loss Landscape of Neural Networks
+Topic: Understanding Loss Landscape of Neural Networks -->
 
 
 <h2 style="text-align:left">M.Tech. Students</h2>

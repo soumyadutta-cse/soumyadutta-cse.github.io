@@ -103,7 +103,7 @@ td {
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/juliacon.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[16]</strong> Li Tang, <b>Soumya Dutta</b>, Natalie Klein, Wayne Yu Wang, Jonathan David Wolfe, Luke Van Roekel, Nathan Urban, Ayan Biswas, and Earl Lawrence, Julia for HPC: In Situ Data Analysis with Julia for Climate Simulations at Large Scale, <em>Proceedings of JuliaCon</em>.
-      <b>[Under review]</b>
+      [Link] [<a href="/papers/juliaCon_ClimateAnalysis.pdf">Pdf</a>] [BibTex]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>

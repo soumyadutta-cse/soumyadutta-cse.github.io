@@ -25,7 +25,7 @@ There are a few positions (currently no positions for B.Tech. students) availabl
 </span>
 </p> -->
 
-<h2> ** Open PhD/MS positions for ML/DL + Visual Computing Research ** </h2>
+<h2> ** Open PhD/MS positions for ML/DL + Visual Computing + Big Data + HPC Research ** </h2>
 
 <p>
 <span style="color:Chocolate">
