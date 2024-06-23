@@ -28,6 +28,7 @@ author_profile: true
 
 ## International Program Committee (IPC) Member
 
+13. IEEE HiPC 2024
 13. IEEE Cluster 2024
 12. IEEE Visualization Full Papers (2022-24)
 11. EG/VGTC Conference on Visualization (EuroVis 2023)
@@ -50,6 +51,7 @@ author_profile: true
 
 ## Reviewer Paper
 
+19. IEEE HiPC
 18. IEEE Cluster
 17. IEEE Transactions on Visualization and Computer Graphics (TVCG)
 16. Computer Graphics Forum (CGF)
