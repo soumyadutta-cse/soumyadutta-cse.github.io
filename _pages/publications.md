@@ -87,30 +87,12 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/alpine.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[17]</strong> James Ahrens, Marco Arienti, Utkarsh Ayachit, Janine Bennett, Roba Binyahib12, Ayan Biswas, Peer-Timo Bremer, Eric Brugger, Roxana Bujack, Hamish Carr, Jieyang Chen, Hank Childs, <b>Soumya Dutta</b>, Berk Geveci, Cyrus Harrison, Subhashis Hazarika, Megan Hickman Fulp, Petar Hristov, Xuan Huang, Joseph Insley, Yuya Kawakami, Chloe Keilers, Mark Kim, James Kress, Matthew Larsen, Dan Lipsa, Meghanto Majumder, Nicole Marsaglia, Victor Mateevitsi, Valerio Pascucci, John Patchett, Saumil Patel, Steve Petruzza, David Pugmire, Silvio Rizzi, David H. Rogers, Oliver Rubel, Jorge Salinas, Sudhanshu Sane, Sergei Shudler, Alexandra Stewart, Karen Tsai, Terece L Turton, Will Usher, Zhe Wang, Gunther Weber, Corey Wetterer-Nelson, Jonathan Woodring, Abhishek Yenpure, The ECP ALPINE project: In Situ and Post Hoc Visualization Infrastructure and Analysis Capabilities for Exascale, <em>International Journal of High Performance Computing Applications</em>.
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[16]</strong> James Ahrens, Marco Arienti, Utkarsh Ayachit, Janine Bennett, Roba Binyahib12, Ayan Biswas, Peer-Timo Bremer, Eric Brugger, Roxana Bujack, Hamish Carr, Jieyang Chen, Hank Childs, <b>Soumya Dutta</b>, Berk Geveci, Cyrus Harrison, Subhashis Hazarika, Megan Hickman Fulp, Petar Hristov, Xuan Huang, Joseph Insley, Yuya Kawakami, Chloe Keilers, Mark Kim, James Kress, Matthew Larsen, Dan Lipsa, Meghanto Majumder, Nicole Marsaglia, Victor Mateevitsi, Valerio Pascucci, John Patchett, Saumil Patel, Steve Petruzza, David Pugmire, Silvio Rizzi, David H. Rogers, Oliver Rubel, Jorge Salinas, Sudhanshu Sane, Sergei Shudler, Alexandra Stewart, Karen Tsai, Terece L Turton, Will Usher, Zhe Wang, Gunther Weber, Corey Wetterer-Nelson, Jonathan Woodring, Abhishek Yenpure, The ECP ALPINE project: In Situ and Post Hoc Visualization Infrastructure and Analysis Capabilities for Exascale, <em>International Journal of High Performance Computing Applications</em>.
       <b>[Under review]</b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
         A significant challenge on an exascale computer is the speed at which we compute results exceeds by many orders of magnitude the speed at which we save these results. Therefore the Exascale Computing Project (ECP) ALPINE project focuses on providing exascale-ready visualization solutions including in situ processing. In situ visualization and analysis runs as the simulation is run, on simulations results are they are generated avoiding the need to save entire simulations to storage for later analysis. The ALPINE project made post hoc visualization tools, ParaView and VisIt, exascale ready and developed in situ algorithms and infrastructures. The suite of ALPINE algorithms developed under ECP includes novel approaches to enable automated data analysis and visualization to focus on the most important aspects of the simulation. Many of the algorithms also provide data reduction benefits to meet the I/O challenges at exascale. ALPINE developed a new lightweight in situ infrastructure, Ascent.
-        </p>
-      </details></td>
-   </tr>
-</table>
-
-<table>
-   <tr width="100%;">
-      <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/juliacon.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[16]</strong> Li Tang, <b>Soumya Dutta</b>, Natalie Klein, Wayne Yu Wang, Jonathan David Wolfe, Luke Van Roekel, Nathan Urban, Ayan Biswas, and Earl Lawrence, Julia for HPC: In Situ Data Analysis with Julia for Climate Simulations at Large Scale, <em>Proceedings of JuliaCon</em>.
-      [Link] [<a href="/papers/juliaCon_ClimateAnalysis.pdf">Pdf</a>] [BibTex]
-      <details>
-        <summary><b><span style="color:blue">Abstract</span></b></summary>
-        <p>
-        Fast evolving data science techniques have enabled scientific discoveries in part by providing the ability to analyze large amounts of scientific data and extract relevant patterns. Scientific simulations offer a unique opportunity to study large-scale, complex systems, such as the Earth’s climate, under varying conditions and modeling assumptions. However, one major obstacle to improved utilization of large scientific simulations is the ever-increasing gap between computing speed, which continues to increase, and data I/O bandwidth, which remains relatively constant. This mismatch often prevents full utilization of the data; we are likely unable to save all of the generated data for analysis, and simple solutions such as saving compressed versions of the data for later analysis may be insufficient to answer questions of interest.
-        </p>
-        <p>
-        In situ data analysis techniques seek to address this issue by completing analysis and pattern extraction from generated scientific data while the application is running, and the in situ data analysis only involves compute and in-memory data I/O, which improves performance. However, one major challenge of employing in situ data analysis to legacy scientific applications is that modern advanced data science techniques are usually not implemented in the same way as the scientific codes (typically, using the Fortran programming language with parallel programming models). To address this challenge, we develop an infrastructure for coupling a popular high-level data science programming language, Julia, with the large-scale production level climate code Energy Exascale Earth System Model (E3SM) on high performance computing (HPC) systems. To demonstrate the infrastructure, we develop two in situ data analysis methods in Julia and evaluate their performance and the infrastructure overhead. Our results show that our in situ Julia data analysis methods are able to detect extreme weather events and characterize climate patterns with insignificant infrastructure overhead. Furthermore, our infrastructure allows user-friendly development and deployment of new Julia data analysis modules without the need to recompile the simulation code, giving data analysts a simple new tool for in situ analysis.
         </p>
       </details></td>
    </tr>
@@ -348,6 +330,25 @@ td {
 
 
 ## Conference/Workshop Publications
+
+<table>
+   <tr width="100%;">
+      <td width="23%;" valign="top">
+      <img style="height:100px" src="/images/juliacon.png"/> </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[20]</strong> Li Tang, <b>Soumya Dutta</b>, Natalie Klein, Wayne Yu Wang, Jonathan David Wolfe, Luke Van Roekel, Nathan Urban, Ayan Biswas, and Earl Lawrence, Julia for HPC: In Situ Data Analysis with Julia for Climate Simulations at Large Scale, <em>Proceedings of JuliaCon</em>, 2024.
+      [<a href="https://proceedings.juliacon.org/papers/10.21105/jcon.00134">Link</a>] [<a href="/papers/juliaCon_ClimateAnalysis.pdf">Pdf</a>] [<a href="/bibtex/insitu_julia.bib">BibTex</a>]
+      <details>
+        <summary><b><span style="color:blue">Abstract</span></b></summary>
+        <p>
+        Fast evolving data science techniques have enabled scientific discoveries in part by providing the ability to analyze large amounts of scientific data and extract relevant patterns. Scientific simulations offer a unique opportunity to study large-scale, complex systems, such as the Earth’s climate, under varying conditions and modeling assumptions. However, one major obstacle to improved utilization of large scientific simulations is the ever-increasing gap between computing speed, which continues to increase, and data I/O bandwidth, which remains relatively constant. This mismatch often prevents full utilization of the data; we are likely unable to save all of the generated data for analysis, and simple solutions such as saving compressed versions of the data for later analysis may be insufficient to answer questions of interest.
+        </p>
+        <p>
+        In situ data analysis techniques seek to address this issue by completing analysis and pattern extraction from generated scientific data while the application is running, and the in situ data analysis only involves compute and in-memory data I/O, which improves performance. However, one major challenge of employing in situ data analysis to legacy scientific applications is that modern advanced data science techniques are usually not implemented in the same way as the scientific codes (typically, using the Fortran programming language with parallel programming models). To address this challenge, we develop an infrastructure for coupling a popular high-level data science programming language, Julia, with the large-scale production level climate code Energy Exascale Earth System Model (E3SM) on high performance computing (HPC) systems. To demonstrate the infrastructure, we develop two in situ data analysis methods in Julia and evaluate their performance and the infrastructure overhead. Our results show that our in situ Julia data analysis methods are able to detect extreme weather events and characterize climate patterns with insignificant infrastructure overhead. Furthermore, our infrastructure allows user-friendly development and deployment of new Julia data analysis modules without the need to recompile the simulation code, giving data analysts a simple new tool for in situ analysis.
+        </p>
+      </details></td>
+   </tr>
+</table>
+
 
 <table>
    <tr width="100%;">
