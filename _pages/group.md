@@ -77,9 +77,9 @@ html {
 
 <h2 style="text-align:left">Ph.D. Students</h2>
 
-<div class="row">
+<!-- <div class="row">
 
-<!-- phd student 1 -->
+
   <div class="column">
     <div class="card">
       <center><img src="/images/shanu.png" alt="shanu" style="width:70%"></center>
@@ -92,7 +92,10 @@ html {
     </div>
   </div>
 
-</div>
+</div> -->
+
+1. <b>Shanu Saklani</b> <br>
+Topic: Efficeint and Interpretable Deep Learning Methods for Visual Computing of Big Data
 
 
 <!-- <h2 style="text-align:left">MSR Students</h2>
@@ -122,7 +125,7 @@ Topic: Developing AI-enabled Portal for Real-time Monitoring of Satellite Health
 Topic: Developing AI-enabled Portal for Real-time Monitoring of Satellite Health
 
 6. <b>Vishal Kumar | M.Tech. CyS | Batch'25</b> <br>
-Topic: Development of Deep Fake Detection Technologies
+Topic: Development of Proactive Deep Fake Detection Technologies
 
 5. <b>Atul Kumar | M.Tech. CSE | Batch'24</b> <br>
 Topic: Uncertainty-Aware Implicit Neural Networks for Visual Analytics of Complex Vector Fields 
