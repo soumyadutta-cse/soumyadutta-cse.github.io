@@ -95,7 +95,10 @@ html {
 </div> -->
 
 1. <b>Shanu Saklani</b> <br>
-Topic: Efficeint and Interpretable Deep Learning Methods for Visual Computing of Big Data
+Research Theme: Efficeint and Interpretable Deep Learning Methods for Visual Computing of Big Data
+
+2. <b>Sankhadeep Bhowmick</b> <br>
+Research Theme: Efficeint and Interpretable Deep Learning Methods for Visual Computing of Big Data
 
 
 <!-- <h2 style="text-align:left">MSR Students</h2>
