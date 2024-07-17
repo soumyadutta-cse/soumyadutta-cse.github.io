@@ -87,7 +87,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/alpine.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[16]</strong> James Ahrens, Marco Arienti, Utkarsh Ayachit, Janine Bennett, Roba Binyahib12, Ayan Biswas, Peer-Timo Bremer, Eric Brugger, Roxana Bujack, Hamish Carr, Jieyang Chen, Hank Childs, <b>Soumya Dutta</b>, Berk Geveci, Cyrus Harrison, Subhashis Hazarika, Megan Hickman Fulp, Petar Hristov, Xuan Huang, Joseph Insley, Yuya Kawakami, Chloe Keilers, Mark Kim, James Kress, Matthew Larsen, Dan Lipsa, Meghanto Majumder, Nicole Marsaglia, Victor Mateevitsi, Valerio Pascucci, John Patchett, Saumil Patel, Steve Petruzza, David Pugmire, Silvio Rizzi, David H. Rogers, Oliver Rubel, Jorge Salinas, Sudhanshu Sane, Sergei Shudler, Alexandra Stewart, Karen Tsai, Terece L Turton, Will Usher, Zhe Wang, Gunther Weber, Corey Wetterer-Nelson, Jonathan Woodring, Abhishek Yenpure, The ECP ALPINE project: In Situ and Post Hoc Visualization Infrastructure and Analysis Capabilities for Exascale, <em>International Journal of High Performance Computing Applications</em>.
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[17]</strong> James Ahrens, Marco Arienti, Utkarsh Ayachit, Janine Bennett, Roba Binyahib12, Ayan Biswas, Peer-Timo Bremer, Eric Brugger, Roxana Bujack, Hamish Carr, Jieyang Chen, Hank Childs, <b>Soumya Dutta</b>, Berk Geveci, Cyrus Harrison, Subhashis Hazarika, Megan Hickman Fulp, Petar Hristov, Xuan Huang, Joseph Insley, Yuya Kawakami, Chloe Keilers, Mark Kim, James Kress, Matthew Larsen, Dan Lipsa, Meghanto Majumder, Nicole Marsaglia, Victor Mateevitsi, Valerio Pascucci, John Patchett, Saumil Patel, Steve Petruzza, David Pugmire, Silvio Rizzi, David H. Rogers, Oliver Rubel, Jorge Salinas, Sudhanshu Sane, Sergei Shudler, Alexandra Stewart, Karen Tsai, Terece L Turton, Will Usher, Zhe Wang, Gunther Weber, Corey Wetterer-Nelson, Jonathan Woodring, Abhishek Yenpure, The ECP ALPINE project: In Situ and Post Hoc Visualization Infrastructure and Analysis Capabilities for Exascale, <em>International Journal of High Performance Computing Applications</em>.
       <b>[Under review]</b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -97,6 +97,23 @@ td {
       </details></td>
    </tr>
 </table>
+
+
+<table>
+   <tr width="100%;">
+      <td width="23%;" valign="top">
+      <img style="height:100px" src="/images/vis24_dl_vector_uncert.png"/> </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[16]</strong> Atul Kumar, Siddharth Garg, and <b>Soumya Dutta</b>, Uncertainty-Aware Deep Neural Representations for Visual Analysis of Vector Field Data, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG), (IEEEVIS 2024)</em>.
+      [Link] [<a href="/papers/VIS24_DL_Vector_Uncertainty.pdf">Pdf</a>] [BibTex] [Accepted for presentation at IEEEVIS 2024]
+      <details>
+        <summary><b><span style="color:blue">Abstract</span></b></summary>
+        <p>
+        The widespread use of Deep Neural Networks (DNNs) has recently resulted in their application to challenging scientific visualization tasks. While advanced DNNs demonstrate impressive generalization abilities, understanding factors like prediction quality, confidence, robustness, and uncertainty is crucial. These insights aid application scientists in making informed decisions. However, DNNs lack inherent mechanisms to measure prediction uncertainty, prompting the creation of distinct frameworks for constructing robust uncertainty-aware models tailored to various visualization tasks. In this work, we develop uncertainty-aware implicit neural representations to model steady-state vector fields effectively. We comprehensively evaluate the efficacy of two principled deep uncertainty estimation techniques: (1) Deep Ensemble and (2) Monte Carlo Dropout, aimed at enabling uncertainty-informed visual analysis of features within steady vector field data. Our detailed exploration using several vector data sets indicate that uncertainty-aware models generate informative visualization results of vector field features. Furthermore, incorporating prediction uncertainty improves the resilience and interpretability of our DNN model, rendering it applicable for the analysis of non-trivial vector field data sets.
+        </p>
+      </details></td>
+   </tr>
+</table>
+
 
 
 <table>
