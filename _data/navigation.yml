@@ -10,6 +10,8 @@ main:
     url: /teaching/
   - title: "Gallery"
     url: /gallery/
+  - title: "Calendar"
+    url: /calendar/
   - title: "Openings"
     url: /openings/
   - title: "Services"
