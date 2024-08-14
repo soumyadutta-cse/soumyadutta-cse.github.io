@@ -46,7 +46,7 @@ td {
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/UQ_DL_Vis_Workshop.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C21]</strong> Shanu Saklani, Chitwan Goel, Shrey Bansal, Zhe Wang, <b>Soumya Dutta</b>, Tushar M. Athawale, David Pugmire, Christopher R. Johnson, Uncertainty-Informed Volume Visualization using Implicit Neural Representation, <em> IEEE Workshop on Uncertainty Visualization: Applications, Techniques, Software, and Decision Frameworks (in conjunction with IEEE VIS)</em>, 2024.
-      [Link] [Pdf] [BibTex] [Accepted]
+      [Link] [<a href="/papers/DL_uncert_volren_VIS_uncertainty_workshop.pdf">Pdf</a>] [BibTex] [Accepted] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
