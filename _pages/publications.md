@@ -19,7 +19,7 @@ td {
 <!-- ----------------------------------------------------------------------- -->
 <!-- ----------------------------------------------------------------------- -->
 
-<div style="text-align: right; font-size: 14px"> J =  Journal, C = Conference, TR = Technical Report, P = Poster </div>
+<div style="text-align: right; font-size: 14px"> J =  Journal, C = Conference, W = Workshop, TR = Technical Report, P = Poster </div>
 
 
 ## Under Review
@@ -45,7 +45,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/UQ_DL_Vis_Workshop.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C21]</strong> Shanu Saklani, Chitwan Goel, Shrey Bansal, Zhe Wang, <b>Soumya Dutta</b>, Tushar M. Athawale, David Pugmire, Christopher R. Johnson, Uncertainty-Informed Volume Visualization using Implicit Neural Representation, <em> IEEE Workshop on Uncertainty Visualization: Applications, Techniques, Software, and Decision Frameworks (in conjunction with IEEE VIS)</em>, 2024.
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W7]</strong> Shanu Saklani, Chitwan Goel, Shrey Bansal, Zhe Wang, <b>Soumya Dutta</b>, Tushar M. Athawale, David Pugmire, Christopher R. Johnson, Uncertainty-Informed Volume Visualization using Implicit Neural Representation, <em> IEEE Workshop on Uncertainty Visualization: Applications, Techniques, Software, and Decision Frameworks (in conjunction with IEEE VIS)</em>, 2024.
       [Link] [<a href="/papers/DL_uncert_volren_VIS_uncertainty_workshop.pdf">Pdf</a>] [BibTex] [Accepted] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -93,7 +93,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/juliacon.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C20]</strong> Li Tang, <b>Soumya Dutta</b>, Natalie Klein, Wayne Yu Wang, Jonathan David Wolfe, Luke Van Roekel, Nathan Urban, Ayan Biswas, and Earl Lawrence, Julia for HPC: In Situ Data Analysis with Julia for Climate Simulations at Large Scale, <em>Proceedings of JuliaCon</em>, 2024.
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C13]</strong> Li Tang, <b>Soumya Dutta</b>, Natalie Klein, Wayne Yu Wang, Jonathan David Wolfe, Luke Van Roekel, Nathan Urban, Ayan Biswas, and Earl Lawrence, Julia for HPC: In Situ Data Analysis with Julia for Climate Simulations at Large Scale, <em>Proceedings of JuliaCon</em>, 2024.
       [<a href="https://proceedings.juliacon.org/papers/10.21105/jcon.00134">Link</a>] [<a href="/papers/juliaCon_ClimateAnalysis.pdf">Pdf</a>] [<a href="/bibtex/insitu_julia.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -157,7 +157,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/mfix_woiv.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C19]</strong> <b>Soumya Dutta</b>, Dan Lipsa, Terece L. Turton, Berk Geveci, and James Ahrens, In Situ Analysis and Visualization of Extreme-Scale Particle Simulations, <em>WOIV: 6th International Workshop on In Situ Visualization</em>, 2022 (co-located with ISC High Performance Conference). [<a href="https://link.springer.com/chapter/10.1007/978-3-031-23220-6_19">Link</a>] [<a href="/papers/WOIV_MFIX_insitu_catalyst.pdf">Pdf</a>] [BibTex]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W6]</strong> <b>Soumya Dutta</b>, Dan Lipsa, Terece L. Turton, Berk Geveci, and James Ahrens, In Situ Analysis and Visualization of Extreme-Scale Particle Simulations, <em>WOIV: 6th International Workshop on In Situ Visualization</em>, 2022 (co-located with ISC High Performance Conference). [<a href="https://link.springer.com/chapter/10.1007/978-3-031-23220-6_19">Link</a>] [<a href="/papers/WOIV_MFIX_insitu_catalyst.pdf">Pdf</a>] [BibTex]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -172,7 +172,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/mfix_sc_video.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C18]</strong> Alexandra R. Stewart, Terece L. Turton, David H. Rogers, James P. Ahrens, and <b>Soumya Dutta</b>, <em>Visualization of MFIX-Exa Simulation Data for Chemical Looping Combustion</em>, SC22 Scientific Visualization and Data Analytics Showcase, 2022. [Link] [<a href="/papers/mfix_sc_video_paper.pdf">Pdf</a>] [BibTex]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Visualization Showcase]</strong> Alexandra R. Stewart, Terece L. Turton, David H. Rogers, James P. Ahrens, and <b>Soumya Dutta</b>, <em>Visualization of MFIX-Exa Simulation Data for Chemical Looping Combustion</em>, SC22 Scientific Visualization and Data Analytics Showcase, 2022. [Link] [<a href="/papers/mfix_sc_video_paper.pdf">Pdf</a>] [BibTex]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -187,7 +187,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/insitu_dist_book_chapter.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Book Chapter 4]</strong> <b>Soumya Dutta</b>, Subhashis Hazarika, and Han-Wei Shen, In Situ Statistical Distribution-based Data Summarization and Visual Analysis, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-81627-8_4">Link</a>] [<a href="/papers/In_situ_distribution_chapter_preprint.pdf">Pdf</a>] [<a href="/bibtex/dist_chapter.bib">BibTex</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Book Chap. 4]</strong> <b>Soumya Dutta</b>, Subhashis Hazarika, and Han-Wei Shen, In Situ Statistical Distribution-based Data Summarization and Visual Analysis, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-81627-8_4">Link</a>] [<a href="/papers/In_situ_distribution_chapter_preprint.pdf">Pdf</a>] [<a href="/bibtex/dist_chapter.bib">BibTex</a>] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -201,7 +201,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/cinema_chapter.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Book Chapter 3]</strong> David Rogers, <b>Soumya Dutta</b>, Divya Banesh, Terece L. Turton, Ethan Stam, and James Ahrens, In situ Solutions with CinemaScience, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-81627-8_14">Link</a>] [<a href="/papers/cinema_chapter.pdf">Pdf</a>] [<a href="/bibtex/cinema_chapter.bib">BibTex</a>]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Book Chap. 3]</strong> David Rogers, <b>Soumya Dutta</b>, Divya Banesh, Terece L. Turton, Ethan Stam, and James Ahrens, In situ Solutions with CinemaScience, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-81627-8_14">Link</a>] [<a href="/papers/cinema_chapter.pdf">Pdf</a>] [<a href="/bibtex/cinema_chapter.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -216,7 +216,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/sampling_chapter.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Book Chapter 2]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Terece Turton, and James Paul Ahrens, Sampling for Scientific Data Analysis and Reduction, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-81627-8_2">Link</a>] [<a href="/papers/Sampling_Chapter.pdf">Pdf</a>] [<a href="/bibtex/sampling_chapter.bib">BibTex</a>]  
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Book Chap. 2]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Terece Turton, and James Paul Ahrens, Sampling for Scientific Data Analysis and Reduction, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-81627-8_2">Link</a>] [<a href="/papers/Sampling_Chapter.pdf">Pdf</a>] [<a href="/bibtex/sampling_chapter.bib">BibTex</a>]  
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -295,7 +295,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/ieeebigdata_I1_summarization.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C17]</strong> <b>Soumya Dutta</b>, Humayra Tasnim, Terece L. Turton, and James Ahrens, In Situ Adaptive Spatio-Temporal Data Summarization, <em>IEEE International Conference on Big Data (IEEE Bigdata)</em>, 2021, pp. 315-321. [<a href="https://ieeexplore.ieee.org/document/9671581">Link</a>] [<a href="/papers/IEEEBigData_I1_based_summarization.pdf">Pdf</a>] [<a href="/bibtex/Bigdata_fusion.bib">BibTex</a>]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C12]</strong> <b>Soumya Dutta</b>, Humayra Tasnim, Terece L. Turton, and James Ahrens, In Situ Adaptive Spatio-Temporal Data Summarization, <em>IEEE International Conference on Big Data (IEEE Bigdata)</em>, 2021, pp. 315-321. [<a href="https://ieeexplore.ieee.org/document/9671581">Link</a>] [<a href="/papers/IEEEBigData_I1_based_summarization.pdf">Pdf</a>] [<a href="/bibtex/Bigdata_fusion.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -309,7 +309,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/isav_21.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C16]</strong> <b>Soumya Dutta</b>, Natalie Klein, Li Tang, Jonathan Wolfe, Luke Van Roekel, James Benedict, Ayan Biswas, Earl Lawrence, and Nathan Urban, In Situ Climate Modeling for Analyzing Extreme Weather Events, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2021)</em>, pp. 18-23, co-located with SC 2021. [<a href="https://dl.acm.org/doi/10.1145/3490138.3490142">Link</a>] [<a href="/papers/SSW_GEV_ISAV21.pdf">Pdf</a>]  [<a href="/bibtex/ISAV_climate_modeling.bib">BibTex</a>] <b><span style="color: red">[Best Paper Award]</span></b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W5]</strong> <b>Soumya Dutta</b>, Natalie Klein, Li Tang, Jonathan Wolfe, Luke Van Roekel, James Benedict, Ayan Biswas, Earl Lawrence, and Nathan Urban, In Situ Climate Modeling for Analyzing Extreme Weather Events, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2021)</em>, pp. 18-23, co-located with SC 2021. [<a href="https://dl.acm.org/doi/10.1145/3490138.3490142">Link</a>] [<a href="/papers/SSW_GEV_ISAV21.pdf">Pdf</a>]  [<a href="/bibtex/ISAV_climate_modeling.bib">BibTex</a>] <b><span style="color: red">[Best Paper Award]</span></b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -324,7 +324,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/topology_chapter.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Book Chapter 1]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Flow Topology from Flowmap Expansion and Contraction, Topological Methods in Data Analysis and Visualization VI, Springer</em>, 2021. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-83500-2_7">Link</a>] [<a href="/papers/Roxana_TopoInVis_2019.pdf">Pdf</a>] [<a href="/bibtex/topology_chapter.bib">BibTex</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Book Chap. 1]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Flow Topology from Flowmap Expansion and Contraction, Topological Methods in Data Analysis and Visualization VI, Springer</em>, 2021. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-83500-2_7">Link</a>] [<a href="/papers/Roxana_TopoInVis_2019.pdf">Pdf</a>] [<a href="/bibtex/topology_chapter.bib">BibTex</a>] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -391,7 +391,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/envirvis_2019.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C15]</strong> <b>Soumya Dutta</b>, Riley X. Brady, Mathew E. Maltrud, Philip Wolfram, and Roxana Bujack, <em>Leveraging Lagrangian Analysis for Discriminating Nutrient Origins, Visualization in Environmental Sciences (EnvirVis)</em>, 2019, pp. 17-24. [<a href="https://doi.org/10.2312/envirvis.20191100">Link</a>] [<a href="/papers/envirvis_2019.pdf">Pdf</a>] [<a href="/bibtex/Envirvis_lagrange.bib">BibTex</a>]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W4]</strong> <b>Soumya Dutta</b>, Riley X. Brady, Mathew E. Maltrud, Philip Wolfram, and Roxana Bujack, <em>Leveraging Lagrangian Analysis for Discriminating Nutrient Origins, Visualization in Environmental Sciences (EnvirVis)</em>, 2019, pp. 17-24. [<a href="https://doi.org/10.2312/envirvis.20191100">Link</a>] [<a href="/papers/envirvis_2019.pdf">Pdf</a>] [<a href="/bibtex/Envirvis_lagrange.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -405,7 +405,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/topoinvis_2019.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C14]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Flow Topology from Flowmap Expansion and Contraction, Workshop on  Topological Methods in Data Analysis and Visualization (TopoInVis)</em>, 2019. [<a href="https://cgl.ethz.ch/publications/papers/paperBuj19b.php">Link</a>] [<a href="/papers/Roxana_TopoInVis_2019.pdf">Pdf</a>] [<a href="/bibtex/Topoinvis_topology.bib">BibTex</a>] <b><span style="color: red">[Best Paper Award]</span></b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W3]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Flow Topology from Flowmap Expansion and Contraction, Workshop on  Topological Methods in Data Analysis and Visualization (TopoInVis)</em>, 2019. [<a href="https://cgl.ethz.ch/publications/papers/paperBuj19b.php">Link</a>] [<a href="/papers/Roxana_TopoInVis_2019.pdf">Pdf</a>] [<a href="/bibtex/Topoinvis_topology.bib">BibTex</a>] <b><span style="color: red">[Best Paper Award]</span></b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -421,7 +421,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/eurovis_shoprt_2019.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C13]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Irene Baeza Rojo, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Saddles and their Connection to FTLE, EG/VGTC Conference on Visualization (EuroVis Short Paper)</em>, 2019, pp. 49-53. [<a href="https://doi.org/10.2312/evs.20191169">Link</a>] [<a href="/papers/Roxana_Evis_2019.pdf">Pdf</a>] [<a href="/bibtex/Evis_topology.bib">BibTex</a>]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C11]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Irene Baeza Rojo, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Saddles and their Connection to FTLE, EG/VGTC Conference on Visualization (EuroVis Short Paper)</em>, 2019, pp. 49-53. [<a href="https://doi.org/10.2312/evs.20191169">Link</a>] [<a href="/papers/Roxana_Evis_2019.pdf">Pdf</a>] [<a href="/bibtex/Evis_topology.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -450,7 +450,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/pvis2018_fuzzy_insitu.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C12]</strong> <b>Soumya Dutta</b>, Han-Wei Shen, and Jen-Ping Chen, In Situ Prediction Driven Feature Analysis in Jet Engine Simulations, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis)</em>, 2018, pp. 66-75. [<a href="https://ieeexplore.ieee.org/document/8365977">Link</a>] [<a href="/papers/pvis_18_fuzzy_insitu.pdf">Pdf</a>] [<a href="/bibtex/Pvis_fuzzy_stall.bib">BibTex</a>]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C10]</strong> <b>Soumya Dutta</b>, Han-Wei Shen, and Jen-Ping Chen, In Situ Prediction Driven Feature Analysis in Jet Engine Simulations, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis)</em>, 2018, pp. 66-75. [<a href="https://ieeexplore.ieee.org/document/8365977">Link</a>] [<a href="/papers/pvis_18_fuzzy_insitu.pdf">Pdf</a>] [<a href="/bibtex/Pvis_fuzzy_stall.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -465,7 +465,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/tzu_sampling_pvis_18.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C11]</strong> Tzu-Hsuan Wei, <b>Soumya Dutta</b>, and Han-Wei Shen, Information Guided Data Sampling and Recovery using Bitmap Indexing, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis)</em>, 2018, pp. 56-65. [<a href="https://ieeexplore.ieee.org/document/8365976">Link</a>] [<a href="/papers/pvis18_tzu_sampling.pdf">Pdf</a>] [<a href="/bibtex/Pvis_sampling.bib">BibTex</a>]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C9]</strong> Tzu-Hsuan Wei, <b>Soumya Dutta</b>, and Han-Wei Shen, Information Guided Data Sampling and Recovery using Bitmap Indexing, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis)</em>, 2018, pp. 56-65. [<a href="https://ieeexplore.ieee.org/document/8365976">Link</a>] [<a href="/papers/pvis18_tzu_sampling.pdf">Pdf</a>] [<a href="/bibtex/Pvis_sampling.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -480,7 +480,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/isav_sampling_18.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C10]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Jesus Pulido, and James Ahrens, In Situ Data-Driven Adaptive Sampling for Large-scale Simulation Data Summarization, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV)</em>, pp. 13-18, co-located with SC 2018. [<a href="https://dl.acm.org/doi/10.1145/3281464.3281467">Link</a>] [<a href="/papers/isav_sampling.pdf">Pdf</a>] [<a href="/bibtex/ISAV_sampling.bib">BibTex</a>] 
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W2]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Jesus Pulido, and James Ahrens, In Situ Data-Driven Adaptive Sampling for Large-scale Simulation Data Summarization, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV)</em>, pp. 13-18, co-located with SC 2018. [<a href="https://dl.acm.org/doi/10.1145/3281464.3281467">Link</a>] [<a href="/papers/isav_sampling.pdf">Pdf</a>] [<a href="/bibtex/ISAV_sampling.bib">BibTex</a>] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -494,7 +494,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/isav_trigger_18.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C9]</strong> Matthew Larsen, Amy Woods, Nicole Marsaglia, Ayan Biswas, <b>Soumya Dutta</b>, Cyrus Harrison, and Hank Childs, A Flexible System For In Situ Triggers, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2018)</em>, pp. 1-6, co-located with SC 2018. [<a href="https://dl.acm.org/doi/10.1145/3281464.3281468">Link</a>] [<a href="/papers/isav_trigger.pdf">Pdf</a>] [<a href="/bibtex/ISAV_trigger.bib">BibTex</a>] <b><span style="color: red">[Best Paper Award]</span></b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W1]</strong> Matthew Larsen, Amy Woods, Nicole Marsaglia, Ayan Biswas, <b>Soumya Dutta</b>, Cyrus Harrison, and Hank Childs, A Flexible System For In Situ Triggers, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2018)</em>, pp. 1-6, co-located with SC 2018. [<a href="https://dl.acm.org/doi/10.1145/3281464.3281468">Link</a>] [<a href="/papers/isav_trigger.pdf">Pdf</a>] [<a href="/bibtex/ISAV_trigger.bib">BibTex</a>] <b><span style="color: red">[Best Paper Award]</span></b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
