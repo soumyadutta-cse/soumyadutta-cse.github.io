@@ -22,13 +22,13 @@ td {
 <div style="text-align: right; font-size: 14px"> J =  Journal, C = Conference, W = Workshop, TR = Technical Report, P = Poster </div>
 
 
-## Under Review
+## Publications
 
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/alpine.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> James Ahrens, Marco Arienti, Utkarsh Ayachit, Janine Bennett, Roba Binyahib12, Ayan Biswas, Peer-Timo Bremer, Eric Brugger, Roxana Bujack, Hamish Carr, Jieyang Chen, Hank Childs, <b>Soumya Dutta</b>, Berk Geveci, Cyrus Harrison, Subhashis Hazarika, Megan Hickman Fulp, Petar Hristov, Xuan Huang, Joseph Insley, Yuya Kawakami, Chloe Keilers, Mark Kim, James Kress, Matthew Larsen, Dan Lipsa, Meghanto Majumder, Nicole Marsaglia, Victor Mateevitsi, Valerio Pascucci, John Patchett, Saumil Patel, Steve Petruzza, David Pugmire, Silvio Rizzi, David H. Rogers, Oliver Rubel, Jorge Salinas, Sudhanshu Sane, Sergei Shudler, Alexandra Stewart, Karen Tsai, Terece L Turton, Will Usher, Zhe Wang, Gunther Weber, Corey Wetterer-Nelson, Jonathan Woodring, Abhishek Yenpure, The ECP ALPINE project: In Situ and Post Hoc Visualization Infrastructure and Analysis Capabilities for Exascale, <em>International Journal of High Performance Computing Applications</em>.
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J17]</strong> James Ahrens, Marco Arienti, Utkarsh Ayachit, Janine Bennett, Roba Binyahib12, Ayan Biswas, Peer-Timo Bremer, Eric Brugger, Roxana Bujack, Hamish Carr, Jieyang Chen, Hank Childs, <b>Soumya Dutta</b>, Berk Geveci, Cyrus Harrison, Subhashis Hazarika, Megan Hickman Fulp, Petar Hristov, Xuan Huang, Joseph Insley, Yuya Kawakami, Chloe Keilers, Mark Kim, James Kress, Matthew Larsen, Dan Lipsa, Meghanto Majumder, Nicole Marsaglia, Victor Mateevitsi, Valerio Pascucci, John Patchett, Saumil Patel, Steve Petruzza, David Pugmire, Silvio Rizzi, David H. Rogers, Oliver Rubel, Jorge Salinas, Sudhanshu Sane, Sergei Shudler, Alexandra Stewart, Karen Tsai, Terece L Turton, Will Usher, Zhe Wang, Gunther Weber, Corey Wetterer-Nelson, Jonathan Woodring, Abhishek Yenpure, The ECP ALPINE project: In Situ and Post Hoc Visualization Infrastructure and Analysis Capabilities for Exascale, <em>International Journal of High Performance Computing Applications</em>. [Accepted]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -37,8 +37,6 @@ td {
       </details></td>
    </tr>
 </table>
-
-## Publications
 
 
 <table>
