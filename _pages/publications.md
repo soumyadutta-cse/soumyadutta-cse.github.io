@@ -59,7 +59,7 @@ td {
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/vis24_dl_vector_uncert.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J16]</strong> Atul Kumar, Siddharth Garg, and <b>Soumya Dutta</b>, Uncertainty-Aware Deep Neural Representations for Visual Analysis of Vector Field Data, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG), (IEEEVIS 2024)</em>.
-      [Link] [<a href="/papers/VIS24_DL_Vector_Uncertainty.pdf">Pdf</a>] [BibTex] [Accepted]
+      [<a href="https://ieeexplore.ieee.org/document/10669790">Link</a>] [<a href="/papers/VIS24_DL_Vector_Uncertainty.pdf">Pdf</a>] [<a href="/bibtex/VIS24_vectornet.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
