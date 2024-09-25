@@ -41,6 +41,13 @@ Welcome to the Intelligent Visual Computing and Big Data Science Research Group 
 
 <h3 style="color:Chocolate"> Research Grants: </h3>
 
+<b>5. Project Title: Intelligent Visual Computing of Extreme-scale Data for Accelerating Scientific Discovery </b><br>
+PI: Soumya Dutta (IIT Kanpur)<br>
+Duration: 2 years <br>
+Funding Amount: ~ INR 25.00 Lakh <br>
+Funding Agency: IIT Kanpur, Initiation Grant<br>
+Status: Prposal Accecpetd <br>
+
 <b>4. Project Title: Development of AI-Enabled National Portal for Efficient
 Search of Missing People </b><br>
 PI: Tufan Guha (IIT Kanpur)<br>
@@ -48,7 +55,7 @@ Co-PI: Soumya Dutta (IIT Kanpur)<br>
 Duration: 2 years <br>
 Funding Amount: ~ INR 20.00 Lakh <br>
 Funding Agency: C3iHub, IIT Kanpur<br>
-Status: Projected accepted, funds awaited <br>
+Status: Ongoing <br>
 
 <b>3. Project Title: Proactive and Generalized Deepfake Defense Mechanisms to Reinforce Cyberspace </b><br>
 PI: Chandranath Adak (IIT Patna)<br>
@@ -56,7 +63,7 @@ Co-PI: Soumi Chattopadhyay (IIT Indore), Soumya Dutta (IIT Kanpur), Zahid Akhtar
 Duration: 3 years <br>
 Funding Amount: ~ INR 34.00 Lakh <br>
 Funding Agency: C3iHub, IIT Kanpur<br>
-Status: Projected accepted, funds awaited <br>
+Status: Ongoing <br>
 
 <b>2. Project Title: Enabling Interactive Big Data Analytics and Visualization at Exascale via In Situ Efficient Statistical Data Modeling </b><br>
 PI: Soumya Dutta (IIT Kanpur)<br>
