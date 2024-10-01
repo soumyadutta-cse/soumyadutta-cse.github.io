@@ -29,10 +29,11 @@ author_profile: true
 
 ## International Program Committee (IPC) Member
 
-13. IEEE HiPC 2024
-13. IEEE Cluster 2024
-12. IEEE Visualization Full Papers (2022-24)
-11. EG/VGTC Conference on Visualization (EuroVis 2023)
+
+14. IEEE Visualization Full Papers (2022-24)
+13. EG/VGTC Conference on Visualization (EuroVis 2023, 2024 (STAR))
+12. IEEE HiPC 2024
+11. IEEE Cluster 2024
 10. International Conference on High Performance Computing, Data, and Analytics (HiPC 2023)
 9. IEEE Pacific Visualization (PacificVis 2021-23, 2024 (TVCG Track))
 8. EuroGraphics Symposium on Parallel Graphics and Visualization (EGPGV 2021-22)
