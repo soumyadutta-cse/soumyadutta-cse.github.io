@@ -31,7 +31,7 @@ author_profile: true
 
 
 14. IEEE Visualization Full Papers (2022-24)
-13. EG/VGTC Conference on Visualization (EuroVis 2023, 2024 (STAR))
+13. EG/VGTC Conference on Visualization (EuroVis 2023-2025)
 12. IEEE HiPC 2024
 11. IEEE Cluster 2024
 10. International Conference on High Performance Computing, Data, and Analytics (HiPC 2023)
