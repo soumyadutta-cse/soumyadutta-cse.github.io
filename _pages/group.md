@@ -95,10 +95,10 @@ html {
 </div> -->
 
 1. <b>Shanu Saklani</b> <br>
-Research Theme: Efficeint and Interpretable Deep Learning Methods for Visual Computing of Big Data
+Research Theme: Efficient, Interpretable, and Uncertainty-Aware Deep Learning Methods for Visual Computing of Big Data
 
 2. <b>Sankhadeep Bhowmick</b> <br>
-Research Theme: Efficeint and Interpretable Deep Learning Methods for Visual Computing of Big Data
+Research Theme: Efficient, Interpretable, and Uncertainty-Aware Deep Learning Methods for Visual Computing of Big Data
 
 
 <!-- <h2 style="text-align:left">MSR Students</h2>
@@ -147,14 +147,14 @@ Topic: xAI + Visual Analytics for Comprehending Adversarial Attacks on Facial Re
 
 
 
-<h2 style="text-align:left">UGP Students</h2>
+<h2 style="text-align:left">B.Tech. UGP Students</h2>
 
 11. Chitwan Goel [CSE] [Sem. 2023-24-II]<br>
     Project Title: Representing Large 3D Volumetric Data using Uncertainty-Aware Deep Learning Models
 10. Shrey Bansal [CSE] [Sem. 2023-24-II]<br>
     Project Title: Representing Large 3D Volumetric Data using Uncertainty-Aware Deep Learning Models
 9. Aditya Bangar [CSE] [Sem. 2023-24-II]<br>
-    Project Title: Uncertainty Aware Affective Behaviour Analysis: Baseline Setup
+    Project Title: Uncertainty Aware Affective Behavior Analysis: Baseline Setup
 8. Ahmad Amaan [ME] [Sem. 2023-24-II]<br>
     Project Title: Evaluating Generative Models for Volume Visualization
 7. Yerusu Dharini Reddy [EE] [Sem. 2023-24-II]<br>
