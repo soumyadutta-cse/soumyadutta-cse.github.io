@@ -95,10 +95,13 @@ html {
 </div> -->
 
 1. <b>Shanu Saklani</b> <br>
-Research Theme: Efficient, Interpretable, and Uncertainty-Aware Deep Learning Methods for Visual Computing of Big Data
+Research Theme: Deep Learning Methods for Analysis and Visual Computing of Big Data
 
 2. <b>Sankhadeep Bhowmick</b> <br>
-Research Theme: Efficient, Interpretable, and Uncertainty-Aware Deep Learning Methods for Visual Computing of Big Data
+Research Theme: Deep Learning Methods for Analysis and Visual Computing of Big Data
+
+3. <b>Ananya Chaturvedi</b> <br>
+Research Theme: Deep Learning Methods for Analysis and Visual Computing of Big Data
 
 
 <!-- <h2 style="text-align:left">MSR Students</h2>

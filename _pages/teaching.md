@@ -6,18 +6,11 @@ author_profile: true
 ---
 
 
-## <span style="color:red"> Upcoming Semester: 2024-25-II: </span>
+## <span style="color:red"> Current Semester: 2024-25-II: </span>
 
 ## CS661 - Big Data Visual Analytics
 
 For more details and list of topics that will be covered, please check the past course section at the bottom of this page.
-
-## <span style="color:red"> Current Semester: 2024-25-I: </span>
-
-## CS360 - Introduction to Computer Graphics
-
-## CS677 - Topics in Large Data Analysis and Visualization
-(This course is jointly offered with Prof. Preeti Malakar)
 
 
 ## <span style="color:red"> Past Courses: </span>

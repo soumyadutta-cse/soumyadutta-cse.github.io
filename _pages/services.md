@@ -30,12 +30,12 @@ author_profile: true
 ## International Program Committee (IPC) Member
 
 
-14. IEEE Visualization Full Papers (2022-24)
+14. IEEE Visualization Full Papers (IEEE VIS 2022-24)
 13. EG/VGTC Conference on Visualization (EuroVis 2023-2025)
 12. IEEE HiPC 2024
 11. IEEE Cluster 2024
 10. International Conference on High Performance Computing, Data, and Analytics (HiPC 2023)
-9. IEEE Pacific Visualization (PacificVis 2021-23, 2024 (TVCG Track))
+9. IEEE Pacific Visualization (PacificVis 2021-23, 2024 (TVCG Track), 2025 (Conference Track))
 8. EuroGraphics Symposium on Parallel Graphics and Visualization (EGPGV 2021-22)
 7. IEEE Symposium on Large Data Analysis and Visualization (LDAV 2019, 2021-23)
 6. Visualization in Environmental Sciences Workshop (EnvirVis 2019)
@@ -79,6 +79,7 @@ author_profile: true
 
 ## PhD Comprehensive and SOTA Examination Committee Member (IITK)
 
+7. Priya
 6. Harshit Goel
 5. Avinab Anand
 4. Sarbajit Ghosh
