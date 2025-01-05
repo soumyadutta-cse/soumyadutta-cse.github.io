@@ -95,13 +95,12 @@ html {
 </div> -->
 
 1. <b>Shanu Saklani</b> <br>
-Research Theme: Deep Learning Methods for Analysis and Visual Computing of Big Data
 
 2. <b>Sankhadeep Bhowmick</b> <br>
-Research Theme: Deep Learning Methods for Analysis and Visual Computing of Big Data
 
 3. <b>Ananya Chaturvedi</b> <br>
-Research Theme: Deep Learning Methods for Analysis and Visual Computing of Big Data
+
+4. <b>Arpita Santra</b> <br>
 
 
 <!-- <h2 style="text-align:left">MSR Students</h2>
