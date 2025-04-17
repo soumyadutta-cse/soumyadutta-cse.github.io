@@ -29,7 +29,7 @@ author_profile: true
 
 ## International Program Committee (IPC) Member
 
-
+15. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC 2025)
 14. IEEE Visualization Full Papers (IEEE VIS 2022-24)
 13. EG/VGTC Conference on Visualization (EuroVis 2023-2025)
 12. IEEE HiPC 2024
@@ -87,12 +87,12 @@ author_profile: true
 2. Joydeep Mondal
 1. Muzafar Wani
 
-## MTech Thesis Final Examination Committee Member (IITK)
+<!-- ## MTech Thesis Final Examination Committee Member (IITK)
 
 4. Karthik Kumar G R (EE)
 3. Ketan Shakya (EE)
 2. Landa Tarakeswara Rao (EE) 
-1. Ashankur Tripathi (CSE)
+1. Ashankur Tripathi (CSE) -->
 
 
 
