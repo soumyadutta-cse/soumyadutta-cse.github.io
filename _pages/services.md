@@ -29,7 +29,7 @@ author_profile: true
 
 ## International Program Committee (IPC) Member
 
-15. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC 2025)
+15. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SuperComputing 2025)
 14. IEEE Visualization Full Papers (IEEE VIS 2022-24)
 13. EG/VGTC Conference on Visualization (EuroVis 2023-2025)
 12. IEEE HiPC 2024
