@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## <span style="color:red"> Current Semester: 2024-25-II: </span>
+## <span style="color:red"> Current Semester: Summer 2025 </span>
 
 ## CS661 - Big Data Visual Analytics
 
@@ -15,7 +15,7 @@ For more details and list of topics that will be covered, please check the past 
 
 ## <span style="color:red"> Past Courses: </span>
 
-### Semester 2023-24-II: CS661 - Big Data Visual Analytics
+### CS661 - Big Data Visual Analytics (Spring 2023, Spring 2024, Spring 2025)
 
 <details>
     <summary><b><span style="color:blue">Click for more details</span></b></summary>
@@ -49,7 +49,7 @@ For more details and list of topics that will be covered, please check the past 
 
 </details>
 
-### Semester 2023-24-I: CS360A - Introduction to Computer Graphics
+### CS360 - Introduction to Computer Graphics (Autumn 2023, Autumn 2024)
 
 <details>
     <summary><b><span style="color:blue">Click for more details</span></b></summary>
@@ -83,7 +83,7 @@ For more details and list of topics that will be covered, please check the past 
 
 </details>
 
-### Semester 2023-24-I: CS677A - Topics in Large Data Analysis and Visualization
+### CS677 - Topics in Large Data Analysis and Visualization (Autumn 2023, Autumn 2024)
 
 <details>
     <summary><b><span style="color:blue">Click for more details</span></b></summary>
@@ -116,7 +116,7 @@ For more details and list of topics that will be covered, please check the past 
 </details>
 
 
-### Semester 2022-23-II: CS661A - Big Data Visual Analytics
+<!-- ### Semester 2022-23-II: CS661A - Big Data Visual Analytics
 
 <details>
     <summary><b><span style="color:blue">Click for more details</span></b></summary>
@@ -148,7 +148,7 @@ For more details and list of topics that will be covered, please check the past 
     4.  Research papers, articels, and other study materials provided during the class to cover selected topics.<br>
 </p>	
 
-</details>
+</details> -->
 
 
 

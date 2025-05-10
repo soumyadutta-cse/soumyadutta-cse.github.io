@@ -54,8 +54,8 @@ Status: Ongoing <br>
 <b>2. Project Title: Intelligent Visual Computing of Extreme-scale Data for Accelerating Scientific Discovery </b><br>
 PI: Soumya Dutta (IIT Kanpur)<br>
 Duration: 2 years <br>
-Funding Amount: ~ INR 25.00 Lakh <br>
-Funding Agency: IIT Kanpur, Initiation Grant<br>
+Funding Amount: ~ INR 30.00 Lakh <br>
+Funding Agency: IIT Kanpur Initiation Grant + Research-I Foundation Grant<br>
 Status: Ongoing <br>
 
 <b>3. Project Title: Enabling Interactive Big Data Analytics and Visualization at Exascale via In Situ Efficient Statistical Data Modeling </b><br>

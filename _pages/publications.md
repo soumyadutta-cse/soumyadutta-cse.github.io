@@ -24,10 +24,26 @@ td {
 
 ## Publications
 
+
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/alpine.png"/> </td>
+      <img style="width:300px" src="/images/fg2025.png"/> </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C14]</strong> Anurag Deo, Aditya Bangar, Chandranath Adak, Rahul Verma, Deepak Nagar, Zahid Akhtar, <b>Soumya Dutta</b>, Soumi Chattopadhyay and Sukalpa Chanda, IndicSideFace: A Dataset for Advancing Deepfake Detection on Side-Face Perspectives of Indian Subjects, 
+      <em>19th International Conference on Automatic Face and Gesture Recognition (FG 2025)</em>. [Link] [<a href="/papers/FG2025.pdf">Pdf</a>] [BibTex]
+      <details>
+        <summary><b><span style="color:blue">Abstract</span></b></summary>
+        <p>
+        The rapid advancement of generative models and their misuse have made deepfake detection a crucial area of research. However, existing datasets and detection techniques predominantly focus on frontal-face perspectives, leaving sideface views largely underexplored. To bridge this gap, we present IndicSideFace, a novel dataset specifically curated for advancing deepfake detection on side-face perspectives of Indian subjects. This dataset encompasses a diverse range of side-face angles, varying lighting conditions, and demographic attributes, providing a comprehensive benchmark for evaluating detection algorithms. Our experiments using state-of-the-art models highlight the unique challenges posed by side-face deepfakes, such as partial facial feature visibility and uncommon head poses. The findings reveal significant limitations in existing detection approaches when applied to side-face perspectives, underscoring the need for specialized solutions. With IndicSideFace, we aim to strengthen the resilience of deepfake detectors and stimulate further research in this critical yet underexplored domain.
+        </p>
+      </details></td>
+   </tr>
+</table>
+
+<table>
+   <tr width="100%;">
+      <td width="23%;" valign="top">
+      <img style="width:300px" src="/images/alpine.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J17]</strong> James Ahrens, Marco Arienti, Utkarsh Ayachit, Janine Bennett, Roba Binyahib, Ayan Biswas, Peer-Timo Bremer, Eric Brugger, Roxana Bujack, Hamish Carr, Jieyang Chen, Hank Childs, <b>Soumya Dutta</b>, Berk Geveci, Cyrus Harrison, Subhashis Hazarika, Megan Hickman Fulp, Petar Hristov, Xuan Huang, Joseph Insley, Yuya Kawakami, Chloe Keilers, Mark Kim, James Kress, Matthew Larsen, Dan Lipsa, Meghanto Majumder, Nicole Marsaglia, Victor Mateevitsi, Valerio Pascucci, John Patchett, Saumil Patel, Steve Petruzza, David Pugmire, Silvio Rizzi, David H. Rogers, Oliver Rubel, Jorge Salinas, Sudhanshu Sane, Sergei Shudler, Alexandra Stewart, Karen Tsai, Terece L Turton, Will Usher, Zhe Wang, Gunther Weber, Corey Wetterer-Nelson, Jonathan Woodring, Abhishek Yenpure, The ECP ALPINE project: In Situ and Post Hoc Visualization Infrastructure and Analysis Capabilities for Exascale, <em>International Journal of High Performance Computing Applications</em>. [<a href="https://journals.sagepub.com/doi/10.1177/10943420241286521">Link</a>] [<a href="/papers/ALPINE_IJHPCA.pdf">Pdf</a>] [<a href="/bibtex/alpine_journal.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -43,7 +59,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/UQ_DL_Vis_Workshop.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W7]</strong> Shanu Saklani, Chitwan Goel, Shrey Bansal, Zhe Wang, <b>Soumya Dutta</b>, Tushar M. Athawale, David Pugmire, Christopher R. Johnson, Uncertainty-Informed Volume Visualization using Implicit Neural Representation, <em> IEEE Workshop on Uncertainty Visualization: Applications, Techniques, Software, and Decision Frameworks (in conjunction with IEEE VIS)</em>, 2024.
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W7]</strong> Shanu Saklani, Chitwan Goel, Shrey Bansal, Zhe Wang, <b>Soumya Dutta</b>, Tushar M. Athawale, David Pugmire, Christopher R. Johnson, Uncertainty-Informed Volume Visualization using Implicit Neural Representation, <em> IEEE Workshop on Uncertainty Visualization: Applications, Techniques, Software, and Decision Frameworks (Co-located with IEEEVIS)</em>, 2024.
       [<a href="https://ieeexplore.ieee.org/document/10750137">Link</a>] [<a href="/papers/DL_uncert_volren_VIS_uncertainty_workshop.pdf">Pdf</a>] [BibTex] [Accepted] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -57,7 +73,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/vis24_dl_vector_uncert.png"/> </td>
+      <img style="width:300px" src="/images/vis24_dl_vector_uncert.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J16]</strong> Atul Kumar, Siddharth Garg, and <b>Soumya Dutta</b>, Uncertainty-Aware Deep Neural Representations for Visual Analysis of Vector Field Data, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG), (IEEEVIS 2024)</em>.
       [<a href="https://ieeexplore.ieee.org/document/10669790">Link</a>] [<a href="/papers/VIS24_DL_Vector_Uncertainty.pdf">Pdf</a>] [<a href="/bibtex/VIS24_vectornet.bib">BibTex</a>]
       <details>
@@ -74,7 +90,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/tvcg_dl_uncert_image_synthesis.png"/> </td>
+      <img style="width:300px" src="/images/tvcg_dl_uncert_image_synthesis.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J15]</strong> <b>Soumya Dutta</b>, Faheem Nizar, Ahmad Amaan, and Ayan Acharya, Visual Analysis of Prediction Uncertainty in Neural Networks for Deep Image Synthesis, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG),</em> 2024.
       [<a href="https://ieeexplore.ieee.org/document/10541088">Link</a>] [<a href="/papers/TVCG_2024_Uncert_DL_ImageAnal.pdf">Pdf</a>] [<a href="/bibtex/TVCG_DL_Uncert.bib">BibTex</a>]
       <details>
@@ -90,7 +106,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/juliacon.png"/> </td>
+      <img style="width:300px" src="/images/juliacon.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C13]</strong> Li Tang, <b>Soumya Dutta</b>, Natalie Klein, Wayne Yu Wang, Jonathan David Wolfe, Luke Van Roekel, Nathan Urban, Ayan Biswas, and Earl Lawrence, Julia for HPC: In Situ Data Analysis with Julia for Climate Simulations at Large Scale, <em>Proceedings of JuliaCon</em>, 2024.
       [<a href="https://proceedings.juliacon.org/papers/10.21105/jcon.00134">Link</a>] [<a href="/papers/juliaCon_ClimateAnalysis.pdf">Pdf</a>] [<a href="/bibtex/insitu_julia.bib">BibTex</a>]
       <details>
@@ -108,7 +124,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/mfix_jocs.png"/> </td>
+      <img style="width:300px" src="/images/mfix_jocs.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J14]</strong> <b>Soumya Dutta</b>, Terece L. Turton, David Rogers, Jordan M. Musser, James Ahrens, and Ann S. Almgren, In Situ Feature Analysis for Large-scale Multiphase Flow Simulations, <em>Journal of Computational Science (Elsivier)</em>, Volume: 63, 2022.
       [<a href="https://doi.org/10.1016/j.jocs.2022.101773">Link</a>] [<a href="/papers/mfix_jour_comp_sc.pdf">Pdf</a>] [<a href="/bibtex/JCS_mfix.bib">BibTex</a>]
       <details>
@@ -124,7 +140,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/Humayra_cise.png"/> </td>
+      <img style="width:300px" src="/images/Humayra_cise.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J13]</strong> Humayra Tasnim, <b>Soumya Dutta</b>, Terece L. Turton, David Rogers, and Melanie E. Moses, Information-theoretic Exploration of Multivariate Time-Varying Image Databases, <em>IEEE Computing in Science & Engineering (IEEE CiSE)</em>, 2022, Volume: 24, Issue 3, pp. 61 - 70. [<a href="https://ieeexplore.ieee.org/document/9826433">Link</a>] [<a href="/papers/multivar_humayra_cise.pdf">Pdf</a>] [[<a href="/bibtex/CiSE_info_theory.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -139,7 +155,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/jiayi_tvcg.png"/> </td>
+      <img style="width:300px" src="/images/jiayi_tvcg.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J12]</strong> Jiayi Xu, <b>Soumya Dutta</b>, Wenbin He, Joachim Moortgat, and Han-Wei Shen, Geometry-Driven Detection, Tracking and Visual Analysis of Viscous and Gravitational Fingers, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2022, Volume: 28, Issue 3, pp. 1514 - 1528. [<a href="https://ieeexplore.ieee.org/document/9170853">Link</a>] [<a href="/papers/Tvcg_Gravitational_Fingers.pdf">Pdf</a>] [<a href="/bibtex/TVCG_finger.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -154,7 +170,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/mfix_woiv.png"/> </td>
+      <img style="width:300px" src="/images/mfix_woiv.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W6]</strong> <b>Soumya Dutta</b>, Dan Lipsa, Terece L. Turton, Berk Geveci, and James Ahrens, In Situ Analysis and Visualization of Extreme-Scale Particle Simulations, <em>WOIV: 6th International Workshop on In Situ Visualization</em>, 2022 (co-located with ISC High Performance Conference). [<a href="https://link.springer.com/chapter/10.1007/978-3-031-23220-6_19">Link</a>] [<a href="/papers/WOIV_MFIX_insitu_catalyst.pdf">Pdf</a>] [BibTex]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -169,7 +185,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/mfix_sc_video.png"/> </td>
+      <img style="width:300px" src="/images/mfix_sc_video.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Visualization Showcase]</strong> Alexandra R. Stewart, Terece L. Turton, David H. Rogers, James P. Ahrens, and <b>Soumya Dutta</b>, <em>Visualization of MFIX-Exa Simulation Data for Chemical Looping Combustion</em>, SC22 Scientific Visualization and Data Analytics Showcase, 2022. [Link] [<a href="/papers/mfix_sc_video_paper.pdf">Pdf</a>] [BibTex]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -184,7 +200,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/insitu_dist_book_chapter.png"/> </td>
+      <img style="width:300px" src="/images/insitu_dist_book_chapter.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Book Chap. 4]</strong> <b>Soumya Dutta</b>, Subhashis Hazarika, and Han-Wei Shen, In Situ Statistical Distribution-based Data Summarization and Visual Analysis, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-81627-8_4">Link</a>] [<a href="/papers/In_situ_distribution_chapter_preprint.pdf">Pdf</a>] [<a href="/bibtex/dist_chapter.bib">BibTex</a>] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -198,7 +214,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/cinema_chapter.png"/> </td>
+      <img style="width:300px" src="/images/cinema_chapter.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Book Chap. 3]</strong> David Rogers, <b>Soumya Dutta</b>, Divya Banesh, Terece L. Turton, Ethan Stam, and James Ahrens, In situ Solutions with CinemaScience, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-81627-8_14">Link</a>] [<a href="/papers/cinema_chapter.pdf">Pdf</a>] [<a href="/bibtex/cinema_chapter.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -213,7 +229,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/sampling_chapter.png"/> </td>
+      <img style="width:300px" src="/images/sampling_chapter.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Book Chap. 2]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Terece Turton, and James Paul Ahrens, Sampling for Scientific Data Analysis and Reduction, <em>In Situ Visualization for Computational Science, Springer International Publishing</em>, 2022. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-81627-8_2">Link</a>] [<a href="/papers/Sampling_Chapter.pdf">Pdf</a>] [<a href="/bibtex/sampling_chapter.bib">BibTex</a>]  
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -248,7 +264,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:90px" src="/images/fuzzy_tracking.png"/> </td>
+      <img style="width:300px" src="/images/fuzzy_tracking.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J11]</strong> <b>Soumya Dutta</b>, Terece L. Turton, and James Ahrens, A Confidence-guided Technique for Tracking Time-varying Features, <em>IEEE Computing in Science & Engineering (IEEE CiSE)</em>, 2021, Volume 23, Issue 2, pp. 84-92. [<a href="https://ieeexplore.ieee.org/document/9311214">Link</a>] [<a href="/papers/CiSE_fuzzy_tracking.pdf">Pdf</a>] [[<a href="/bibtex/CiSE_tracking.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -263,7 +279,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/tvcg_sampling.png"/> </td>
+      <img style="width:300px" src="/images/tvcg_sampling.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J10]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Earl Lawrence, John M. Patchett, Jon C. Calhoun, and James Ahrens, Probabilistic Data-Driven Sampling via Multi-Criteria Importance Analysis, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2021, Volume 27, Issue 12, pp. 4439-4454. [<a href="https://ieeexplore.ieee.org/document/9130956">Link</a>] [<a href="/papers/TVCG_2019_Sampling.pdf">Pdf</a>]  [<a href="/bibtex/TVCG_sampling.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -278,7 +294,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/mfix_cise.png"/> </td>
+      <img style="width:300px" src="/images/mfix_cise.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J9]</strong> Ayan Biswas, James Ahrens, <b>Soumya Dutta</b>, Jordan Musser, Ann Almgren, and Terece Turton, Feature Analysis, Tracking, and Data Reduction: An Application to Multiphase Reactor Simulation MFiX-Exa for In-Situ Use Case, <em>IEEE Computing in Science & Engineering (IEEE CiSE)</em>, 2021, Volume 23, Issue 1, pp. 75-82. [<a href="https://ieeexplore.ieee.org/document/9167432">Link</a>] [<a href="/papers/cise_mfix.pdf">Pdf</a>] [<a href="/bibtex/CiSE_mfix.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -292,7 +308,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/ieeebigdata_I1_summarization.png"/> </td>
+      <img style="width:300px" src="/images/ieeebigdata_I1_summarization.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C12]</strong> <b>Soumya Dutta</b>, Humayra Tasnim, Terece L. Turton, and James Ahrens, In Situ Adaptive Spatio-Temporal Data Summarization, <em>IEEE International Conference on Big Data (IEEE Bigdata)</em>, 2021, pp. 315-321. [<a href="https://ieeexplore.ieee.org/document/9671581">Link</a>] [<a href="/papers/IEEEBigData_I1_based_summarization.pdf">Pdf</a>] [<a href="/bibtex/Bigdata_fusion.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -306,7 +322,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/isav_21.png"/> </td>
+      <img style="width:300px" src="/images/isav_21.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W5]</strong> <b>Soumya Dutta</b>, Natalie Klein, Li Tang, Jonathan Wolfe, Luke Van Roekel, James Benedict, Ayan Biswas, Earl Lawrence, and Nathan Urban, In Situ Climate Modeling for Analyzing Extreme Weather Events, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2021)</em>, pp. 18-23, co-located with SC 2021. [<a href="https://dl.acm.org/doi/10.1145/3490138.3490142">Link</a>] [<a href="/papers/SSW_GEV_ISAV21.pdf">Pdf</a>]  [<a href="/bibtex/ISAV_climate_modeling.bib">BibTex</a>] <b><span style="color: red">[Best Paper Award]</span></b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -321,7 +337,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/topology_chapter.png"/> </td>
+      <img style="width:300px" src="/images/topology_chapter.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Book Chap. 1]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Flow Topology from Flowmap Expansion and Contraction, Topological Methods in Data Analysis and Visualization VI, Springer</em>, 2021. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-83500-2_7">Link</a>] [<a href="/papers/Roxana_TopoInVis_2019.pdf">Pdf</a>] [<a href="/bibtex/topology_chapter.bib">BibTex</a>] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -335,7 +351,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/jiayi_poster_2021.png"/> </td>
+      <img style="width:300px" src="/images/jiayi_poster_2021.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[P3]</strong> Jiayi Xu, <b>Soumya Dutta</b>, Wenbin He, Joachim Moortgat, and Han-Wei Shen, Geometry-Driven Detection, Tracking and Visual Analysis of Viscous and Gravitational Fingers, <em>15th Annual CSE Student Research Poster Exhibition, The Ohio State University</em>, 2021.
       </td>
    </tr>
@@ -344,7 +360,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/childs_insitu_terminology.png"/> </td>
+      <img style="width:300px" src="/images/childs_insitu_terminology.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J8]</strong> Hank Childs, Sean D. Ahern, James Ahrens, Andrew C. Bauer, Janine Bennett, E. Wes Bethel, Peer-Timo Bremer, Eric Brugger, Joseph Cottam, Matthieu Dorier, <b>Soumya Dutta</b>, Jean M. Favre, Thomas Fogal, Steffen Frey, Christoph Garth, Berk Geveci, William F. Godoy, Charles D. Hansen, Cyrus Harrison, Bernd Hentschel, Joseph Insley, Chris R. Johnson, Scott Klasky, Aaron Knoll, James Kress, Matthew Larsen, Jay Lofstead, Kwan-Liu Ma, Preeti Malakar, Jeremy Meredith, Kenneth Moreland, Paul Navrátil, Patrick O’Leary, Manish Parashar, Valerio Pascucci, John Patchett, Tom Peterka, Steve Petruzza, Norbert Podhorszki, David Pugmire, Michel Rasquin, Silvio Rizzi, David H. Rogers, Sudhanshu Sane, Franz Sauer, Robert Sisneros, Han-Wei Shen, Will Usher, Rhonda Vickery, Venkatram Vishwanath, Ingo Wald, Ruonan Wang, Gunther H. Weber, Brad Whitlock, Matthew Wolf, Hongfeng Yu, Sean B. Ziegeler, A Terminology for In Situ Visualization and Analysis Systems, <em>International Journal of High Performance Computing Applications (IJHPCA)</em>, 2020, Volume 34, Issue 6, pp. 676-691. [<a href="https://doi.org/10.1177/1094342020935991">Link</a>] [<a href="/papers/Hank_IJHPCA_2020.pdf">Pdf</a>] [<a href="/bibtex/IJHPCA_insitu.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -358,7 +374,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/PMI_sampling_entropy.png"/> </td>
+      <img style="width:300px" src="/images/PMI_sampling_entropy.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J7]</strong> <b>Soumya Dutta</b>, Ayan Biswas, and James Ahrens, Multivariate Pointwise Information-driven Data Sampling and Visualization, <em>MDPI Entropy (Special issue in Information Theory Application in Visualization)</em>, 2019, Volume 21, Issue 7. [<a href="https://www.mdpi.com/1099-4300/21/7/699">Link</a>] [<a href="/papers/multivarsampling_entropy_2019.pdf">Pdf</a>] [<a href="/bibtex/ENTROPY_sampling.bib">BibTex</a>] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -373,7 +389,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/codda_tvcg.png"/> </td>
+      <img style="width:300px" src="/images/codda_tvcg.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J6]</strong> Subhashis Hazarika, <b>Soumya Dutta</b>, Han-Wei Shen, and Jen-Ping Chen, CoDDA: A Flexible Copula-based Distribution Driven Analysis Framework for Large-Scale Multivariate Data, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2019, Volume 25, Issue 1, pp. 1214-1224. [<a href="https://ieeexplore.ieee.org/document/8440043">Link</a>] [<a href="/papers/tvcg_hazarika_vis18_copula.pdf">Pdf</a>] [<a href="/bibtex/TVCG_codda.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -388,7 +404,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/envirvis_2019.png"/> </td>
+      <img style="width:300px" src="/images/envirvis_2019.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W4]</strong> <b>Soumya Dutta</b>, Riley X. Brady, Mathew E. Maltrud, Philip Wolfram, and Roxana Bujack, <em>Leveraging Lagrangian Analysis for Discriminating Nutrient Origins, Visualization in Environmental Sciences (EnvirVis)</em>, 2019, pp. 17-24. [<a href="https://doi.org/10.2312/envirvis.20191100">Link</a>] [<a href="/papers/envirvis_2019.pdf">Pdf</a>] [<a href="/bibtex/Envirvis_lagrange.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -402,7 +418,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/topoinvis_2019.png"/> </td>
+      <img style="width:300px" src="/images/topoinvis_2019.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W3]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Flow Topology from Flowmap Expansion and Contraction, Workshop on  Topological Methods in Data Analysis and Visualization (TopoInVis)</em>, 2019. [<a href="https://cgl.ethz.ch/publications/papers/paperBuj19b.php">Link</a>] [<a href="/papers/Roxana_TopoInVis_2019.pdf">Pdf</a>] [<a href="/bibtex/Topoinvis_topology.bib">BibTex</a>] <b><span style="color: red">[Best Paper Award]</span></b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -418,7 +434,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/eurovis_shoprt_2019.png"/> </td>
+      <img style="width:300px" src="/images/eurovis_shoprt_2019.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C11]</strong> Roxana Bujack, <b>Soumya Dutta</b>, Irene Baeza Rojo, Duan Zhang, Tobias Gunther, <em>Objective Finite-Time Saddles and their Connection to FTLE, EG/VGTC Conference on Visualization (EuroVis Short Paper)</em>, 2019, pp. 49-53. [<a href="https://doi.org/10.2312/evs.20191169">Link</a>] [<a href="/papers/Roxana_Evis_2019.pdf">Pdf</a>] [<a href="/bibtex/Evis_topology.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -433,7 +449,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/hazarika_entropy_2018.png"/> </td>
+      <img style="width:300px" src="/images/hazarika_entropy_2018.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J5]</strong> Subhashis Hazarika, Ayan Biswas, <b>Soumya Dutta</b>, and Han-Wei Shen, Information Guided Exploration of Scalar Values and Isocontours in Ensemble Datasets, <em>MDPI Entropy (Special issue in Information Theory Application in Visualization)</em>, 2018, Volume 20, Issue 7. [<a href="https://www.mdpi.com/1099-4300/20/7/540">Link</a>] [<a href="/papers/hazarika_entropy_info_theory.pdf">Pdf</a>] [<a href="/bibtex/ENTROPY_info_theory.bib">BibTex</a>] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -447,7 +463,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/pvis2018_fuzzy_insitu.png"/> </td>
+      <img style="width:300px" src="/images/pvis2018_fuzzy_insitu.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C10]</strong> <b>Soumya Dutta</b>, Han-Wei Shen, and Jen-Ping Chen, In Situ Prediction Driven Feature Analysis in Jet Engine Simulations, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis)</em>, 2018, pp. 66-75. [<a href="https://ieeexplore.ieee.org/document/8365977">Link</a>] [<a href="/papers/pvis_18_fuzzy_insitu.pdf">Pdf</a>] [<a href="/bibtex/Pvis_fuzzy_stall.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -462,7 +478,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/tzu_sampling_pvis_18.png"/> </td>
+      <img style="width:300px" src="/images/tzu_sampling_pvis_18.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C9]</strong> Tzu-Hsuan Wei, <b>Soumya Dutta</b>, and Han-Wei Shen, Information Guided Data Sampling and Recovery using Bitmap Indexing, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis)</em>, 2018, pp. 56-65. [<a href="https://ieeexplore.ieee.org/document/8365976">Link</a>] [<a href="/papers/pvis18_tzu_sampling.pdf">Pdf</a>] [<a href="/bibtex/Pvis_sampling.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -477,7 +493,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/isav_sampling_18.png"/> </td>
+      <img style="width:300px" src="/images/isav_sampling_18.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W2]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Jesus Pulido, and James Ahrens, In Situ Data-Driven Adaptive Sampling for Large-scale Simulation Data Summarization, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV)</em>, pp. 13-18, co-located with SC 2018. [<a href="https://dl.acm.org/doi/10.1145/3281464.3281467">Link</a>] [<a href="/papers/isav_sampling.pdf">Pdf</a>] [<a href="/bibtex/ISAV_sampling.bib">BibTex</a>] 
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -491,7 +507,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/isav_trigger_18.png"/> </td>
+      <img style="width:300px" src="/images/isav_trigger_18.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W1]</strong> Matthew Larsen, Amy Woods, Nicole Marsaglia, Ayan Biswas, <b>Soumya Dutta</b>, Cyrus Harrison, and Hank Childs, A Flexible System For In Situ Triggers, <em>In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2018)</em>, pp. 1-6, co-located with SC 2018. [<a href="https://dl.acm.org/doi/10.1145/3281464.3281468">Link</a>] [<a href="/papers/isav_trigger.pdf">Pdf</a>] [<a href="/bibtex/ISAV_trigger.bib">BibTex</a>] <b><span style="color: red">[Best Paper Award]</span></b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -507,7 +523,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/poster_18.png"/> </td>
+      <img style="width:300px" src="/images/poster_18.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[P2]</strong> <b>Soumya Dutta</b>, Han-Wei Shen, and Jen-Ping Chen, In Situ Prediction Driven Feature Analysis in Jet Engine Simulations, <em>12th Annual CSE Student Research Poster Exhibition, The Ohio State University</em>, 2018. <b><span style="color: red">[Best Poster Award]</span></b> </td> 
    </tr>
 </table>
@@ -515,7 +531,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/stall_vis16.png"/> </td>
+      <img style="width:300px" src="/images/stall_vis16.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J4]</strong> <b>Soumya Dutta</b>, Chun-Ming Chen, Gregory Heinlein, Han-Wei Shen, and Jen-Ping Chen, In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2017, Volume 23, Issue 1, pp. 811-820. [<a href="https://ieeexplore.ieee.org/document/7539561">Link</a>] [<a href="/papers/Vis16_insitu.pdf">Pdf</a>] [<a href="/bibtex/TVCG_turbine_insitu.bib">BibTex</a>] <b><span style="color: red">[Best Paper Honorable Mention Award]</span></b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -529,7 +545,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/slic_pvis.png"/> </td>
+      <img style="width:300px" src="/images/slic_pvis.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C8]</strong> <b>Soumya Dutta</b>, Jonathan Woodring, Han-Wei Shen, Jen-Ping Chen, and James Ahrens, Homogeneity Guided Probabilistic Data Summaries for Analysis and Visualization of Large-Scale Data Sets, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis)</em>, 2017, 111-120. [<a href="https://ieeexplore.ieee.org/document/8031585">Link</a>] [<a href="/papers/PVis17.pdf">Pdf</a>] [<a href="/bibtex/Pvis_dist_summary.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -544,7 +560,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/PMI_SA17.png"/> </td>
+      <img style="width:300px" src="/images/PMI_SA17.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C7]</strong> <b>Soumya Dutta</b>, Xiaotong Liu, Ayan Biswas, Han-Wei Shen, and Jen-Ping Chen, Pointwise Information Guided Visual Analysis of Time-varying Multi-fields, <em>SA'17, SIGGRAPH Asia Symposium on Visualization</em>, 2017. [<a href="https://dl.acm.org/doi/10.1145/3139295.3139298">Link</a>] [<a href="/papers/siggraph_vis17.pdf">Pdf</a>] [<a href="/bibtex/SIGASIA_pmi.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -559,7 +575,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/Greg_stall_2017.png"/> </td>
+      <img style="width:300px" src="/images/Greg_stall_2017.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C6]</strong> Gregory Heinlein, Jen-Ping Chen, Chun-Ming Chen, <b>Soumya Dutta</b>, and Han-Wei Shen, Statistical Anomaly Based Study of Rotating Stall in a Transonic Axial Compressor Stage, <em>Turbomachinery Technical Conference & Exposition (ASME Turbo Expo, GT 2017)</em>. [<a href="https://doi.org/10.1115/GT2017-64685">Link</a>] [<a href="/papers/Greg_GT_paper.pdf">Pdf</a>] [<a href="/bibtex/Turbo_turbine.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -573,7 +589,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/insitu_stall_poster_16.png"/> </td>
+      <img style="width:300px" src="/images/insitu_stall_poster_16.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[P1]</strong> <b>Soumya Dutta</b>, Chun-Ming Chen, Gregory Heinlein, Han-Wei Shen, and Jen-Ping Chen, In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations, <em>11th Annual CSE Student Research Poster Exhibition, The Ohio State University</em>, 2017. <b><span style="color: red">[Best Poster Award]</span></b>
       </td>
    </tr>
@@ -583,7 +599,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/vis15_tracking.png"/> </td>
+      <img style="width:300px" src="/images/vis15_tracking.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J3]</strong> <b>Soumya Dutta</b> and Han-Wei Shen, Distribution Driven Extraction and Tracking of Features for Time-varying Data Analysis, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2016, Volume 22, Issue 1, pp. 837-846. [<a href="https://ieeexplore.ieee.org/document/7192664">Link</a>] [<a href="/papers/Vis_15.pdf">Pdf</a>] [<a href="/bibtex/TVCG_tracking.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -597,7 +613,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/vis15_stall.png"/> </td>
+      <img style="width:300px" src="/images/vis15_stall.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J2]</strong> Chun-Ming Chen, <b>Soumya Dutta</b>, Xiaotong Liu, Gregory Heinlein, Han-Wei Shen, and Jen-Ping Chen, Visualization and Analysis of Rotating Stall for Transonic Jet Engine Simulation, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2016, Volume 22, Issue 1, pp. 847-856. [<a href="https://ieeexplore.ieee.org/document/7192672">Link</a>] [<a href="/papers/Vis_15_stall.pdf">Pdf</a>] [<a href="/bibtex/TVCG_turbine.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -612,7 +628,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/hazarika_pvis_16.png"/> </td>
+      <img style="width:300px" src="/images/hazarika_pvis_16.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C5]</strong> Subhashis Hazarika, <b>Soumya Dutta</b>, Han-Wei Shen, Visualizing the Variations of Ensemble of Isosurfaces, <em>IEEE Pacific Visualization Symposium (IEEE PacificVis Notes)</em>, 2016, 209-213. [<a href="https://ieeexplore.ieee.org/document/7465272">Link</a>] [<a href="/papers/ensemble_pvis_notes2016.pdf">Pdf</a>] [<a href="/bibtex/Pvis_ensemble_isosurface.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -627,7 +643,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/openMC.png"/> </td>
+      <img style="width:300px" src="/images/openMC.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[TR2]</strong> Garrett A. Aldrich, <b>Soumya Dutta</b>, and Jonathan Woodring, OpenMC In Situ Source Convergence Detection, <em>Los Alamos National Laboratory (LA-UR-16-23217)</em>, 2016.
       </td>
    </tr>
@@ -636,7 +652,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/vis13_tvcg.png"/> </td>
+      <img style="width:300px" src="/images/vis13_tvcg.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J1]</strong> Ayan Biswas, <b>Soumya Dutta</b>, Han-Wei Shen, and Jonathan Woodring, An Information-Aware Framework for Exploring Multivariate Data Sets, <em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2013, Volume 19, Issue 12, pp. 2683-2692. [<a href="https://ieeexplore.ieee.org/document/6634187">Link</a>] [<a href="/papers/Vis13_Info_theory.pdf">Pdf</a>] [<a href="/bibtex/TVCG_info_theory.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
@@ -650,7 +666,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
-      <img style="height:100px" src="/images/pmi_Techreport.png"/> </td>
+      <img style="width:300px" src="/images/pmi_Techreport.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[TR1]</strong> <b>Soumya Dutta</b>, Xiaotong Liu, Ayan Biswas, Han-Wei Shen, Yifan Hu, James Giuliani, and Jen-Ping Chen, Pointwise Information Analysis for Multivariate Time-varying Feature Identification, <em>OSU-CISRC-6/14-TR13</em>, 2013.
       </td>
    </tr>
