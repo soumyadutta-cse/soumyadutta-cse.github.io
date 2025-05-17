@@ -79,7 +79,6 @@ html {
 
 <!-- <div class="row">
 
-
   <div class="column">
     <div class="card">
       <center><img src="/images/shanu.png" alt="shanu" style="width:70%"></center>
@@ -102,76 +101,96 @@ html {
 
 4. <b>Arpita Santra</b> <br>
 
+5. <b>Anubhav Dixit (co-supervised with Prof. Koteswar Rao Jerripothula)</b> <br>
 
-<!-- <h2 style="text-align:left">MSR Students</h2>
 
-1. <b>Indraneel Rajeevan | MSR CSE | Batch'26</b> <br>
-Topic: Understanding Loss Landscape of Neural Networks -->
+<!-- <h2 style="text-align:left">MSR Students</h2> -->
 
 
 <h2 style="text-align:left">M.Tech. Students</h2>
 
+13. <b>Kaushik Raj V. Nadar | B.Tech. (BSBE) - MS (SDS) | Batch'25  (Co-supervisor: Prof. Satya Prakash Singh) </b><br>
+Project: Efficient Large-Scale Multivariate Data Analytics and Visualization using
+Statistical Approaches
+
 12. <b>Kartik Jain | M.Tech. CSE | Batch'25</b> <br>
-Topic: Modeling of Large Time-varying Volumetric Data using Sparse Data Samples via Deep Learning
+Thesis: Learning Compressive Implicit Neural Representations of 3D Scalar Data: A Comparative Study Between Bottleneck and Low Rank Matrix Factorization-based Representations
 
-11. <b>Komala Yaramareddy | M.Tech. CSE | Batch'25</b> <br>
-Topic: Visualizing Neural Networks to Explore Their Internal Inference Methodology 
+11. <b>Komala Yaramareddy | M.Tech. CSE | Batch'23</b> <br>
+Thesis: Efficient Compression of Implicit Neural Networks for 3D Scalar Field Learning via Pruning with User-Guided Quality Control 
 
-10. <b>Shaurya Agarwal | M.Tech. CSE | Batch'25</b> <br>
-Topic: Deep Facial Recognition for Enabling Efficient Search and Rescue of Missing People
+10. <b>Shaurya Agarwal | M.Tech. CSE | Batch'23</b> <br>
+Thesis: A Multi-Modal Smart Search Framework for Person Identification via Facial Recognition and Textual Retrieval
 
-9. <b>Shubham Srivastava | M.Tech. CSE | Batch'25</b> <br>
-Topic: Developing AI-enabled Portal for Enabling Efficient Search and Rescue of Missing People
+9. <b>Shubham Srivastava | M.Tech. CSE | Batch'23</b> <br>
+Thesis: Understanding Adversarial Attacks on Deep Neural Networks via Interactive Visual Analytics
 
-8. <b>Prashik Ganer | M.Tech. CSE | Batch'25 (Co-supervisor: Prof. Purushottam Kar)</b> <br>
-Topic: Developing AI-enabled Portal for Real-time Monitoring of Satellite Health
+8. <b>Prashik Ganer | M.Tech. CSE | Batch'23 (Co-supervisor: Prof. Purushottam Kar)</b> <br>
+Thesis: DAVi II - Design and Development of a Data Analytics and Visualization Platform
 
-7. <b>Manish Agrawal | M.Tech. CSE | Batch'25 (Co-supervisor: Prof. Purushottam Kar)</b> <br>
-Topic: Developing AI-enabled Portal for Real-time Monitoring of Satellite Health
+7. <b>Manish Agrawal | M.Tech. CSE | Batch'23 (Co-supervisor: Prof. Purushottam Kar)</b> <br>
+Thesis: DAVi I - Design and Development of a Data Analytics and Visualization Platform
 
-6. <b>Vishal Kumar | M.Tech. CyS | Batch'25</b> <br>
-Topic: Development of Proactive Deep Fake Detection Technologies
+6. <b>Vishal Kumar | M.Tech. CyS | Batch'23</b> <br>
+Thesis: Combating DeepFakes with GAN-Based Watermarking and Adversarial Robustness Evaluation
 
-5. <b>Atul Kumar | M.Tech. CSE | Batch'24</b> <br>
-Topic: Uncertainty-Aware Implicit Neural Networks for Visual Analytics of Complex Vector Fields 
+5. <b>Atul Kumar | M.Tech. CSE | Batch'22</b> <br>
+Thesis: Uncertainty-Aware Implicit Neural Networks for Visual Analytics of Complex Vector Fields 
 
-4. <b>Abhay Kumar Dwivedi | M.Tech. CSE | Batch'24</b> <br>
-Topic: Implicit Neural Networks for Visual Analytics of Large Multivariate Data
+4. <b>Abhay Kumar Dwivedi | M.Tech. CSE | Batch'22</b> <br>
+Thesis: Implicit Neural Networks for Visual Analytics of Large Multivariate Data
 
-3. <b>Komal Yadav | M.Tech. CSE | Batch'24</b> <br>
-Topic: Impact of Adaptive Sampling for Building Comprerssive Neural Representations of Large Scientific Data
+3. <b>Komal Yadav | M.Tech. CSE | Batch'22</b> <br>
+Thesis: Impact of Adaptive Sampling for Building Comprerssive Neural Representations of Large Scientific Data
 
-2. <b>Vivek Kumar Gautam | M.Tech. CSE | Batch'24</b> <br>
-Topic: Efficient Image Synthesis of Large Data using Deep Active Learning 
+2. <b>Vivek Kumar Gautam | M.Tech. CSE | Batch'22</b> <br>
+Thesis: Efficient View Synthesis of Scientific Data via Deep Image Regression 
 
-1. <b>Drashtant Singh Rathod | M.Tech. CSE | Batch'24</b> <br>
-Topic: xAI + Visual Analytics for Comprehending Adversarial Attacks on Facial Recognition Models 
-
+1. <b>Drashtant Singh Rathod | M.Tech. CSE | Batch'22</b> <br>
+Project: Understanding Adversarial Attacks using Techniques of Explainability and Interactive Visual Analytics 
 
 
 <h2 style="text-align:left">B.Tech. UGP Students</h2>
 
-11. Chitwan Goel [CSE] [Sem. 2023-24-II]<br>
+20. Hardik Jindal [EE] <br>
+    Project Title: MRL for Multiresolution Image Synthesis
+19. Chitwan Goel [CSE] <br>
+    Project Title: Local Latent Space Modeling of Multivariate Data for Feature analysis and Data Reduction
+18. Tamidala Venkata Sai Pawan Chanukya Reddy [CSE] <br>
+    Project Title: Visual Analysis of Optimization and Generalization in Neural Networks
+17. Raghav Manglik [CSE] <br>
+    Project Title: Bidirectional Generative Modelling for Transfer Function-Aware Explorable View Synthesis of 3D Data
+16. Shrilakshmi S K [CSE] <br>
+    Project Title: Autoencoder-Based Local Latent Modeling for Ensemble Data Compression and Feature Analysis
+15. Palak Mishra [SDS] <br>
+    Project Title: Efficient 3D Data Summarization and Recovery via Void-and-Cluster Sampling and Neural Network-based Reconstruction
+14. Manasvi Jain [CSE] <br>
+    Project Title: Local Latent Representations for Compressed and Interpretable 3D Scalar Data Analysis
+13. Depanshu Sahu [CSE] <br>
+    Project Title: In-Situ Copula Modeling for Large-Scale Simulations
+12. Aarish Muhammad Khan [CE] <br>
+    Project Title: Distribution Parameter Compression with SIREN
+11. Chitwan Goel [CSE] <br>
     Project Title: Representing Large 3D Volumetric Data using Uncertainty-Aware Deep Learning Models
-10. Shrey Bansal [CSE] [Sem. 2023-24-II]<br>
+10. Shrey Bansal [CSE] <br>
     Project Title: Representing Large 3D Volumetric Data using Uncertainty-Aware Deep Learning Models
-9. Aditya Bangar [CSE] [Sem. 2023-24-II]<br>
+9. Aditya Bangar [CSE] <br>
     Project Title: Uncertainty Aware Affective Behavior Analysis: Baseline Setup
-8. Ahmad Amaan [ME] [Sem. 2023-24-II]<br>
+8. Ahmad Amaan [ME] <br>
     Project Title: Evaluating Generative Models for Volume Visualization
-7. Yerusu Dharini Reddy [EE] [Sem. 2023-24-II]<br>
+7. Yerusu Dharini Reddy [EE] <br>
     Project Title: Evaluating CoordNet for Diverse Visualization Generation Tasks
-6. Navya [EE] [Sem. 2023-24-II]<br>
+6. Navya [EE] <br>
     Project Title: Evaluating CoordNet for Diverse Visualization Generation Tasks
-5. Rashmi G R [CSE] [Sem. 2023-24-I]<br>
+5. Rashmi G R [CSE] <br>
     Project Title: Frailty Data Analysis and Visualization
-4. Ayush Kumar (EE) [Sem. 2022-23-II]<br>
+4. Ayush Kumar [EE] <br>
     Project Title: Visualizing Impact of Uncertainty and Adversarial Attack on Deep Classifier Models
-3. Yashwant Mahajan (EE) [Sem. 2022-23-II]<br>
+3. Yashwant Mahajan [EE] <br>
     Project Title: Visualizing Impact of Uncertainty and Adversarial Attack on Deep Classifier Models
-2. Faheem Nizar (EE) [Sem. 2022-23-II]<br>
+2. Faheem Nizar [EE] <br>
     Project Title: Exploring Uncertainty in Deep Learning Models using Interactive Visual Analytics
-1. Ahmad Amaan (ME) [Sem. 2022-23-II]<br>
+1. Ahmad Amaan [ME] <br>
     Project Title: Estimation and Visual Analytics of Uncertainty in Deep Image Synthesizing Models
 
 <h2 style="text-align:left">SURGE Students</h2>
@@ -185,14 +204,6 @@ Topic: xAI + Visual Analytics for Comprehending Adversarial Attacks on Facial Re
       <li><span style="color:blue;">Dr. Elizabeth and Dr. Varkey Cherian Award for Best Project</span>
 
 
-<!-- <h2 style="text-align:left">B. Tech./B.S. Students</h2>
-
-7. Divyansh Verma (Mathematics)
-6. Tanmey Agarwal (Mathematics)
-5. Tejus Khandelwal (Mathematics)
-4. Shlok Mishra (Statistics and Data Science)
-3. Faheem Nizar (EE)
-2. Paritosh Pankaj (Statistics and Data Science)
-1. Abhijeet Agarwal (EE) -->
+<!-- <h2 style="text-align:left">B. Tech./B.S. Students</h2> -->
 
 
