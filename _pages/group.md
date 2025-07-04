@@ -155,7 +155,8 @@ Project: Understanding Adversarial Attacks using Techniques of Explainability an
 20. Hardik Jindal [EE] <br>
     Project Title: MRL for Multiresolution Image Synthesis
 19. Chitwan Goel [CSE] <br>
-    Project Title: Local Latent Space Modeling of Multivariate Data for Feature analysis and Data Reduction
+    Project Title: Local Latent Space Modeling of Multivariate Data for Feature Analysis and Data Reduction<br>
+    <span style="color:darkblue;"><b> ** Won Best UGP Award 2025</b></span><br>
 18. Tamidala Venkata Sai Pawan Chanukya Reddy [CSE] <br>
     Project Title: Visual Analysis of Optimization and Generalization in Neural Networks
 17. Raghav Manglik [CSE] <br>
@@ -171,7 +172,8 @@ Project: Understanding Adversarial Attacks using Techniques of Explainability an
 12. Aarish Muhammad Khan [CE] <br>
     Project Title: Distribution Parameter Compression with SIREN
 11. Chitwan Goel [CSE] <br>
-    Project Title: Representing Large 3D Volumetric Data using Uncertainty-Aware Deep Learning Models
+    Project Title: Representing Large 3D Volumetric Data using Uncertainty-Aware Deep Learning Models<br>
+    <span style="color:darkblue;"><b> ** Won Best UGP Award 2025</b></span><br>
 10. Shrey Bansal [CSE] <br>
     Project Title: Representing Large 3D Volumetric Data using Uncertainty-Aware Deep Learning Models
 9. Aditya Bangar [CSE] <br>

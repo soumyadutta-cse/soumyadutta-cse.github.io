@@ -37,12 +37,12 @@ author_profile: true
 10. International Conference on High Performance Computing, Data, and Analytics (HiPC 2023)
 9. IEEE Pacific Visualization (PacificVis 2021-23, 2024 (TVCG Track), 2025 (Conference Track))
 8. EuroGraphics Symposium on Parallel Graphics and Visualization (EGPGV 2021-22)
-7. IEEE Symposium on Large Data Analysis and Visualization (LDAV 2019, 2021-23)
+7. IEEE Symposium on Large Data Analysis and Visualization (LDAV 2019, 2021-23, 2025)
 6. Visualization in Environmental Sciences Workshop (EnvirVis 2019)
 5. IEEE Visualization Short Papers (2019-21,2023)
 4. In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2019-22)
 3. International Symposium on Visual Computing (ISVC 2019-2022)
-2. International Workshop on Big Data Reduction (IEEE IWBDR 2020-21)
+2. International Workshop on Big Data Reduction (IEEE IWBDR 2020-21, 2025)
 1. Program committee member at other venues: IVAPP 2020, VISUAL 2017-2020
 
 ## Reviewer Proposal
