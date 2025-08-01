@@ -8,7 +8,7 @@ author_profile: true
 ## Organizational Activities
 
 18. Workshop Co-chair: [Visualization for Digital Humanities](https://soumyadutta-cse.github.io/dphvis/) in conjunction with: [IEEE Pacific Visualization Conference](https://pacificvis2025.github.io/pages/index.html) 2025.
-17. Best Paper Committee: IEEE Visualization (IEEEVIS)
+17. Best Paper Selection Committee Member: IEEE Visualization (IEEEVIS 2025)
 16. Program Co-chair (VIS track): 19th [International Symposium on Visual Computing (ISVC’24)](https://www.isvc.net/index.php/organizing-committee/), Lake Tahoe, Nevada, USA (2024).
 15. Executive Team Member: South Asian Biodiversity Portal Project, India.
 14. Best Paper Committee: In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization

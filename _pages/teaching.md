@@ -6,16 +6,16 @@ author_profile: true
 ---
 
 
-## <span style="color:red"> Current Semester: Summer 2025 </span>
+## <span style="color:red"> Current Semester: Autumn 2025 </span>
 
-## CS661 - Big Data Visual Analytics
+## CS360 - Introduction to Computer Graphics
 
 For more details and list of topics that will be covered, please check the past course section at the bottom of this page.
 
 
 ## <span style="color:red"> Past Courses: </span>
 
-### CS661 - Big Data Visual Analytics (Spring 2023, Spring 2024, Spring 2025)
+### CS661 - Big Data Visual Analytics (Spring 2023, Spring 2024, Spring 2025, Summer 2025)
 
 <details>
     <summary><b><span style="color:blue">Click for more details</span></b></summary>

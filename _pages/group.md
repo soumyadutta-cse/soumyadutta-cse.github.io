@@ -67,12 +67,15 @@ html {
 </style>
 
 
-<p>
+<!-- <p>
 <span style="color:darkblue;"><b>
 ** We are looking for motivated students (Ph.D., M.S., M.Tech.) with excellent programming skills to join our group to work on exciting problems at the intersection of machine/deep learning, visual computing, image analysis, HPC, and big data science. **</b>
 </span>
-</p>
+</p> -->
 
+<h1 style="text-align:center; text-decoration: underline;">
+  INSIGHT: Intelligent Scientific and Visual Computing of Big Data Research Group
+</h1>
 
 
 <h2 style="text-align:left">Ph.D. Students</h2>
@@ -103,6 +106,7 @@ html {
 
 5. <b>Anubhav Dixit (co-supervised with Prof. Koteswar Rao Jerripothula)</b> <br>
 
+4. <b>Robin Shah</b> <br>
 
 <!-- <h2 style="text-align:left">MSR Students</h2> -->
 

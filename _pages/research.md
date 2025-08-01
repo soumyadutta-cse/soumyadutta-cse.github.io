@@ -4,7 +4,9 @@ title: ""
 ---
 
 
-<h1 style="text-align:center"> INSIGHT: Intelligent Scientific and Visual Computing of Big Data </h1>
+<h1 style="text-align:center; text-decoration: underline;">
+  INSIGHT: Intelligent Scientific and Visual Computing of Big Data Research Group
+</h1>
 
 <div class="box"><p>
 <img class="map" src="/images/collage.png" width="100%;" align="left" style="margin: 0px 0px 0px 0px;"/>
