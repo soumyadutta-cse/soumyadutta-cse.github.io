@@ -86,15 +86,24 @@ html {
     <div class="card">
       <center><img src="/images/shanu.png" alt="shanu" style="width:70%"></center>
       <div class="container">
-		<br><b><a href="https://www.linkedin.com/in/shanu-saklani-10b97b171">Shanu Saklani</a></b>
+		<br><b>Shanu Saklani</b>
         <br><b>Ph.D. Student [2023-present]</b>
-        <br><b>Topic:</b>Efficeint and Interpretable Deep Learning Methods for Visual Computing of Big Data
-        <br><b>Email:</b>shanu [at] cse.iitk.ac.in
       </div>
     </div>
   </div>
 
-</div> -->
+  <div class="column">
+    <div class="card">
+      <center><img src="/images/shanu.png" alt="shanu" style="width:70%"></center>
+      <div class="container">
+        <br><b>Shanu Saklani</b>
+        <br><b>Ph.D. Student [2023-present]</b>
+      </div>
+    </div>
+  </div>
+
+</div>
+ -->
 
 1. <b>Shanu Saklani</b> <br>
 
@@ -108,16 +117,37 @@ html {
 
 4. <b>Robin Shah</b> <br>
 
-<!-- <h2 style="text-align:left">MSR Students</h2> -->
 
+<h2 style="text-align:left">M.S. Students</h2>
 
-<h2 style="text-align:left">M.Tech. Students</h2>
-
-13. <b>Kaushik Raj V. Nadar | B.Tech. (BSBE) - MS (SDS) | Batch'25  (Co-supervisor: Prof. Satya Prakash Singh) </b><br>
+1. <b>Kaushik Raj V. Nadar | B.Tech. (BSBE) - MS (SDS) | Batch'20  (Co-supervisor: Prof. Satya Prakash Singh) </b><br>
 Project: Efficient Large-Scale Multivariate Data Analytics and Visualization using
 Statistical Approaches
 
-12. <b>Kartik Jain | M.Tech. CSE | Batch'25</b> <br>
+<h2 style="text-align:left">M.Tech. Students</h2>
+
+19. <b>Yashwanth Tippireddy | M.Tech. CSE | Batch'24</b> <br>
+Thesis: TBD
+
+18. <b>Amit Bhasita | M.Tech. CSE | Batch'24</b> <br>
+Thesis: TBD
+
+17. <b>Khushwant Kaswan | M.Tech. CSE | Batch'24</b> <br>
+Thesis: TBD
+
+16. <b>Telugu Sudhakar | M.Tech. CSE | Batch'24</b> <br>
+Thesis: TBD
+
+15. <b>Voora Nagendrabhaskaraswamy | M.Tech. CSE | Batch'24</b> <br>
+Thesis: TBD
+
+14. <b>Divyanshu | M.Tech. CSE | Batch'24</b> <br>
+Thesis: TBD
+
+13. <b>Devang Agrawal | M.Tech. CSE | Batch'24</b> <br>
+Thesis: TBD
+
+12. <b>Kartik Jain | M.Tech. CSE | Batch'23</b> <br>
 Thesis: Learning Compressive Implicit Neural Representations of 3D Scalar Data: A Comparative Study Between Bottleneck and Low Rank Matrix Factorization-based Representations
 
 11. <b>Komala Yaramareddy | M.Tech. CSE | Batch'23</b> <br>

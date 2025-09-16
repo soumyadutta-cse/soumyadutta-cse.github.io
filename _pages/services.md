@@ -54,13 +54,14 @@ author_profile: true
 
 ## Reviewer Paper
 
-19. IEEE HiPC
-18. IEEE Cluster
-17. IEEE Transactions on Visualization and Computer Graphics (TVCG)
-16. Computer Graphics Forum (CGF)
-15. IEEE Visualization (SciVis, VAST, InfoVis)
-14. IEEE Transactions on Parallel and Distributed Systems (TPDS)
-13. IEEE Transactions on Instrumentation and Measurement (TIM)
+20. IEEE HiPC
+19. IEEE Cluster
+18. IEEE Transactions on Visualization and Computer Graphics (TVCG)
+17. Computer Graphics Forum (CGF)
+16. IEEE Visualization (SciVis, VAST, InfoVis)
+15. IEEE Transactions on Parallel and Distributed Systems (TPDS)
+14. IEEE Transactions on Instrumentation and Measurement (TIM)
+13. IEEE Transactions on Aerospace and Electronic Systems (TAES)
 12. EG/VGTC Conference on Visualization (EuroVis)
 11. ACM Conference on Human Factors in Computing Systems (CHI)
 10. IEEE Transactions on Network Science and Engineering (TNSE)
@@ -77,9 +78,11 @@ author_profile: true
 ## PhD Thesis Defense Committee Member
 
 1. Humayra Tasnim (University of New Mexico, USA)
+2. Shubham Kumar Nigam (IITK)
 
 ## PhD Comprehensive and SOTA Examination Committee Member (IITK)
 
+8. Sanjeet Singh
 7. Priya
 6. Harshit Goel
 5. Avinab Anand
