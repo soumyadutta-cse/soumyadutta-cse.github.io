@@ -87,7 +87,7 @@ html {
       <center><img src="/images/anubhav.jpg" alt="anubhav" style="width:60%"></center>
       <div class="container">
         <br><b>Anubhav Dixit</b>
-        <br>Ph.D. Student [07/2022-present]
+        <br>Ph.D. Candidate [07/2022-present]
       </div>
     </div>
   </div>
@@ -97,7 +97,7 @@ html {
       <center><img src="/images/shanu.png" alt="shanu" style="width:60%"></center>
       <div class="container">
         <br><b>Shanu Saklani</b>
-        <br>Ph.D. Student [07/2023-present]
+        <br>Ph.D. Candidate [07/2023-present]
       </div>
     </div>
   </div>
@@ -131,7 +131,7 @@ html {
       <center><img src="/images/arpita.jpg" alt="arpita" style="width:60%"></center>
       <div class="container">
         <br><b>Arpita Santra</b>
-        <br>Ph.D. Student [12/2024-present]
+        <br>Ph.D. Student [01/2025-present]
       </div>
     </div>
   </div>
