@@ -107,7 +107,7 @@ html {
       <center><img src="/images/sankhadeep.jpg" alt="sankhadeep" style="width:70%"></center>
       <div class="container">
         <br><b>Sankhadeep Bhowmick</b>
-        <br>Ph.D. Student [2023-present]
+        <br>Ph.D. Student [2024-present]
       </div>
     </div>
   </div>
