@@ -80,20 +80,21 @@ html {
 
 <h2 style="text-align:left">Ph.D. Students</h2>
 
-<!-- <div class="row">
+<div class="row">
 
   <div class="column">
-    <div class="card">
-      <center><img src="/images/shanu.png" alt="shanu" style="width:70%"></center>
+    <div class="card" style="border: 1px solid lightgray; padding: 10px; border-radius: 5px;">
+      <center><img src="/images/anubhav.jpg" alt="anubhav" style="width:70%"></center>
       <div class="container">
-		<br><b>Shanu Saklani</b>
-        <br><b>Ph.D. Student [2023-present]</b>
+        <br><b>Anubhav Dixit</b>
+        <br><b>Ph.D. Student [2022-present]</b>
+        <br><b>(co-supervised with Prof. Koteswar Rao Jerripothula)</b>
       </div>
     </div>
   </div>
 
   <div class="column">
-    <div class="card">
+    <div class="card" style="border: 1px solid lightgray; padding: 10px; border-radius: 5px;">
       <center><img src="/images/shanu.png" alt="shanu" style="width:70%"></center>
       <div class="container">
         <br><b>Shanu Saklani</b>
@@ -102,10 +103,53 @@ html {
     </div>
   </div>
 
-</div>
- -->
+  <div class="column">
+    <div class="card" style="border: 1px solid lightgray; padding: 10px; border-radius: 5px;">
+      <center><img src="/images/sankhadeep.jpg" alt="sankhadeep" style="width:70%"></center>
+      <div class="container">
+        <br><b>Sankhadeep Bhowmick</b>
+        <br><b>Ph.D. Student [2023-present]</b>
+      </div>
+    </div>
+  </div>
 
-1. <b>Shanu Saklani</b> <br>
+</div>
+
+<div class="row">
+
+  <div class="column">
+    <div class="card" style="border: 1px solid lightgray; padding: 10px; border-radius: 5px;">
+      <center><img src="/images/ananya.jpg" alt="ananya" style="width:70%"></center>
+      <div class="container">
+        <br><b>Ananya Chaturvedi</b>
+        <br><b>Ph.D. Student [2024-present]</b>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card" style="border: 1px solid lightgray; padding: 10px; border-radius: 5px;">
+      <center><img src="/images/arpita.jpg" alt="arpita" style="width:70%"></center>
+      <div class="container">
+        <br><b>Arpita Santra</b>
+        <br><b>Ph.D. Student [2024-present]</b>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card" style="border: 1px solid lightgray; padding: 10px; border-radius: 5px;">
+      <center><img src="/images/dummy.jpg" alt="robin" style="width:70%"></center>
+      <div class="container">
+        <br><b>Robin Shah</b>
+        <br><b>Ph.D. Student [2025-present]</b>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- 1. <b>Shanu Saklani</b> <br>
 
 2. <b>Sankhadeep Bhowmick</b> <br>
 
@@ -115,7 +159,7 @@ html {
 
 5. <b>Anubhav Dixit (co-supervised with Prof. Koteswar Rao Jerripothula)</b> <br>
 
-4. <b>Robin Shah</b> <br>
+4. <b>Robin Shah</b> <br> -->
 
 
 <h2 style="text-align:left">M.S. Students</h2>
