@@ -87,8 +87,7 @@ html {
       <center><img src="/images/anubhav.jpg" alt="anubhav" style="width:70%"></center>
       <div class="container">
         <br><b>Anubhav Dixit</b>
-        <br><b>Ph.D. Student [2022-present]</b>
-        <br><b>(co-supervised with Prof. Koteswar Rao Jerripothula)</b>
+        <br>Ph.D. Student [2022-present]
       </div>
     </div>
   </div>
@@ -98,7 +97,7 @@ html {
       <center><img src="/images/shanu.png" alt="shanu" style="width:70%"></center>
       <div class="container">
         <br><b>Shanu Saklani</b>
-        <br><b>Ph.D. Student [2023-present]</b>
+        <br>Ph.D. Student [2023-present]
       </div>
     </div>
   </div>
@@ -108,7 +107,7 @@ html {
       <center><img src="/images/sankhadeep.jpg" alt="sankhadeep" style="width:70%"></center>
       <div class="container">
         <br><b>Sankhadeep Bhowmick</b>
-        <br><b>Ph.D. Student [2023-present]</b>
+        <br>Ph.D. Student [2023-present]
       </div>
     </div>
   </div>
@@ -122,7 +121,7 @@ html {
       <center><img src="/images/ananya.jpg" alt="ananya" style="width:70%"></center>
       <div class="container">
         <br><b>Ananya Chaturvedi</b>
-        <br><b>Ph.D. Student [2024-present]</b>
+        <br>Ph.D. Student [2024-present]
       </div>
     </div>
   </div>
@@ -132,7 +131,7 @@ html {
       <center><img src="/images/arpita.jpg" alt="arpita" style="width:70%"></center>
       <div class="container">
         <br><b>Arpita Santra</b>
-        <br><b>Ph.D. Student [2024-present]</b>
+        <br>Ph.D. Student [2024-present]
       </div>
     </div>
   </div>
@@ -142,7 +141,7 @@ html {
       <center><img src="/images/dummy.jpg" alt="robin" style="width:70%"></center>
       <div class="container">
         <br><b>Robin Shah</b>
-        <br><b>Ph.D. Student [2025-present]</b>
+        <br>Ph.D. Student [2025-present]
       </div>
     </div>
   </div>
