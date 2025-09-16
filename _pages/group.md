@@ -84,30 +84,30 @@ html {
 
   <div class="column">
     <div class="card" style="border: 1px solid lightgray; padding: 10px; border-radius: 5px;">
-      <center><img src="/images/anubhav.jpg" alt="anubhav" style="width:70%"></center>
+      <center><img src="/images/anubhav.jpg" alt="anubhav" style="width:60%"></center>
       <div class="container">
         <br><b>Anubhav Dixit</b>
-        <br>Ph.D. Student [2022-present]
+        <br>Ph.D. Student [07/2022-present]
       </div>
     </div>
   </div>
 
   <div class="column">
     <div class="card" style="border: 1px solid lightgray; padding: 10px; border-radius: 5px;">
-      <center><img src="/images/shanu.png" alt="shanu" style="width:70%"></center>
+      <center><img src="/images/shanu.png" alt="shanu" style="width:60%"></center>
       <div class="container">
         <br><b>Shanu Saklani</b>
-        <br>Ph.D. Student [2023-present]
+        <br>Ph.D. Student [07/2023-present]
       </div>
     </div>
   </div>
 
   <div class="column">
     <div class="card" style="border: 1px solid lightgray; padding: 10px; border-radius: 5px;">
-      <center><img src="/images/sankhadeep.jpg" alt="sankhadeep" style="width:70%"></center>
+      <center><img src="/images/sankhadeep.jpg" alt="sankhadeep" style="width:60%"></center>
       <div class="container">
         <br><b>Sankhadeep Bhowmick</b>
-        <br>Ph.D. Student [2024-present]
+        <br>Ph.D. Student [01/2024-present]
       </div>
     </div>
   </div>
@@ -118,30 +118,30 @@ html {
 
   <div class="column">
     <div class="card" style="border: 1px solid lightgray; padding: 10px; border-radius: 5px;">
-      <center><img src="/images/ananya.jpg" alt="ananya" style="width:70%"></center>
+      <center><img src="/images/ananya.jpg" alt="ananya" style="width:60%"></center>
       <div class="container">
         <br><b>Ananya Chaturvedi</b>
-        <br>Ph.D. Student [2024-present]
+        <br>Ph.D. Student [07/2024-present]
       </div>
     </div>
   </div>
 
   <div class="column">
     <div class="card" style="border: 1px solid lightgray; padding: 10px; border-radius: 5px;">
-      <center><img src="/images/arpita.jpg" alt="arpita" style="width:70%"></center>
+      <center><img src="/images/arpita.jpg" alt="arpita" style="width:60%"></center>
       <div class="container">
         <br><b>Arpita Santra</b>
-        <br>Ph.D. Student [2024-present]
+        <br>Ph.D. Student [12/2024-present]
       </div>
     </div>
   </div>
 
   <div class="column">
     <div class="card" style="border: 1px solid lightgray; padding: 10px; border-radius: 5px;">
-      <center><img src="/images/dummy.jpg" alt="robin" style="width:70%"></center>
+      <center><img src="/images/robin.jpg" alt="robin" style="width:60%"></center>
       <div class="container">
         <br><b>Robin Shah</b>
-        <br>Ph.D. Student [2025-present]
+        <br>Ph.D. Student [07/2025-present]
       </div>
     </div>
   </div>
