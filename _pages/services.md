@@ -31,7 +31,7 @@ author_profile: true
 
 15. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SuperComputing 2025)
 14. IEEE Visualization Full Papers (IEEE VIS 2022-24)
-13. EG/VGTC Conference on Visualization (EuroVis 2023-2025)
+13. EG/VGTC Conference on Visualization (EuroVis 2023-2026)
 12. IEEE HiPC 2024
 11. IEEE Cluster 2024
 10. International Conference on High Performance Computing, Data, and Analytics (HiPC 2023)
