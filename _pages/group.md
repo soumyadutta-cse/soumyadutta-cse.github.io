@@ -153,13 +153,17 @@ html {
 </div>
 
 
-<h2 style="text-align:left">M.S. Students</h2>
+<!-- <h2 style="text-align:left">M.S. Students</h2>
 
 1. <b>Kaushik Raj V. Nadar | B.Tech. (BSBE) - MS (SDS) | Batch'20  (Co-supervisor: Prof. Satya Prakash Singh) </b><br>
 Project: Efficient Large-Scale Multivariate Data Analytics and Visualization using
-Statistical Approaches<br>
+Statistical Approaches<br> -->
 
-<h2 style="text-align:left">M.Tech. Students</h2>
+<h2 style="text-align:left">M.Tech./M.S. Students</h2>
+
+20. <b>Kaushik Raj V. Nadar | B.Tech. (BSBE) - MS (SDS) | Batch'20  (Co-supervisor: Prof. Satya Prakash Singh) </b><br>
+Project: Efficient Large-Scale Multivariate Data Analytics and Visualization using
+Statistical Approaches<br><br>
 
 19. <b>Yashwanth Tippireddy | M.Tech. CSE | Batch'24</b> <br>
 Thesis: TBD<br><br>
@@ -176,7 +180,7 @@ Thesis: TBD<br><br>
 15. <b>Voora Nagendrabhaskaraswamy | M.Tech. CSE | Batch'24</b> <br>
 Thesis: TBD<br><br>
 
-14. <b>Divyanshu | M.Tech. CSE | Batch'24</b> <br>
+14. <b>Divyanshu Jha | M.Tech. CSE | Batch'24</b> <br>
 Thesis: TBD<br><br>
 
 13. <b>Devang Agrawal | M.Tech. CSE | Batch'24</b> <br>

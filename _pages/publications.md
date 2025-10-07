@@ -24,13 +24,28 @@ td {
 
 ## Publications
 
+<table>
+   <tr width="100%;">
+      <td width="23%;" valign="top">
+      <img style="width:300px" src="/images/mvnet.png"/> </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C15]</strong> Abhay Kumar Dwivedi, Shanu Saklani, and <b>Soumya Dutta</b>, Compressive Modeling and Visualization of Multivariate Scientific Data using Implicit Neural Representation, 
+      <em>16th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP 2025)</em>. [Link] [<a href="/papers/mvnet_icvgip2025.pdf">Pdf</a>] [BibTex]
+      <details>
+        <summary><b><span style="color:blue">Abstract</span></b></summary>
+        <p>
+        The extensive adoption of Deep Neural Networks has led to their increased utilization in challenging scientific visualization tasks. Recent advancements in building compressed data models using implicit neural representations have shown promising results for tasks like spatiotemporal volume visualization and super-resolution. Inspired by these successes, in this work, we develop compressed neural representations for multivariate datasets containing tens to hundreds of variables. Our approach utilizes a single network to learn representations for all data variables simultaneously through parameter sharing. This allows us to achieve state-of-the-art data compression, as the number of parameters in our model is significantly smaller than the number of multivariate data points. Through comprehensive evaluations, we demonstrate superior performance in terms of reconstructed data quality, rendering and visualization quality, preservation of dependency information among variables, and storage efficiency.
+        </p>
+      </details></td>
+   </tr>
+</table>
+
 
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/fg2025.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C14]</strong> Anurag Deo, Aditya Bangar, Chandranath Adak, Rahul Verma, Deepak Nagar, Zahid Akhtar, <b>Soumya Dutta</b>, Soumi Chattopadhyay and Sukalpa Chanda, IndicSideFace: A Dataset for Advancing Deepfake Detection on Side-Face Perspectives of Indian Subjects, 
-      <em>19th International Conference on Automatic Face and Gesture Recognition (FG 2025)</em>. [Link] [<a href="/papers/FG2025.pdf">Pdf</a>] [BibTex]
+      <em>19th International Conference on Automatic Face and Gesture Recognition (FG 2025)</em>. [<a href="https://ieeexplore.ieee.org/document/11099399">Link</a>] [<a href="/papers/FG2025.pdf">Pdf</a>] [<a href="/bibtex/fg_2025.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>

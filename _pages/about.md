@@ -15,11 +15,12 @@ Soumya Dutta is an Assistant Professor in the <a href="https://www.cse.iitk.ac.i
 
 <p><strong>
 Dr. Dutta's current research interests include: 
-(1) Machine Learning for Visual Computing and Image Analysis, 
-(2) Big Data Visualization and Analytics,
-(3) Data Science and HPC,
-(4) Machine Learning for Scientific Computing, 
-(5) Explainability and Interpretability of AI Models
+(1) Machine Learning, 
+(2) Visual Computing and Image Analysis,
+(3) Data Science and Big Data,
+(4) Data Visualization & Visual Analytics,
+(5) Machine Learning for Scientific Computing, 
+(6) Explainable, Interpretable, & Trustworthy AI
 </strong></p>
 
 <!-- <h2> ** Want to join our group? ** </h2>
@@ -74,7 +75,7 @@ There are open positions for PhD/MS students to conduct exciting reserach on Mac
 * Nov 2018: <b><span style="color:Chocolate">Best Paper Award</span></b> at ISAV 2018, co-located with Supercomputing (SC).
 * Mar 2018: <b><span style="color:Chocolate">Best Poster Award</span></b> in 12th Annual CSE Student Poster Exhibition, The Ohio State University.
 * May 2017: <b><span style="color:Chocolate">Best Poster Award</span></b> in 11th Annual CSE Student Poster Exhibition, The Ohio State University.
-* Aug 2016: <b><span style="color:Chocolate">Best Paper Honorable Mention Award</span></b> at IEEE Visualization Conference (IEEE VIS) 2016.
+* Aug 2016: <b><span style="color:Chocolate">Honorable Mention Award</span></b> at IEEE Visualization Conference (IEEE VIS) 2016.
 
 
 
