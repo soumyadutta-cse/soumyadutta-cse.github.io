@@ -27,9 +27,24 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
+      <img style="width:300px" src="/images/buildsec_2025.png"/> </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C16]</strong> Bibek Das, Chandranath Adak, Anurag Deo, Aditya Bangar, Rahul Verma, Zahid Akhtar, Soumi Chattopadhyay, <b>Soumya Dutta</b>, Ashutosh Parihar, Anand Suralkar, Deepak Nagar, Vishal Kumar, Securing AI-Generated Media: Rethinking Deepfake Vulnerabilities in Side-Face Perspectives, 
+      <em>IEEE Building a Secure & Empowered Cyberspace (BuildSEC 2025)</em>. [Link] [Pdf] [BibTex] <b>[Accepted]</b>
+      <details>
+        <summary><b><span style="color:blue">Abstract</span></b></summary>
+        <p>
+        Deepfakes pose escalating risks to digital trust, enabling misinformation, impersonation, and identity fraud. While existing research primarily addresses frontal-face manipulations, side-face perspectives remain an overlooked vulnerability. We present a comprehensive study of deepfake generation and detection in side-face scenarios, focusing on diverse indoor–outdoor conditions and Indian ethnicities. To support this, we curate a new dataset of genuine and manipulated side-face images and benchmark state-of-the-art generators and detectors. Our findings reveal persistent weaknesses in synthesis, including boundary artifacts, lighting inconsistencies, and inaccurate rendering of hair, accessories, and facial structures. Detection frameworks also show poor generalization across non-frontal poses and demographic variations, leaving exploitable gaps in security-sensitive applications such as identity verification and forensics. We outline research directions—richer datasets, pose-aware and ethnicity-aware generative models, and multimodal detection approaches—to strengthen defenses. By exposing these blind spots, our work contributes to building resilient safeguards against emerging deepfake threats.
+        </p>
+      </details></td>
+   </tr>
+</table>
+
+<table>
+   <tr width="100%;">
+      <td width="23%;" valign="top">
       <img style="width:300px" src="/images/mvnet.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C15]</strong> Abhay Kumar Dwivedi, Shanu Saklani, and <b>Soumya Dutta</b>, Compressive Modeling and Visualization of Multivariate Scientific Data using Implicit Neural Representation, 
-      <em>16th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP 2025)</em>. [Link] [<a href="/papers/mvnet_icvgip2025.pdf">Pdf</a>] [BibTex]
+      <em>16th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP 2025)</em>. [Link] [<a href="/papers/mvnet_icvgip2025.pdf">Pdf</a>] [BibTex] <b>[Accepted]</b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
