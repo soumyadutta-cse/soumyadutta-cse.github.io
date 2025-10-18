@@ -27,9 +27,22 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
+      <img style="width:300px" src="/images/csci_2025.png"/> </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C17]</strong> Humayra Tasnim, <b>Soumya Dutta</b>, and Melanie Moses, Dynamic Spatio-Temporal Summarization using Information Based Fusion, <em>International Conference on Computational Science and Computational Intelligence (CSCI 2025)</em>. [Link] [Pdf] [BibTex] <b>[Accepted]</b>
+      <details>
+        <summary><b><span style="color:blue">Abstract</span></b></summary>
+        <p>
+        In the era of burgeoning data generation, managing and storing large-scale time-varying datasets poses significant challenges. With the rise of supercomputing capabilities, the volume of data produced has soared, intensifying storage and I/O overheads. To address this issue, we propose a dynamic spatio-temporal data summarization technique that identifies informative features in key timesteps and fuses less informative ones. This approach minimizes storage requirements while preserving data dynamics. Unlike existing methods, our method retains both raw and summarized timesteps, ensuring a comprehensive view of information changes over time. We utilize information-theoretic measures to guide the fusion process, resulting in a visual representation that captures essential data patterns. We demonstrate the versatility of our technique across diverse datasets, encompassing particle-based flow simulations, security and surveillance applications, and biological cell interactions within the immune system. Our research significantly contributes to the realm of data management, introducing enhanced efficiency and deeper insights across diverse multidisciplinary domains. We provide a streamlined approach for handling massive datasets that can be applied to in situ analysis as well as post hoc analysis. This not only addresses the escalating challenges of data storage and I/O overheads but also unlocks the potential for informed decision-making. Our method empowers researchers and experts to explore essential temporal dynamics while minimizing storage requirements, thereby fostering a more effective and intuitive understanding of complex data behaviors.
+        </p>
+      </details></td>
+   </tr>
+</table>
+
+<table>
+   <tr width="100%;">
+      <td width="23%;" valign="top">
       <img style="width:300px" src="/images/buildsec_2025.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C16]</strong> Bibek Das, Chandranath Adak, Anurag Deo, Aditya Bangar, Rahul Verma, Zahid Akhtar, Soumi Chattopadhyay, <b>Soumya Dutta</b>, Ashutosh Parihar, Anand Suralkar, Deepak Nagar, Vishal Kumar, Securing AI-Generated Media: Rethinking Deepfake Vulnerabilities in Side-Face Perspectives, 
-      <em>IEEE Building a Secure & Empowered Cyberspace (BuildSEC 2025)</em>. [Link] [Pdf] [BibTex] <b>[Accepted]</b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C16]</strong> Bibek Das, Chandranath Adak, Anurag Deo, Aditya Bangar, Rahul Verma, Zahid Akhtar, Soumi Chattopadhyay, <b>Soumya Dutta</b>, Ashutosh Parihar, Anand Suralkar, Deepak Nagar, Vishal Kumar, Securing AI-Generated Media: Rethinking Deepfake Vulnerabilities in Side-Face Perspectives, <em>IEEE Building a Secure & Empowered Cyberspace (BuildSEC 2025)</em>. [Link] [Pdf] [BibTex] <b>[Accepted]</b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>

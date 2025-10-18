@@ -75,7 +75,7 @@ There are open positions for PhD/MS students to conduct exciting reserach on Mac
 * Nov 2018: <b><span style="color:Chocolate">Best Paper Award</span></b> at ISAV 2018, co-located with Supercomputing (SC).
 * Mar 2018: <b><span style="color:Chocolate">Best Poster Award</span></b> in 12th Annual CSE Student Poster Exhibition, The Ohio State University.
 * May 2017: <b><span style="color:Chocolate">Best Poster Award</span></b> in 11th Annual CSE Student Poster Exhibition, The Ohio State University.
-* Aug 2016: <b><span style="color:Chocolate">Honorable Mention Award</span></b> at IEEE Visualization Conference (IEEE VIS) 2016.
+* Aug 2016: <b><span style="color:Chocolate">Best Paper Honorable Mention Award</span></b> at IEEE Visualization Conference (IEEE VIS) 2016.
 
 
 
