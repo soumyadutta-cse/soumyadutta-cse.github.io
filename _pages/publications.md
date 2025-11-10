@@ -27,6 +27,20 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
+      <img style="width:300px" src="/images/davi.png"/> </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C17]</strong> Manish Agrawal, Prashik Ganer, Amit Bhasita, Khushwant Kaswan, Tippireddy Yashwanth, <b>Soumya Dutta</b>, and Purushottam Kar, DAVi: A Slim, Secure and Scalable Framework for Developing Data Analytics and Visualization Platforms, <em>19th Innovations in Software Engineering Conference (ISEC 2026)</em>. [Link] [Pdf] [BibTex] <b>[Accepted]</b>
+      <details>
+        <summary><b><span style="color:blue">Abstract</span></b></summary>
+        <p>
+        Modern scientific, commercial and industrial systems continuously generate large volumes of data in the form of event logs, streaming telemetry, controller data, etc. The task of real-time analysis and visualization of this data is essential to gain actionable insights and troubleshoot any latent issues. However, existing solutions frequently present a choice. Robust business intelligence (BI) tools abound and offer excellent visualization capabilities but limited flexibility for data scientists to implement custom programmatic solutions. On the other hand, data science platforms offer sophisticated coding environments but lack advanced visualization tools. Existing solutions also struggle to offer fine-grained access control and do not allow automated alerts to be delivered to user subgroups should anomalies or failure states be detected in data. To bridge this feature gap, this paper introduces DAVi (Data Analytics and Visualization Interface), a secure, microservice-driven platform that delivers a unified user experience combining advanced visualization capabilities and fully fledged development workflows. Developed for an organization of national importance, a particularly novel feature of DAVi is the in-built real-time notification system that allows data scientists to send automated notifications to an identified subset of users, for example, if an AI model detects impending system failure or deterioration in service quality. DAVi overcomes several technical challenges that may be of independent interest, such as the creation and integration of a honeypot-grade sandbox that must still be permitted access to restricted lines of communication. DAVi offers a single-tenant architecture at the organization level but allows the flexibility of per-user container isolation. Its core innovation lies in the headless integration of a powerful open-source BI engine, Apache Superset, with a React-based application. The architecture is sensitive to the demands of high-security environments, including centralized LDAP authentication, fine-grained role-based access control (RBAC), isolated on-demand JupyterLab sandboxes, session management, activity logging, automated snapshots with point-in-time data restoration, among others. DAVi offers a modular architecture with replaceable components and a secure, extensible, and comprehensive solution for modern data analytics.
+        </p>
+      </details></td>
+   </tr>
+</table>
+
+<table>
+   <tr width="100%;">
+      <td width="23%;" valign="top">
       <img style="width:300px" src="/images/csci_2025.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C17]</strong> Humayra Tasnim, <b>Soumya Dutta</b>, and Melanie Moses, Dynamic Spatio-Temporal Summarization using Information Based Fusion, <em>International Conference on Computational Science and Computational Intelligence (CSCI 2025)</em>. [Link] [Pdf] [BibTex] <b>[Accepted]</b>
       <details>
