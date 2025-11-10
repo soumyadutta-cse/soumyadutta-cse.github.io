@@ -28,7 +28,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/davi.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C17]</strong> Manish Agrawal, Prashik Ganer, Amit Bhasita, Khushwant Kaswan, Tippireddy Yashwanth, <b>Soumya Dutta</b>, and Purushottam Kar, DAVi: A Slim, Secure and Scalable Framework for Developing Data Analytics and Visualization Platforms, <em>19th Innovations in Software Engineering Conference (ISEC 2026)</em>. [Link] [Pdf] [BibTex] <b>[Accepted]</b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C18]</strong> Manish Agrawal, Prashik Ganer, Amit Bhasita, Khushwant Kaswan, Tippireddy Yashwanth, <b>Soumya Dutta</b>, and Purushottam Kar, DAVi: A Slim, Secure and Scalable Framework for Developing Data Analytics and Visualization Platforms, <em>19th Innovations in Software Engineering Conference (ISEC 2026)</em>. [Link] [Pdf] [BibTex] <b>[Accepted]</b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
