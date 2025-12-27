@@ -42,7 +42,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/csci_2025.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C17]</strong> Humayra Tasnim, <b>Soumya Dutta</b>, and Melanie Moses, Dynamic Spatio-Temporal Summarization using Information Based Fusion, <em>International Conference on Computational Science and Computational Intelligence (CSCI 2025)</em>. [Link] [Pdf] [BibTex] <b>[Accepted]</b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C17]</strong> Humayra Tasnim, <b>Soumya Dutta</b>, and Melanie Moses, Dynamic Spatio-Temporal Summarization using Information Based Fusion, <em>International Conference on Computational Science and Computational Intelligence (CSCI 2025)</em>. [Link] [Pdf] [BibTex]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -56,7 +56,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/buildsec_2025.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C16]</strong> Bibek Das, Chandranath Adak, Anurag Deo, Aditya Bangar, Rahul Verma, Zahid Akhtar, Soumi Chattopadhyay, <b>Soumya Dutta</b>, Ashutosh Parihar, Anand Suralkar, Deepak Nagar, Vishal Kumar, Securing AI-Generated Media: Rethinking Deepfake Vulnerabilities in Side-Face Perspectives, <em>IEEE Building a Secure & Empowered Cyberspace (BuildSEC 2025)</em>. [Link] [Pdf] [BibTex] <b>[Accepted]</b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C16]</strong> Bibek Das, Chandranath Adak, Anurag Deo, Aditya Bangar, Rahul Verma, Zahid Akhtar, Soumi Chattopadhyay, <b>Soumya Dutta</b>, Ashutosh Parihar, Anand Suralkar, Deepak Nagar, Vishal Kumar, Securing AI-Generated Media: Rethinking Deepfake Vulnerabilities in Side-Face Perspectives, <em>IEEE Building a Secure & Empowered Cyberspace (BuildSEC 2025)</em>. [Link] [Pdf] [BibTex]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -71,7 +71,7 @@ td {
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/mvnet.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C15]</strong> Abhay Kumar Dwivedi, Shanu Saklani, and <b>Soumya Dutta</b>, Compressive Modeling and Visualization of Multivariate Scientific Data using Implicit Neural Representation, 
-      <em>16th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP 2025)</em>. [Link] [<a href="/papers/mvnet_icvgip2025.pdf">Pdf</a>] [BibTex] <b>[Accepted]</b>
+      <em>16th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP 2025)</em>. [Link] [<a href="/papers/mvnet_icvgip2025.pdf">Pdf</a>] [BibTex]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>

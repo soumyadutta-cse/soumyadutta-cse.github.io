@@ -109,7 +109,7 @@ html {
     <img src="/images/sankhadeep.jpg" alt="sankhadeep" style="width:60%; border-radius: 50%;">
     <div class="container" style="margin-top: 8px; line-height: 1.4;">
       <b>Sankhadeep Bhowmick</b><br>
-      Ph.D. Student<br>
+      Ph.D. Candidate<br>
 <!--       [01/2024–present] -->
     </div>
   </div>
