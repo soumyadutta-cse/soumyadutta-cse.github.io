@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Organizational and Other Academic Activities
-19. Co-chair: IEEE Visualization Tutorials and Panels, 2026.
-18. Program Co-chair: Eurographics Symposium on Parallel Graphics and Visualization (EGPGV 2026) in conjunction with EuroVis 2026, Nottingham, UK.
+19. Co-chair: [IEEE Visualization Tutorials and Panels, 2026](https://ieeevis.org/year/2026/info/committees/conference-committee).
+18. Program Co-chair: [Eurographics Symposium on Parallel Graphics and Visualization (EGPGV 2026)](https://egpgv-symposium.github.io/2026/) in conjunction with EuroVis 2026, Nottingham, UK.
 17. Workshop Co-chair: [Visualization for Digital Humanities](https://soumyadutta-cse.github.io/dphvis/) in conjunction with: [IEEE Pacific Visualization Conference 2025](https://pacificvis2025.github.io/pages/index.html).
 16. Best Paper Award Selection Committee Member: IEEE Visualization Conference ([IEEEVIS 2025](https://ieeevis.org/year/2025/welcome)]).
 15. Program Co-chair (VIS track): 19th [International Symposium on Visual Computing (ISVC’24)](https://www.isvc.net/index.php/organizing-committee/), Lake Tahoe, Nevada, USA (2024).
