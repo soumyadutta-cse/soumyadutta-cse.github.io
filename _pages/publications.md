@@ -56,7 +56,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/buildsec_2025.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C16]</strong> Bibek Das, Chandranath Adak, Anurag Deo, Aditya Bangar, Rahul Verma, Zahid Akhtar, Soumi Chattopadhyay, <b>Soumya Dutta</b>, Ashutosh Parihar, Anand Suralkar, Deepak Nagar, Vishal Kumar, Securing AI-Generated Media: Rethinking Deepfake Vulnerabilities in Side-Face Perspectives, <em>IEEE Building a Secure & Empowered Cyberspace (BuildSEC 2025)</em>. [Link] [Pdf] [BibTex]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C16]</strong> Bibek Das, Chandranath Adak, Anurag Deo, Aditya Bangar, Rahul Verma, Zahid Akhtar, Soumi Chattopadhyay, <b>Soumya Dutta</b>, Ashutosh Parihar, Anand Suralkar, Deepak Nagar, Vishal Kumar, Securing AI-Generated Media: Rethinking Deepfake Vulnerabilities in Side-Face Perspectives, <em>IEEE Building a Secure & Empowered Cyberspace (BuildSEC 2025)</em>. [Link] [<a href="/papers/BuildSEC2025.pdf">Pdf</a>] [BibTex]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -117,7 +117,7 @@ td {
       <td width="23%;" valign="top">
       <img style="height:100px" src="/images/UQ_DL_Vis_Workshop.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W7]</strong> Shanu Saklani, Chitwan Goel, Shrey Bansal, Zhe Wang, <b>Soumya Dutta</b>, Tushar M. Athawale, David Pugmire, Christopher R. Johnson, Uncertainty-Informed Volume Visualization using Implicit Neural Representation, <em> IEEE Workshop on Uncertainty Visualization: Applications, Techniques, Software, and Decision Frameworks (Co-located with IEEEVIS)</em>, 2024.
-      [<a href="https://ieeexplore.ieee.org/document/10750137">Link</a>] [<a href="/papers/DL_uncert_volren_VIS_uncertainty_workshop.pdf">Pdf</a>] [BibTex] [Accepted] 
+      [<a href="https://ieeexplore.ieee.org/document/10750137">Link</a>] [<a href="/papers/DL_uncert_volren_VIS_uncertainty_workshop.pdf">Pdf</a>] [<a href="/bibtex/DLuncertvolvis_UQworkshop.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
