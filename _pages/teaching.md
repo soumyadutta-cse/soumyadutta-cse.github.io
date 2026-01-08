@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-## <span style="color:red"> Current Semester: Autumn 2025 </span>
+## <span style="color:red"> Current Semester: Spring 2026 </span>
 
-## CS360 - Introduction to Computer Graphics
+## ESC 111/2 - Fundamentals of Computing (Institute Core Course)
 
-For more details and list of topics that will be covered, please check the past course section at the bottom of this page.
+<!-- For more details and list of topics that will be covered, please check the past course section at the bottom of this page. -->
 
 
 ## <span style="color:red"> Past Courses: </span>
@@ -49,7 +49,7 @@ For more details and list of topics that will be covered, please check the past 
 
 </details>
 
-### CS360 - Introduction to Computer Graphics (Autumn 2023, Autumn 2024)
+### CS360 - Introduction to Computer Graphics (Autumn 2023, Autumn 2024, Autumn 2025)
 
 <details>
     <summary><b><span style="color:blue">Click for more details</span></b></summary>
