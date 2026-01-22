@@ -28,6 +28,7 @@ title: ""
 </span>
 </p>
 
+<h2 style="text-align: center;">---- Intelligent -  Interpretable - Interactive -----</h2>
 
 <p>
 Welcome to the Intelligent Scientific and Visual Computing of Big Data Research Group at the <a href="https://www.iitk.ac.in">Indian Institute of Technology, Kanpur (IITK)</a>. We are part of the <a href="https://www.cse.iitk.ac.in/">Department of Computer Science and Engineering</a>. Our research lies at the unique intersection of <b>machine learning, visual computing, visualization, big data, and high-performance computing</b>. We develop state-of-the-art data analytics, machine learning, and visualization and computer vision techniques to accelerate data-driven discoveries in diverse application domains. Summarizing, extracting, and comprehending the crux from the vast seas of data and representing them visually and interactively in an interpretable and scalable manner is the broad-scale focus of our research.</p>

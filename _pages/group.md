@@ -161,30 +161,41 @@ Statistical Approaches<br> -->
 
 <h2 style="text-align:left">M.Tech./M.S. Students</h2>
 
+24. <b>Harsh Sanjay Pandey | M.Tech. CSE | Batch'25</b> <br>
+Thesis: TBD<br><br>
+
+23. <b>Shrey Sharma | M.Tech. CSE | Batch'25</b> <br>
+Thesis: TBD<br><br>
+
+22. <b>Siddharth Banerjee | M.Tech. CSE | Batch'25</b> <br>
+Thesis: TBD<br><br>
+
+21. <b>Darshana Baruah | M.Tech. CSE | Batch'25</b> <br>
+Thesis: TBD<br><br>
+
 20. <b>Kaushik Raj V. Nadar | B.Tech. (BSBE) - MS (SDS) | Batch'20  (Co-supervisor: Prof. Satya Prakash Singh) </b><br>
-Project: Efficient Large-Scale Multivariate Data Analytics and Visualization using
-Statistical Approaches<br><br>
+Project: Efficient Large-Scale Multivariate Data Analytics and Visualization using Statistical Approaches<br><br>
 
 19. <b>Yashwanth Tippireddy | M.Tech. CSE | Batch'24</b> <br>
-Thesis: TBD<br><br>
+Thesis: DAVi: A Slim, Secure and Scalable Framework for Developing Data Analytics and Visualization Platforms - III<br><br>
 
 18. <b>Amit Bhasita | M.Tech. CSE | Batch'24</b> <br>
-Thesis: TBD<br><br>
+Thesis: DAVi: A Slim, Secure and Scalable Framework for Developing Data Analytics and Visualization Platforms - II<br><br>
 
 17. <b>Khushwant Kaswan | M.Tech. CSE | Batch'24</b> <br>
-Thesis: TBD<br><br>
+Thesis: DAVi: A Slim, Secure and Scalable Framework for Developing Data Analytics and Visualization Platforms - I<br><br>
 
 16. <b>Telugu Sudhakar | M.Tech. CSE | Batch'24</b> <br>
-Thesis: TBD<br><br>
+Thesis: Learning Parameterized Probability Distributions in Volumetric Data Using Compact Neural Representations<br><br>
 
 15. <b>Voora Nagendrabhaskaraswamy | M.Tech. CSE | Batch'24</b> <br>
-Thesis: TBD<br><br>
+Thesis: Multi-Level Compressive Neural Representation Learning for Multivariate Time-Varying Data via Knowledge Distillation<br><br>
 
 14. <b>Divyanshu Jha | M.Tech. CSE | Batch'24</b> <br>
-Thesis: TBD<br><br>
+Thesis: Modeling and Quantifying the Impact of Data Uncertainty in Deep Neural Networks for Scientific Applications<br><br>
 
 13. <b>Devang Agrawal | M.Tech. CSE | Batch'24</b> <br>
-Thesis: TBD<br><br>
+Thesis: Learning Compressed Local Latent Representations for Interactive Analytics and Visualization of Large Scientific Data<br><br>
 
 12. <b>Kartik Jain | M.Tech. CSE | Batch'23</b> <br>
 Thesis: Learning Compressive Implicit Neural Representations of 3D Scalar Data: A Comparative Study Between Bottleneck and Low Rank Matrix Factorization-based Representations<br><br>
