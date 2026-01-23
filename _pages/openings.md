@@ -28,4 +28,4 @@ Please write me at soumyad [at] cse [dot] iitk [dot] ac [dot] in.
 <!-- to do research on big data visual analytics, machine learning for visual computing, high performance and in situ visual analysis, and data science. <b>If you can devote a minimum of six months (preferably 1 year for doing something meaningful and publishable!), and are motivated to learn new concepts and have strong programming skills in C/C++ and Python then <u> please send me an email with your CV at soumyad [at] cse [dot] iitk [dot] ac [dot] in</u></b>.  -->
 
 
-<p>** I apologies if I am not able to respond to your email as I get many such requests. I will try my best to get back to you as soon as I can. **
+<p>** I apologize if I’m unable to respond to your email, as I receive many such requests. I will do my best to get back to you as soon as I can. **
