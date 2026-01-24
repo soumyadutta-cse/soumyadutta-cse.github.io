@@ -27,6 +27,20 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
+      <img style="width:300px" src="/images/revinr_pvis26.png"/> </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C19]</strong> Shanu Saklani, Tushar M. Athawale, Nairita Pal, David Pugmire, Chris R. Johnson, and <b>Soumya Dutta</b>, REV-INR: Regularized Evidential Implicit Neural Representation for Uncertainty-Aware Volume Visualization, <em>19th IEEE Pacific Visualization Conference (PacificVis 2026)</em>. [Link] [<a href="/papers/revinr_pvis26.pdf">Pdf</a>] [BibTex] <b>[Accepted]</b>
+      <details>
+        <summary><b><span style="color:blue">Abstract</span></b></summary>
+        <p>
+        Applications of Implicit Neural Representations (INRs) have emerged as a promising deep learning approach for compactly representing large volumetric datasets. These models can act as surrogates for volume data, enabling efficient storage and on-demand reconstruction via model predictions. However, conventional deterministic INRs only provide value predictions without insights into the model's prediction uncertainty or the impact of inherent noisiness in the data. This limitation can lead to unreliable data interpretation and visualization due to prediction inaccuracies in the reconstructed volume. Identifying erroneous results extracted from model-predicted data may be infeasible, as raw data may be unavailable due to its large size. To address this challenge, we introduce REV-INR, Regularized Evidential Implicit Neural Representation, which learns to predict data values accurately along with the associated coordinate-level data uncertainty and model uncertainty using only a single forward pass of the trained REV-INR during inference. By comprehensively comparing and contrasting REV-INR with existing well-established deep uncertainty estimation methods, we show that REV-INR achieves the best volume reconstruction quality with robust data (aleatoric) and model (epistemic) uncertainty estimates using the fastest inference time. Consequently, we demonstrate that REV-INR facilitates assessment of the reliability and trustworthiness of the extracted isosurfaces and volume visualization results, enabling analyses to be solely driven by model-predicted data.
+        </p>
+      </details></td>
+   </tr>
+</table>
+
+<table>
+   <tr width="100%;">
+      <td width="23%;" valign="top">
       <img style="width:300px" src="/images/davi.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C18]</strong> Manish Agrawal, Prashik Ganer, Amit Bhasita, Khushwant Kaswan, Tippireddy Yashwanth, <b>Soumya Dutta</b>, and Purushottam Kar, DAVi: A Slim, Secure and Scalable Framework for Developing Data Analytics and Visualization Platforms, <em>19th Innovations in Software Engineering Conference (ISEC 2026)</em>. [Link] [<a href="/papers/DAVi_ISEC.pdf">Pdf</a>] [BibTex] <b>[Accepted]</b>
       <details>
