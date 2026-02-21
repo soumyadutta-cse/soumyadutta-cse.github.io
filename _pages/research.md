@@ -35,10 +35,12 @@ Welcome to the Intelligent Scientific and Visual Computing of Big Data Research 
 
 <p>To achieve our goal, we build machine (deep) learning and data science-based solutions to analyze large-scale multifaceted data in a scalable way, enabling interactive and interpretable analytics of complex data. We are also focused on developing techniques that make complex machine learning models more interpretable and explainable so that they can be trusted and effectively adopted in real-life applications. Our research addresses various big data characteristics, including its fundamental 5 Vs: <b>Volume, Velocity, Variety, Veracity, and Value</b>. We study extreme-scale data from scientific domains using machine learning and modern high-performance computing capabilities to advance research in various domains. We are also actively focused on building scalable and novel interactive visual analytics systems to analyze diverse data generated via social media, IoT, various sensors, engineering design, healthcare, and many other industry applications.</p></div>
 
-<h2 style="color:Chocolate"> Current International Research Collaborators: </h2>
+<h2 style="color:Chocolate"> Current Research Collaborators: </h2>
 1. [Dr. Ayan Acharya](https://aacharya-cs.github.io/) (Meta, USA)<br>
 2. [Dr. Tushar Athawale](https://tusharathawale.info/) (Oak Ridge National Laboratory, USA)<br>
-3. [Prof. Ko-Chih Wang](https://sites.google.com/view/kochihwang) (National Taiwan Normal University, Taiwan)<br>
+3. [Prof. Han-Wei Shen](https://han-wei-shen.github.io/) (The Ohio State University, USA)<br>
+4. [Prof. Christopher R. Johnson](https://users.cs.utah.edu/~crj/) (University of Utah, USA)<br>
+5. [Prof. Ko-Chih Wang](https://sites.google.com/view/kochihwang) (National Taiwan Normal University, Taiwan)<br>
 
 
 <h2 style="color:Chocolate"> Funded Research Projects: </h2>
