@@ -28,22 +28,25 @@ title: ""
 </span>
 </p>
 
-<h2 style="text-align: center;">---- Intelligent -  Interpretable - Interactive -----</h2>
+<h2 style="text-align: center;">---- Intelligent - Interactive - Interpretable ----</h2>
 
 <p>
 Welcome to the Intelligent Scientific and Visual Computing of Big Data Research Group at the <a href="https://www.iitk.ac.in">Indian Institute of Technology, Kanpur (IITK)</a>. We are part of the <a href="https://www.cse.iitk.ac.in/">Department of Computer Science and Engineering</a>. Our research lies at the unique intersection of <b>machine learning, visual computing, visualization, big data, and high-performance computing</b>. We develop state-of-the-art data analytics, machine learning, and visualization and computer vision techniques to accelerate data-driven discoveries in diverse application domains. Summarizing, extracting, and comprehending the crux from the vast seas of data and representing them visually and interactively in an interpretable and scalable manner is the broad-scale focus of our research.</p>
 
 <p>To achieve our goal, we build machine (deep) learning and data science-based solutions to analyze large-scale multifaceted data in a scalable way, enabling interactive and interpretable analytics of complex data. We are also focused on developing techniques that make complex machine learning models more interpretable and explainable so that they can be trusted and effectively adopted in real-life applications. Our research addresses various big data characteristics, including its fundamental 5 Vs: <b>Volume, Velocity, Variety, Veracity, and Value</b>. We study extreme-scale data from scientific domains using machine learning and modern high-performance computing capabilities to advance research in various domains. We are also actively focused on building scalable and novel interactive visual analytics systems to analyze diverse data generated via social media, IoT, various sensors, engineering design, healthcare, and many other industry applications.</p></div>
 
-<h2 style="color:Chocolate"> Current Research Collaborators: </h2>
+<h2 style="color:Chocolate"> Research Collaborators: </h2>
 1. [Dr. Ayan Acharya](https://aacharya-cs.github.io/) (Meta, USA)<br>
-2. [Dr. Tushar Athawale](https://tusharathawale.info/) (Oak Ridge National Laboratory, USA)<br>
-3. [Prof. Han-Wei Shen](https://han-wei-shen.github.io/) (The Ohio State University, USA)<br>
-4. [Prof. Christopher R. Johnson](https://users.cs.utah.edu/~crj/) (University of Utah, USA)<br>
-5. [Prof. Ko-Chih Wang](https://sites.google.com/view/kochihwang) (National Taiwan Normal University, Taiwan)<br>
+2. [Prof. Chandranath Adak](https://sites.google.com/view/cadak)(IIT Patna, India)<br>
+3. [Prof. Zahid Akhtar](https://sites.google.com/site/zahidakhtarhome/home)(SUNY Poly., USA)<br>
+4. [Prof. Soumi Chattopadhyay](https://sites.google.com/site/soumi61/home)(IIT Indore, India)<br>
+5. [Dr. Tushar Athawale](https://tusharathawale.info/) (Oak Ridge National Laboratory, USA)<br>
+6. [Prof. Christopher R. Johnson](https://users.cs.utah.edu/~crj/) (University of Utah, USA)<br>
+7. [Prof. Han-Wei Shen](https://han-wei-shen.github.io/) (The Ohio State University, USA)<br>
+8. [Prof. Ko-Chih Wang](https://sites.google.com/view/kochihwang) (National Taiwan Normal University, Taiwan)<br>
 
 
-<h2 style="color:Chocolate"> Funded Research Projects: </h2>
+<h2 style="color:Chocolate"> Research Projects: </h2>
 
 <h3 style="color:Chocolate"> AI for Science: </h3>
 
@@ -68,7 +71,7 @@ PI: Soumya Dutta (IIT Kanpur)<br>
 Duration: 2 years (Dec 2023-Dec 2025) <br>
 Funding Amount: ~ INR 30.00 Lakh <br>
 Funding Agency: SERB, Government of India<br>
-Status: Ongoing <br>
+Status: Ended <br>
 
 <h3 style="color:Chocolate"> AI for Social Good: </h3>
 
@@ -76,8 +79,8 @@ Status: Ongoing <br>
 Search of Missing People </b><br>
 PI: Tufan Guha (IIT Kanpur)<br>
 Co-PI: Soumya Dutta (IIT Kanpur)<br>
-Duration: 2 years <br>
-Funding Amount: ~ INR 20.00 Lakh <br>
+Duration: 3 years <br>
+Funding Amount: ~ INR 35.00 Lakh <br>
 Funding Agency: C3iHub, IIT Kanpur<br>
 Status: Ongoing <br>
 
