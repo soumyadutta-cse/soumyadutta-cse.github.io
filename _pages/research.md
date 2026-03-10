@@ -39,8 +39,8 @@ Welcome to the Intelligent Scientific and Visual Computing of Big Data Research 
 1. [Dr. Ayan Acharya](https://aacharya-cs.github.io/) (Meta, USA)<br>
 2. [Prof. Chandranath Adak](https://sites.google.com/view/cadak)(IIT Patna, India)<br>
 3. [Prof. Zahid Akhtar](https://sites.google.com/site/zahidakhtarhome/home)(SUNY Poly., USA)<br>
-4. [Prof. Soumi Chattopadhyay](https://sites.google.com/site/soumi61/home)(IIT Indore, India)<br>
-5. [Dr. Tushar Athawale](https://tusharathawale.info/) (Oak Ridge National Laboratory, USA)<br>
+4. [Dr. Tushar Athawale](https://tusharathawale.info/) (Oak Ridge National Laboratory, USA)<br>
+5. [Prof. Soumi Chattopadhyay](https://sites.google.com/site/soumi61/home)(IIT Indore, India)<br>
 6. [Prof. Christopher R. Johnson](https://users.cs.utah.edu/~crj/) (University of Utah, USA)<br>
 7. [Prof. Han-Wei Shen](https://han-wei-shen.github.io/) (The Ohio State University, USA)<br>
 8. [Prof. Ko-Chih Wang](https://sites.google.com/view/kochihwang) (National Taiwan Normal University, Taiwan)<br>

@@ -107,39 +107,38 @@ Analysis
 2. International Workshop on Big Data Reduction (IEEE IWBDR 2020-21, 2025)
 1. Program committee member at other venues: IVAPP 2020, VISUAL 2017-2020
 
-## Reviewer Proposal
+## Proposal Reviewer 
 
 2. United States Department of Energy (DOE), [Office of Advanced Scientific Computing Research (ASCR)](https://science.osti.gov/ascr), 2024.
 1. [German Research Foundation](https://www.dfg.de/en/): Deutsche Forschungsgemeinschaft (DFG) (2023, 2024)
 
 
-## Reviewer Paper
+## Paper Reviewer
 
-20. IEEE HiPC
-19. IEEE Cluster
-18. IEEE Transactions on Visualization and Computer Graphics (TVCG)
-17. Computer Graphics Forum (CGF)
-16. IEEE Visualization (SciVis, VAST, InfoVis)
-15. IEEE Transactions on Parallel and Distributed Systems (TPDS)
-14. IEEE Transactions on Instrumentation and Measurement (TIM)
-13. IEEE Transactions on Aerospace and Electronic Systems (TAES)
-12. EG/VGTC Conference on Visualization (EuroVis)
-11. ACM Conference on Human Factors in Computing Systems (CHI)
-10. IEEE Transactions on Network Science and Engineering (TNSE)
-9. Springer Journal of Visualization (JOVI)
-8. IEEE Pacific Visualization Symposium (PacificVis)
-7. Elsevier Knowledge-based Systems
-6. MDPI Journals (Entropy, Algorithms, Sustainability, International Journal of Geo-Information)
+19. IEEE Transactions on Visualization and Computer Graphics (TVCG)
+18. Computer Graphics Forum (CGF)
+17. IEEE Visualization (SciVis, VAST, InfoVis)
+16. IEEE Transactions on Parallel and Distributed Systems (TPDS)
+15. IEEE Transactions on Instrumentation and Measurement (TIM)
+14. IEEE Transactions on Aerospace and Electronic Systems (TAES)
+13. EG/VGTC Conference on Visualization (EuroVis)
+12. ACM Conference on Human Factors in Computing Systems (CHI)
+11. IEEE Transactions on Network Science and Engineering (TNSE)
+10. IEEE Pacific Visualization Symposium (PacificVis)
+9. IEEE HiPC
+8. IEEE Cluster
+7. Springer Journal of Visualization (JOVI)
+6. Elsevier Knowledge-based Systems
 5. IEEE Sympossium on Large Data Analysis and Visualization (LDAV)
 4. International Symposium on Visual Computing (ISVC)
 3. International Workshop on Big Data Reduction (IEEE IWBDR)
 2. Visualization in Environmental Sciences (EnvirVis)
 1. ACM In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV)
 
-## PhD Thesis Defense Committee Member
+<!-- ## PhD Thesis Defense Committee Member
 
 1. Humayra Tasnim (University of New Mexico, USA)
-2. Shubham Kumar Nigam (IITK)
+2. Shubham Kumar Nigam (IITK) -->
 
 <!-- ## PhD Comprehensive and SOTA Examination Committee Member (IITK)
 
