@@ -53,6 +53,15 @@ td {
 
 <h1 style="text-align:center"> (Research) Selected Video Demos of Our Published Research </h1>
 
+<table>
+   <tr width="100%;">
+      <td width="40%;" valign="top"><center>
+      <iframe width="350" height="220" src="https://www.youtube.com/embed/4kVadx2Ko5k?si=ewPyCAwK1mxs3cMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> Shanu Saklani, Tushar M. Athawale, Nairita Pal, David Pugmire, Chris R. Johnson, and <b>Soumya Dutta</b>, <em>REV-INR: Regularized Evidential Implicit Neural Representation for Uncertainty-Aware Volume Visualization,</em>, 19th IEEE Pacific Visualization Conference (PacificVis 2026).
+      </td>
+      </center></td>
+   </tr>
+</table>
 
 <table>
    <tr width="100%;">
