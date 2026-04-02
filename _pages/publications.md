@@ -27,6 +27,35 @@ td {
 <table>
    <tr width="100%;">
       <td width="23%;" valign="top">
+      <img style="width:300px" src="/images/xai_deep_fake_ICPR_26.png"/> </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C21]</strong> Bibek Das, Soumi Chattopadhyay, Chandranath Adak, Astitva Pandey, Ashutosh Parihar, Zahid Akhtar, <b>Soumya Dutta</b>, Abdenour Hadid, Explainability-guided Deepfake Detection for High-Fidelity Facial Edits, 28th Int. Conference on Pattern Recognition (ICPR), Lyon, France, 17-22 Aug., 2026. [Link] [Pdf] [BibTex] <b>[Accepted]</b>
+      <details>
+        <summary><b><span style="color:blue">Abstract</span></b></summary>
+        <p>
+        Recent advances in vision–language models (VLMs) have enabled highly realistic, identity-preserving facial edits that lack the visible artifacts exploited by conventional deepfake detectors. This raises a critical question for multimedia forensics: do models capable of generating such content also possess reliable forensic reasoning? We first show that state-of-the-art VLMs, despite strong performance on standard benchmarks, fail to consistently detect high-fidelity semantic edits, exhibiting viewpoint sensitivity, prompt-dependent behavior, and reliance on superficial cues rather than manipulation-aware visual evidence. To rigorously study this setting, we introduce IndicSideFace-V2, a multi-view deepfake dataset comprising minimal facial edits with pixel-level manipulation masks, enabling joint evaluation of detection accuracy and explanation fidelity. Our analysis further reveals that standard deep learning detectors, although achieving high accuracy after fine-tuning, frequently succeed for the wrong reasons, attending to background or incidental regions instead of the manipulated facial attributes. Motivated by these findings, we propose an explainability-guided training framework that enforces {right prediction for the right reason} by explicitly aligning class activation maps with ground-truth manipulation masks during learning. Extensive experiments demonstrate that the proposed approach significantly improves detection robustness and explanation faithfulness under challenging viewpoints and common image perturbations. Together, our results highlight the limitations of language-driven forensic reasoning and establish explanation-aligned visual learning as a necessary step toward trustworthy deepfake detection in the era of high-fidelity generative models.
+        </p>
+      </details></td>
+   </tr>
+</table>
+
+<table>
+   <tr width="100%;">
+      <td width="23%;" valign="top">
+      <img style="width:300px" src="/images/ICPR_26_difflatent.png"/> </td>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C20]</strong> Bibek Das, Anurag Deo, Chandranath Adak, Soumi Chattopadhyay, Zahid Akhtar, <b>Soumya Dutta</b>, Abdenour Hadid, Diffusion-Latent Invisible Watermarking for Proactive Deepfake Provenance Verification, 28th Int. Conference on Pattern Recognition (ICPR), Lyon, France, 17-22 Aug., 2026. [Link] [Pdf] [BibTex] <b>[Accepted]</b>
+      <details>
+        <summary><b><span style="color:blue">Abstract</span></b></summary>
+        <p>
+        The rapid advancement of generative face manipulation techniques has exposed fundamental limitations of conventional passive deepfake detection systems, particularly under distribution shift, compression, and pose variation. In this paper, we propose diffusion-latent invisible watermarking as a proactive deepfake provenance verification mechanism, enabling reliable authentication of synthetic content at the point of generation. Our approach embeds structured, imperceptible watermarks directly into the latent space of diffusion models, ensuring minimal visual distortion while preserving robust recoverability under post-processing operations.  Unlike existing watermarking methods that are primarily evaluated on near-frontal facial imagery, our framework explicitly addresses non-frontal and side-face deepfake scenarios, where facial geometry and texture statistics differ substantially, and robustness is significantly challenged. We introduce a perceptual-robust latent reconstruction objective that enhances watermark stability under compression, geometric transformations, and learned distortions without sacrificing visual fidelity. To rigorously evaluate the proposed approach, we construct a side-face deepfake benchmark comprising diverse facial identities, multiple state-of-the-art manipulation methods, and controlled pose variations. Extensive experiments demonstrate that our method consistently outperforms prior diffusion-based watermarking baselines in watermark recovery accuracy and provenance verification reliability, particularly under extreme pose and post-processing conditions. These results highlight the effectiveness of proactive, diffusion-latent invisible watermarking as a practical and robust solution for trustworthy deployment of generative face technologies.
+        </p>
+      </details></td>
+   </tr>
+</table>
+
+
+<table>
+   <tr width="100%;">
+      <td width="23%;" valign="top">
       <img style="width:300px" src="/images/revinr_pvis26.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C19]</strong> Shanu Saklani, Tushar M. Athawale, Nairita Pal, David Pugmire, Chris R. Johnson, and <b>Soumya Dutta</b>, REV-INR: Regularized Evidential Implicit Neural Representation for Uncertainty-Aware Volume Visualization, <em>19th IEEE Pacific Visualization Conference (PacificVis 2026)</em>. [Link] [<a href="/papers/revinr_pvis26.pdf">Pdf</a>] [BibTex] <b>[Accepted]</b>
       <details>
