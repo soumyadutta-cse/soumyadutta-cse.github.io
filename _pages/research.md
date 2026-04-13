@@ -53,7 +53,7 @@ Welcome to the Intelligent Scientific and Visual Computing of Big Data Research 
 <b>1. Project Title: DAVi: An Intelligent Data Analytics and Visualization Framework </b><br>
 PI: Soumya Dutta (IIT Kanpur)<br>
 Co-PI: Purushottam Kar (IIT Kanpur)<br>
-Duration: 2 years (Feb 2024-Feb 2026)<br>
+Duration: 2 years (Feb 2024-July 2026)<br>
 Funding Amount: ~ INR 30.00 Lakh<br>
 Funding Agency: Indian Space Research Organisation (ISRO)<br>
 Status: Ongoing <br>

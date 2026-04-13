@@ -133,7 +133,7 @@ html {
     <img src="/images/arpita.jpg" alt="arpita" style="width:60%; border-radius: 50%;">
     <div class="container" style="margin-top: 8px; line-height: 1.4;">
       <b>Arpita Santra</b><br>
-      Ph.D. Student<br>
+      Ph.D. Candidate<br>
 <!--       [01/2025–present] -->
     </div>
   </div>
@@ -176,20 +176,21 @@ Thesis: TBD<br><br>
 20. <b>Kaushik Raj V. Nadar | B.Tech. (BSBE) - MS (SDS) | Batch'20  (Co-supervisor: Prof. Satya Prakash Singh) </b><br>
 Project: Efficient Large-Scale Multivariate Data Analytics and Visualization using Statistical Approaches<br><br>
 
-19. <b>Yashwanth Tippireddy | M.Tech. CSE | Batch'24</b> <br>
+19. <b>Voora Nagendrabhaskaraswamy | M.Tech. CSE | Batch'24</b> <br>
+Thesis: Multi-Level Compressive Neural Representation Learning for Multivariate Time-Varying Data via Knowledge Distillation<br>
+<span style="color:red; font-weight:bold;">*** Academic Excellence Award ***</span><br><br>
+
+18. <b>Yashwanth Tippireddy | M.Tech. CSE | Batch'24</b> <br>
 Thesis: DAVi: A Slim, Secure and Scalable Framework for Developing Data Analytics and Visualization Platforms - III<br><br>
 
-18. <b>Amit Bhasita | M.Tech. CSE | Batch'24</b> <br>
+17. <b>Amit Bhasita | M.Tech. CSE | Batch'24</b> <br>
 Thesis: DAVi: A Slim, Secure and Scalable Framework for Developing Data Analytics and Visualization Platforms - II<br><br>
 
-17. <b>Khushwant Kaswan | M.Tech. CSE | Batch'24</b> <br>
+16. <b>Khushwant Kaswan | M.Tech. CSE | Batch'24</b> <br>
 Thesis: DAVi: A Slim, Secure and Scalable Framework for Developing Data Analytics and Visualization Platforms - I<br><br>
 
-16. <b>Telugu Sudhakar | M.Tech. CSE | Batch'24</b> <br>
+15. <b>Telugu Sudhakar | M.Tech. CSE | Batch'24</b> <br>
 Thesis: Learning Parameterized Probability Distributions in Volumetric Data Using Compact Neural Representations<br><br>
-
-15. <b>Voora Nagendrabhaskaraswamy | M.Tech. CSE | Batch'24</b> <br>
-Thesis: Multi-Level Compressive Neural Representation Learning for Multivariate Time-Varying Data via Knowledge Distillation<br><br>
 
 14. <b>Divyanshu Jha | M.Tech. CSE | Batch'24</b> <br>
 Thesis: Modeling and Quantifying the Impact of Data Uncertainty in Deep Neural Networks for Scientific Applications<br><br>
@@ -240,7 +241,7 @@ Project: Understanding Adversarial Attacks using Techniques of Explainability an
     Project Title: MRL for Multiresolution Image Synthesis<br>
 19. Chitwan Goel [CSE] <br>
     Project Title: Local Latent Space Modeling of Multivariate Data for Feature Analysis and Data Reduction<br>
-    <span style="color:darkblue;"><b> ** Won Best UGP Award 2025</b></span><br>
+    <span style="color:red;"><b> *** Best UGP Award 2025 *** </b></span><br>
 18. Tamidala Venkata Sai Pawan Chanukya Reddy [CSE] <br>
     Project Title: Visual Analysis of Optimization and Generalization in Neural Networks<br>
 17. Raghav Manglik [CSE] <br>
@@ -257,7 +258,7 @@ Project: Understanding Adversarial Attacks using Techniques of Explainability an
     Project Title: Distribution Parameter Compression with SIREN<br>
 11. Chitwan Goel [CSE] <br>
     Project Title: Representing Large 3D Volumetric Data using Uncertainty-Aware Deep Learning Models<br>
-    <span style="color:darkblue;"><b> ** Won Best UGP Award 2025</b></span><br>
+    <span style="color:red;"><b> *** Best UGP Award 2025 *** </b></span><br>
 10. Shrey Bansal [CSE] <br>
     Project Title: Representing Large 3D Volumetric Data using Uncertainty-Aware Deep Learning Models<br>
 9. Aditya Bangar [CSE] <br>
@@ -286,8 +287,8 @@ Project: Understanding Adversarial Attacks using Techniques of Explainability an
 1. Soham Sen (AE) [Summer 2023]<br>
     Project Title: Visualizing Convolutional Neural Networks: Explainability and Interpretability<br>
     <ul>
-      <li><span style="color:blue;">Best Project in Engineering Award</span>
-      <li><span style="color:blue;">Dr. Elizabeth and Dr. Varkey Cherian Award for Best Project</span>
+      <li><span style="color:red;">Best Project in Engineering Award</span>
+      <li><span style="color:red;">Dr. Elizabeth and Dr. Varkey Cherian Award for Best Project</span>
 
 
 <!-- <h2 style="text-align:left">B. Tech./B.S. Students</h2> -->
