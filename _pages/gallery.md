@@ -66,7 +66,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="40%;" valign="top"><center>
-      <iframe width="350" height="220" src="https://www.youtube.com/embed/wl_f2ujGco8?si=aPOhmphXgfZnbNx-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe width="350" height="220" src="https://youtu.be/wS1ldU8elcs?si=aAwur717UBdRAJiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <b>Soumya Dutta</b>, Faheem Nizar, Ahmad Amaan, and Ayan Acharya, <em>Visual Analysis of Prediction Uncertainty in Neural Networks for Deep Image Synthesis</em>, IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024.
       </td>
       </center></td>
