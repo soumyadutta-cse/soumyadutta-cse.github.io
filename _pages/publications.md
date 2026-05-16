@@ -57,7 +57,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/revinr_pvis26.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C19]</strong> Shanu Saklani, Tushar M. Athawale, Nairita Pal, David Pugmire, Chris R. Johnson, and <b>Soumya Dutta</b>, REV-INR: Regularized Evidential Implicit Neural Representation for Uncertainty-Aware Volume Visualization, <em>19th IEEE Pacific Visualization Conference (PacificVis 2026)</em>. [Link] [<a href="/papers/revinr_pvis26.pdf">Pdf</a>] [BibTex] <b>[Accepted]</b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C19]</strong> Shanu Saklani, Tushar M. Athawale, Nairita Pal, David Pugmire, Chris R. Johnson, and <b>Soumya Dutta</b>, REV-INR: Regularized Evidential Implicit Neural Representation for Uncertainty-Aware Volume Visualization, <em>19th IEEE Pacific Visualization Conference (PacificVis 2026)</em>. [Link] [<a href="/papers/revinr_pvis26.pdf">Pdf</a>] [BibTex]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -71,7 +71,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/davi.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C18]</strong> Manish Agrawal, Prashik Ganer, Amit Bhasita, Khushwant Kaswan, Tippireddy Yashwanth, <b>Soumya Dutta</b>, and Purushottam Kar, DAVi: A Slim, Secure and Scalable Framework for Developing Data Analytics and Visualization Platforms, <em>19th Innovations in Software Engineering Conference (ISEC 2026)</em>. [Link] [<a href="/papers/DAVi_ISEC.pdf">Pdf</a>] [BibTex] <b>[Accepted]</b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C18]</strong> Manish Agrawal, Prashik Ganer, Amit Bhasita, Khushwant Kaswan, Tippireddy Yashwanth, <b>Soumya Dutta</b>, and Purushottam Kar, DAVi: A Slim, Secure and Scalable Framework for Developing Data Analytics and Visualization Platforms, <em>19th Innovations in Software Engineering Conference (ISEC 2026)</em>. [<a href="https://dl.acm.org/doi/full/10.1145/3796563.3796603">Link</a>] [<a href="/papers/DAVi_ISEC.pdf">Pdf</a>] [<a href="/bibtex/davi.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -99,7 +99,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/buildsec_2025.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C16]</strong> Bibek Das, Chandranath Adak, Anurag Deo, Aditya Bangar, Rahul Verma, Zahid Akhtar, Soumi Chattopadhyay, <b>Soumya Dutta</b>, Ashutosh Parihar, Anand Suralkar, Deepak Nagar, Vishal Kumar, Securing AI-Generated Media: Rethinking Deepfake Vulnerabilities in Side-Face Perspectives, <em>IEEE Building a Secure & Empowered Cyberspace (BuildSEC 2025)</em>. [Link] [<a href="/papers/BuildSEC2025.pdf">Pdf</a>] [BibTex]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C16]</strong> Bibek Das, Chandranath Adak, Anurag Deo, Aditya Bangar, Rahul Verma, Zahid Akhtar, Soumi Chattopadhyay, <b>Soumya Dutta</b>, Ashutosh Parihar, Anand Suralkar, Deepak Nagar, Vishal Kumar, Securing AI-Generated Media: Rethinking Deepfake Vulnerabilities in Side-Face Perspectives, <em>IEEE Building a Secure & Empowered Cyberspace (BuildSEC 2025)</em>. [<a href="https://ieeexplore.ieee.org/abstract/document/11416394">Link</a>] [<a href="/papers/BuildSEC2025.pdf">Pdf</a>] [<a href="/bibtex/buildsec_2025.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
