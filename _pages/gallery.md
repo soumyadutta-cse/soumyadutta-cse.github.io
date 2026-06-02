@@ -30,25 +30,7 @@ td {
 </style>
 
 
-<h1 style="text-align:center"> (Teaching) Computer Graphics Techniques for 3D Rendering and Geometric Modeling </h1>
 
-
-<div class="row">
-  <div class="gifcol">
-    <img src="/gifs/ray_tracing.gif"  style="width:300px;height:300px;">
-    <b>Ray Tracing:</b> Ray tracing is a computer graphics technique that can produce images of an environment by tracing paths of rays. Ray tracing is known to produce realistic images and optical effects such as reflection, refraction, and shadows.
-  </div>
-  <div class="gifcol">
-    <img src="/gifs/opengl_shader.gif"  style="width:300px;height:300px;">
-    <b>OpenGL/WebGL Shader Programming:</b> The image sequence shows 3D computer graphics renderings generated using OpenGL and GLSL shader programming. Using OpenGL interactive 2D/3D graphics programming can be done in GPUs, utilizing hardware acceleration. 
-  </div>
-  <div class="gifcol">
-    <img src="/gifs/geom_modeling.gif"  style="width:300px;height:300px;">
-    <b>Geometric Modeling:</b> The images show various geometric modeling algorithms. Examples of bezier, bspline curves, subdivision techniques such as Doo-Sabin, Loop etc., and sweeping and extrusion are shown.
-  </div>
-</div> 
-
-&nbsp;
 
 
 <h1 style="text-align:center"> (Research) Selected Video Demos of Our Published Research </h1>
@@ -66,7 +48,7 @@ td {
 <table>
    <tr width="100%;">
       <td width="40%;" valign="top"><center>
-      <iframe width="350" height="220" src="https://youtu.be/wS1ldU8elcs?si=aAwur717UBdRAJiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe width="350" height="220" src="https://www.youtube.com/embed/wS1ldU8elcs?si=GK8CnXRc4rJ8Z3AD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <b>Soumya Dutta</b>, Faheem Nizar, Ahmad Amaan, and Ayan Acharya, <em>Visual Analysis of Prediction Uncertainty in Neural Networks for Deep Image Synthesis</em>, IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024.
       </td>
       </center></td>
@@ -154,3 +136,25 @@ td {
    </tr>
 </table> 
 
+
+
+
+<h1 style="text-align:center"> (Teaching) Computer Graphics Techniques for 3D Rendering and Geometric Modeling </h1>
+
+
+<div class="row">
+  <div class="gifcol">
+    <img src="/gifs/ray_tracing.gif"  style="width:300px;height:300px;">
+    <b>Ray Tracing:</b> Ray tracing is a computer graphics technique that can produce images of an environment by tracing paths of rays. Ray tracing is known to produce realistic images and optical effects such as reflection, refraction, and shadows.
+  </div>
+  <div class="gifcol">
+    <img src="/gifs/opengl_shader.gif"  style="width:300px;height:300px;">
+    <b>OpenGL/WebGL Shader Programming:</b> The image sequence shows 3D computer graphics renderings generated using OpenGL and GLSL shader programming. Using OpenGL interactive 2D/3D graphics programming can be done in GPUs, utilizing hardware acceleration. 
+  </div>
+  <div class="gifcol">
+    <img src="/gifs/geom_modeling.gif"  style="width:300px;height:300px;">
+    <b>Geometric Modeling:</b> The images show various geometric modeling algorithms. Examples of bezier, bspline curves, subdivision techniques such as Doo-Sabin, Loop etc., and sweeping and extrusion are shown.
+  </div>
+</div> 
+
+&nbsp;
