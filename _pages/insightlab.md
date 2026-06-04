@@ -98,14 +98,6 @@ html {
 }
 
 grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
-/*
-.people-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-    gap: 20px;
-    text-align: center;
-    margin-top: 10px;
-}*/
 
 .person img {
     width: 90px;
@@ -152,17 +144,91 @@ grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
     font-size: 0.9em;
     color: #555;
 }
+
+.search-showcase {
+    width: 800px;      /* choose your width */
+    height: 450px;     /* choose your height */
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.search-showcase img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;   /* keeps entire image visible */
+    transition: opacity 0.1s ease-in-out;
+    border-radius: 0 !important;
+}
+
+}
+
 </style>
 
 <h1 style="text-align:center; text-decoration: underline;">
   INSIGHT: Intelligent Scientific and Visual Computing of Big Data Research Group
 </h1>
 
-<div class="box"><p>
+
+<!-- This gives one single collage -->
+<!-- <div class="box"><p>
     <img class="map rectangle-image"
      src="/images/collage.png"
      width="100%">
-</p></div>
+</p></div> -->
+
+
+<!-- This gives animated images -->
+<div class="search-showcase">
+    <img id="showcase-image" src="/images/tvcg_dl_uncert_image_synthesis.png" alt="Search Demo">
+</div>
+<script>
+const images = [
+    "/images/vis24_dl_vector_uncert.png",
+    "/images/xai_deep_fake_ICPR_26.png",
+    "/images/revinr_pvis26.png",
+    "/images/ICPR_26_difflatent.png",
+    "/images/UQ_DL_Vis_Workshop.png",
+    "/images/tvcg_sampling.png",
+    "/images/mvnet.png",
+    "/images/tvcg_sampling.png",
+    "/images/jiayi_tvcg.png",
+    "/images/PMI_sampling_entropy.png",
+    "/images/pvis2018_fuzzy_insitu.png",
+    "/images/isav_sampling_18.png",
+    "/images/isav_21.png",
+    "/images/insitu_dist_book_chapter.png",
+    "/images/ieeebigdata_I1_summarization.png",
+    "/images/mfix_jocs.png",
+    "/images/Humayra_cise.png",
+    "/images/fg2025.png",
+    "/images/eurovis_shoprt_2019.png",
+    "/images/cinema_chapter.png",
+    "/images/buildsec_2025.png",
+    "/images/ascr_workshop.png",
+    "/images/fg2025.png",
+    "/images/fuzzy_tracking.png",
+    "/images/Greg_stall_2017.png",
+    "/images/hazarika_pvis_16.png",
+    "/images/tzu_sampling_pvis_18.png",
+    "/images/vis13_tvcg.png",
+    "/images/vis15_stall.png",
+    "/images/slic_pvis.png"
+];
+let current = 0;
+const img = document.getElementById("showcase-image");
+setInterval(() => {
+    img.style.opacity = 0;
+
+    setTimeout(() => {
+        current = (current + 1) % images.length;
+        img.src = images[current];
+        img.style.opacity = 1;
+    }, 500);
+}, 3000);
+</script>
+
+
+
 
 <h1 style="text-align: center;">---- Intelligent - Interactive - Interpretable ----</h1>
 
@@ -172,7 +238,7 @@ Welcome to the Intelligent Scientific and Visual Computing of Big Data Research 
 <p>To achieve our goal, we build machine (deep) learning and data science-based solutions to analyze large-scale multifaceted data in a scalable way, enabling interactive and interpretable analytics of complex data. We are also focused on developing techniques that make complex machine learning models more interpretable and explainable so that they can be trusted and effectively adopted in real-life applications. Our research addresses various big data characteristics, including its fundamental 5 Vs: <b>Volume, Velocity, Variety, Veracity, and Value</b>. We study extreme-scale data from scientific domains using machine learning and modern high-performance computing capabilities to advance research in various domains. We are also actively focused on building scalable and novel interactive visual analytics systems to analyze diverse data generated via social media, IoT, various sensors, engineering design, healthcare, and many other industry applications.</p>
 
 
-<h2 style="color:Chocolate;">Current Ph.D. Students</h2>
+<h2 style="color:Chocolate;">Current PhD Students</h2>
 
 <div class="people-grid">
 
