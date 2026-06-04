@@ -183,46 +183,54 @@ grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
 </div>
 <script>
 const images = [
-    "/images/vis24_dl_vector_uncert.png",
-    "/images/xai_deep_fake_ICPR_26.png",
-    "/images/revinr_pvis26.png",
-    "/images/ICPR_26_difflatent.png",
-    "/images/UQ_DL_Vis_Workshop.png",
-    "/images/tvcg_sampling.png",
-    "/images/mvnet.png",
-    "/images/tvcg_sampling.png",
-    "/images/jiayi_tvcg.png",
-    "/images/PMI_sampling_entropy.png",
-    "/images/pvis2018_fuzzy_insitu.png",
-    "/images/isav_sampling_18.png",
-    "/images/isav_21.png",
-    "/images/insitu_dist_book_chapter.png",
-    "/images/ieeebigdata_I1_summarization.png",
-    "/images/mfix_jocs.png",
-    "/images/Humayra_cise.png",
-    "/images/fg2025.png",
-    "/images/eurovis_shoprt_2019.png",
-    "/images/cinema_chapter.png",
-    "/images/buildsec_2025.png",
-    "/images/ascr_workshop.png",
-    "/images/fg2025.png",
-    "/images/fuzzy_tracking.png",
-    "/images/Greg_stall_2017.png",
-    "/images/hazarika_pvis_16.png",
-    "/images/tzu_sampling_pvis_18.png",
-    "/images/vis13_tvcg.png",
-    "/images/vis15_stall.png",
-    "/images/slic_pvis.png"
+"/images/vis24_dl_vector_uncert.png",
+"/images/xai_deep_fake_ICPR_26.png",
+"/images/revinr_pvis26.png",
+"/images/ICPR_26_difflatent.png",
+"/images/UQ_DL_Vis_Workshop.png",
+"/images/tvcg_sampling.png",
+"/images/mvnet.png",
+"/images/tvcg_sampling.png",
+"/images/jiayi_tvcg.png",
+"/images/PMI_sampling_entropy.png",
+"/images/pvis2018_fuzzy_insitu.png",
+"/images/isav_sampling_18.png",
+"/images/isav_21.png",
+"/images/insitu_dist_book_chapter.png",
+"/images/ieeebigdata_I1_summarization.png",
+"/images/mfix_jocs.png",
+"/images/Humayra_cise.png",
+"/images/fg2025.png",
+"/images/eurovis_shoprt_2019.png",
+"/images/cinema_chapter.png",
+"/images/buildsec_2025.png",
+"/images/ascr_workshop.png",
+"/images/fg2025.png",
+"/images/fuzzy_tracking.png",
+"/images/Greg_stall_2017.png",
+"/images/hazarika_pvis_16.png",
+"/images/tzu_sampling_pvis_18.png",
+"/images/vis13_tvcg.png",
+"/images/vis15_stall.png",
+"/images/slic_pvis.png"
 ];
+
+// preload
+images.forEach(src => {
+    const img = new Image();
+    img.src = src;
+});
+
 let current = 0;
-const img = document.getElementById("showcase-image");
+const showcase = document.getElementById("showcase-image");
+
 setInterval(() => {
-    img.style.opacity = 0;
+    showcase.style.opacity = 0;
 
     setTimeout(() => {
         current = (current + 1) % images.length;
-        img.src = images[current];
-        img.style.opacity = 1;
+        showcase.src = images[current];
+        showcase.style.opacity = 1;
     }, 500);
 }, 3000);
 </script>
