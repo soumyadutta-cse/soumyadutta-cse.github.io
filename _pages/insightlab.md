@@ -156,8 +156,8 @@ grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
     width: 100%;
     height: 100%;
     object-fit: contain;   /* keeps entire image visible */
-    transition: opacity 0.1s ease-in-out;
-    border-radius: 0 !important;
+    transition: opacity 0.5s ease-in-out;
+    border-radius: 0;
 }
 
 }
@@ -182,6 +182,7 @@ grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
     <img id="showcase-image" src="/images/tvcg_dl_uncert_image_synthesis.png" alt="Search Demo">
 </div>
 <script>
+window.addEventListener('DOMContentLoaded', () => {
 const images = [
 "/images/vis24_dl_vector_uncert.png",
 "/images/xai_deep_fake_ICPR_26.png",
@@ -215,7 +216,6 @@ const images = [
 "/images/slic_pvis.png"
 ];
 
-// preload
 images.forEach(src => {
     const img = new Image();
     img.src = src;
@@ -233,6 +233,8 @@ setInterval(() => {
         showcase.style.opacity = 1;
     }, 500);
 }, 3000);
+
+});
 </script>
 
 
