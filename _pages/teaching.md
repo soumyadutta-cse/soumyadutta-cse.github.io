@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-## <span style="color:red"> Current Semester: Summer 2026 </span>
+## <span style="color:red"> Current Semester: Autumn 2026 </span>
 
-## CS661 - Big Data Visual Analytics
+## ESC 111/2 - Fundamentals of Computing (Institute Core Course)
 
 For more details and list of topics that will be covered, please check the past course section at the bottom of this page.
 

@@ -28,7 +28,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/xai_deep_fake_ICPR_26.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C21]</strong> Bibek Das, Soumi Chattopadhyay, Chandranath Adak, Astitva Pandey, Ashutosh Parihar, Zahid Akhtar, <b>Soumya Dutta</b>, Abdenour Hadid, Explainability-guided Deepfake Detection for High-Fidelity Facial Edits, 28th Int. Conference on Pattern Recognition (ICPR), Lyon, France, 17-22 Aug., 2026. [Link] [Pdf] [BibTex] <b>[Accepted]</b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C21]</strong> Bibek Das, Soumi Chattopadhyay, Chandranath Adak, Astitva Pandey, Ashutosh Parihar, Zahid Akhtar, <b>Soumya Dutta</b>, Abdenour Hadid, Explainability-guided Deepfake Detection for High-Fidelity Facial Edits, 28th Int. Conference on Pattern Recognition (ICPR), Lyon, France, 17-22 Aug., 2026. [<a href="https://link.springer.com/chapter/10.1007/978-3-032-31663-9_33">Link</a>] [Pdf] [BibTex] <b>[Accepted]</b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -42,7 +42,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/ICPR_26_difflatent.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C20]</strong> Bibek Das, Anurag Deo, Chandranath Adak, Soumi Chattopadhyay, Zahid Akhtar, <b>Soumya Dutta</b>, Abdenour Hadid, Diffusion-Latent Invisible Watermarking for Proactive Deepfake Provenance Verification, 28th Int. Conference on Pattern Recognition (ICPR), Lyon, France, 17-22 Aug., 2026. [Link] [Pdf] [BibTex] <b>[Accepted]</b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C20]</strong> Bibek Das, Anurag Deo, Chandranath Adak, Soumi Chattopadhyay, Zahid Akhtar, <b>Soumya Dutta</b>, Abdenour Hadid, Diffusion-Latent Invisible Watermarking for Proactive Deepfake Provenance Verification, 28th Int. Conference on Pattern Recognition (ICPR), Lyon, France, 17-22 Aug., 2026. [<a href="https://link.springer.com/chapter/10.1007/978-3-032-31663-9_34">Link</a>] [Pdf] [BibTex] <b>[Accepted]</b>
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -57,7 +57,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/revinr_pvis26.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C19]</strong> Shanu Saklani, Tushar M. Athawale, Nairita Pal, David Pugmire, Chris R. Johnson, and <b>Soumya Dutta</b>, REV-INR: Regularized Evidential Implicit Neural Representation for Uncertainty-Aware Volume Visualization, <em>19th IEEE Pacific Visualization Conference (PacificVis 2026)</em>. [Link] [<a href="/papers/revinr_pvis26.pdf">Pdf</a>] [BibTex]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C19]</strong> Shanu Saklani, Tushar M. Athawale, Nairita Pal, David Pugmire, Chris R. Johnson, and <b>Soumya Dutta</b>, REV-INR: Regularized Evidential Implicit Neural Representation for Uncertainty-Aware Volume Visualization, <em>19th IEEE Pacific Visualization Conference (PacificVis 2026)</em>. [<a href="https://ieeexplore.ieee.org/document/11558734">Link</a>] [<a href="/papers/revinr_pvis26.pdf">Pdf</a>] [BibTex]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -114,7 +114,7 @@ td {
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/mvnet.png"/> </td>
       <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C15]</strong> Abhay Kumar Dwivedi, Shanu Saklani, and <b>Soumya Dutta</b>, Compressive Modeling and Visualization of Multivariate Scientific Data using Implicit Neural Representation, 
-      <em>16th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP 2025)</em>. [Link] [<a href="/papers/mvnet_icvgip2025.pdf">Pdf</a>] [BibTex]
+      <em>16th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP 2025)</em>. [<a href="https://dl.acm.org/doi/10.1145/3774521.3774530">Link</a>] [<a href="/papers/mvnet_icvgip2025.pdf">Pdf</a>] [BibTex]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>

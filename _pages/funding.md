@@ -7,28 +7,39 @@ title: ""
 
 <h3 style="color:Chocolate"> AI for Science: </h3>
 
-<b>1. Project Title: DAVi: An Intelligent Data Analytics and Visualization Framework </b><br>
+
+<b>1. Project Title: Accelerated Development Of Next Generation High Strength High Performance Steel </b><br>
+Overall Lead PI: Amarendra K. Singh (IIT Kanpur) <br>
+Module Ppt3a PI: Dasari L.V.K. Prasad (IIT Kanpur)<br>
+Module Ppt3a Co-PI: Soumya Dutta (IIT Kanpur)<br>
+Duration: 3 years (May 2026-May 2029)<br>
+Module Ppt3a Funding Amount: ~ INR 26.5 Lakh<br>
+Funding Agency: Defence Research and Development Organisation (DRDO)<br>
+Note: The overall project is a large-scale, multi-institute collaborative project with total funding of approximately INR 40 crores.
+Status: Ongoing <br>
+
+<b>2. Project Title: DAVi: An Intelligent Data Analytics and Visualization Framework </b><br>
 PI: Soumya Dutta (IIT Kanpur)<br>
 Co-PI: Purushottam Kar (IIT Kanpur)<br>
 Duration: 2 years (Feb 2024-July 2026)<br>
 Funding Amount: ~ INR 30.00 Lakh<br>
 Funding Agency: Indian Space Research Organisation (ISRO)<br>
-Status: Ongoing <br>
+Status: Completed <br>
 
 
-<b>2. Project Title: Intelligent Visual Computing of Extreme-scale Data for Accelerating Scientific Discovery </b><br>
+<b>3. Project Title: Intelligent Visual Computing of Extreme-scale Data for Accelerating Scientific Discovery </b><br>
 PI: Soumya Dutta (IIT Kanpur)<br>
 Duration: 2 years <br>
 Funding Amount: ~ INR 30.00 Lakh <br>
 Funding Agency: IIT Kanpur Initiation Grant + IIT Kanpur CSE Department Research-I Foundation Grant<br>
-Status: Ongoing <br>
+Status: Completed <br>
 
-<b>3. Project Title: Enabling Interactive Big Data Analytics and Visualization at Exascale via In Situ Efficient Statistical Data Modeling </b><br>
+<b>4. Project Title: Enabling Interactive Big Data Analytics and Visualization at Exascale via In Situ Efficient Statistical Data Modeling </b><br>
 PI: Soumya Dutta (IIT Kanpur)<br>
 Duration: 2 years (Dec 2023-Dec 2025) <br>
 Funding Amount: ~ INR 30.00 Lakh <br>
 Funding Agency: SERB, Government of India<br>
-Status: Ended <br>
+Status: Completed <br>
 
 <h3 style="color:Chocolate"> AI for Social Good: </h3>
 
@@ -52,6 +63,7 @@ Status: Ongoing <br>
 <h2 style="color:Chocolate"> Supporters of Our Research: </h2>
 
 <div><center><img style="height:100px" src="/images/anrf.png"/>
+<img style="height:100px" src="/images/drdo.jpg"/>
 <img style="height:100px" src="/images/isro.png"/>
 <img style="height:85px" src="/images/c3ihub.jpg"/>
 <img style="height:100px" src="/images/iitkredlogo.png"/>
