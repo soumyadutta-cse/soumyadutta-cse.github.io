@@ -8,7 +8,18 @@ title: ""
 <h3 style="color:Chocolate"> AI for Science: </h3>
 
 
-<b>1. Project Title: Accelerated Development Of Next Generation High Strength High Performance Steel </b><br>
+<b>1. Project Title: Inverse Design of Crystalline Semiconductors for High-performance Thermoelectric Energy Conversion using Generative Deep Learning Models</b><br>
+PI: Koushik Pal (IIT Kanpur)<br>
+Co-PIs: Soumya Dutta (IIT Kanpur), Umesh V. Waghmare (JNCASR), Kanishka Biswas (JNCASR), Subhajit Roychowdhury (IISER Bhopal), Ankit Jain (IITB) <br>
+Collaborator: Prof. Sourav Medya (UIC, USA)<br>
+Industry Partner: TATA Steel<br>
+Duration: 3 years <br>
+Funding Amount: ~ INR 6.5 Crore <br>
+Funding Agency: ANRF: MISSION AI for Science and Engineering<br>
+Status: project approved, funds awaited.<br>
+
+
+<b>2. Project Title: Accelerated Development Of Next Generation High Strength High Performance Steel </b><br>
 Overall Lead PI: Amarendra K. Singh (IIT Kanpur) <br>
 Module Ppt3a PI: Dasari L.V.K. Prasad (IIT Kanpur)<br>
 Module Ppt3a Co-PI: Soumya Dutta (IIT Kanpur)<br>
@@ -18,7 +29,7 @@ Funding Agency: Defence Research and Development Organisation (DRDO)<br>
 Note: The overall project is a large-scale, multi-institute collaborative project with total funding of approximately INR 40 crores.
 Status: Ongoing <br>
 
-<b>2. Project Title: DAVi: An Intelligent Data Analytics and Visualization Framework </b><br>
+<b>3. Project Title: DAVi: An Intelligent Data Analytics and Visualization Framework </b><br>
 PI: Soumya Dutta (IIT Kanpur)<br>
 Co-PI: Purushottam Kar (IIT Kanpur)<br>
 Duration: 2 years (Feb 2024-July 2026)<br>
@@ -27,14 +38,14 @@ Funding Agency: Indian Space Research Organisation (ISRO)<br>
 Status: Completed <br>
 
 
-<b>3. Project Title: Intelligent Visual Computing of Extreme-scale Data for Accelerating Scientific Discovery </b><br>
+<b>4. Project Title: Intelligent Visual Computing of Extreme-scale Data for Accelerating Scientific Discovery </b><br>
 PI: Soumya Dutta (IIT Kanpur)<br>
 Duration: 2 years <br>
 Funding Amount: ~ INR 30.00 Lakh <br>
 Funding Agency: IIT Kanpur Initiation Grant + IIT Kanpur CSE Department Research-I Foundation Grant<br>
 Status: Completed <br>
 
-<b>4. Project Title: Enabling Interactive Big Data Analytics and Visualization at Exascale via In Situ Efficient Statistical Data Modeling </b><br>
+<b>5. Project Title: Enabling Interactive Big Data Analytics and Visualization at Exascale via In Situ Efficient Statistical Data Modeling </b><br>
 PI: Soumya Dutta (IIT Kanpur)<br>
 Duration: 2 years (Dec 2023-Dec 2025) <br>
 Funding Amount: ~ INR 30.00 Lakh <br>

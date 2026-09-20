@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Organizational and Other Academic Activities
-19. Co-chair: [IEEE Visualization Tutorials and Panels, 2026](https://ieeevis.org/year/2026/info/committees/conference-committee).
+19. Co-chair: [IEEE Visualization Tutorials and Panels, 2026-27](https://ieeevis.org/year/2026/info/committees/conference-committee).
 18. Program Co-chair: [Eurographics Symposium on Parallel Graphics and Visualization (EGPGV 2026)](https://egpgv-symposium.github.io/2026/) in conjunction with EuroVis 2026, Nottingham, UK.
 17. Workshop Co-chair: [Visualization for Digital Humanities](https://soumyadutta-cse.github.io/dphvis/) in conjunction with: [IEEE Pacific Visualization Conference 2025](https://pacificvis2025.github.io/pages/index.html).
 16. Best Paper Award Selection Committee Member: IEEE Visualization Conference ([IEEEVIS 2025](https://ieeevis.org/year/2025/welcome)]).
@@ -92,7 +92,7 @@ Analysis
 ## International Program Committee (IPC) Member
 
 15. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SuperComputing 2025)
-14. IEEE Visualization Full Papers (IEEE VIS 2022-24, 2026)
+14. IEEE Visualization Full Papers (IEEE VIS 2022-24, 2026-27)
 13. EG/VGTC Conference on Visualization (EuroVis 2023-2026)
 12. IEEE HiPC 2024
 11. IEEE Cluster 2024
@@ -108,16 +108,17 @@ Analysis
 1. Program committee member at other venues: IVAPP 2020, VISUAL 2017-2020
 
 ## Proposal Reviewer 
-
+3. Global Initiative of Academic Networks (GIAN), IIT Hyderabad, course proposals (2025-26)
 2. United States Department of Energy (DOE), [Office of Advanced Scientific Computing Research (ASCR)](https://science.osti.gov/ascr), 2024.
 1. [German Research Foundation](https://www.dfg.de/en/): Deutsche Forschungsgemeinschaft (DFG) (2023, 2024)
 
 
 ## Paper Reviewer
 
-19. IEEE Transactions on Visualization and Computer Graphics (TVCG)
-18. Computer Graphics Forum (CGF)
-17. IEEE Visualization (SciVis, VAST, InfoVis)
+20. IEEE Transactions on Visualization and Computer Graphics (TVCG)
+19. Computer Graphics Forum (CGF)
+18. IEEE Visualization (SciVis, VAST, InfoVis)
+17. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SuperComputing)
 16. IEEE Transactions on Parallel and Distributed Systems (TPDS)
 15. IEEE Transactions on Instrumentation and Measurement (TIM)
 14. IEEE Transactions on Aerospace and Electronic Systems (TAES)
