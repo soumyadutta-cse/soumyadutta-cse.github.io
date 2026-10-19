@@ -296,24 +296,22 @@ Welcome to the Intelligent Scientific and Visual Computing of Big Data Research 
 
 <ul>
     <li>
-        <b>Harsh Sanjay Pandey | M.Tech. CSE | Batch'25</b><br>
-        Thesis: TBD
-    </li>
-
-    <li>
         <b>Shrey Sharma | M.Tech. CSE | Batch'25</b><br>
         Thesis: TBD
     </li>
-
     <li>
         <b>Siddharth Banerjee | M.Tech. CSE | Batch'25</b><br>
         Thesis: TBD
     </li>
-
     <li>
         <b>Darshana Baruah | M.Tech. CSE | Batch'25</b><br>
         Thesis: TBD
     </li>
+    <li>
+        <b>Harsh Sanjay Pandey | M.Tech. CSE | Batch'25</b><br>
+        Thesis: TBD
+    </li>
+
 </ul>
 
 <details>
@@ -322,15 +320,16 @@ Welcome to the Intelligent Scientific and Visual Computing of Big Data Research 
     </summary>
 
     <ul>
-        <li>
-            <b>Kaushik Raj V. Nadar | B.Tech. (BSBE) - MS (SDS) | Batch'20 (Co-supervisor: Prof. Satya Prakash Singh)</b><br>
-            Project: Efficient Large-Scale Multivariate Data Analytics and Visualization using Statistical Approaches
-        </li>
 
         <li>
             <b>Voora Nagendrabhaskaraswamy | M.Tech. CSE | Batch'24</b><br>
             Thesis: Multi-Level Compressive Neural Representation Learning for Multivariate Time-Varying Data via Knowledge Distillation<br>
             <span style="color:red; font-weight:bold;">*** Academic Excellence Award ***</span>
+        </li>
+
+        <li>
+            <b>Kaushik Raj V. Nadar | B.Tech. (BSBE) - MS (SDS) | Batch'20 (Co-supervisor: Prof. Satya Prakash Singh)</b><br>
+            Project: Efficient Large-Scale Multivariate Data Analytics and Visualization using Statistical Approaches
         </li>
 
         <li>
@@ -431,14 +430,11 @@ Welcome to the Intelligent Scientific and Visual Computing of Big Data Research 
 
 <ul>
     <li>
-        <b>Divit Shah [CSE]</b><br>
-        Project Title: Structured Pruning Workflow for Implicit Neural Representations of 3D volume data
+        <b>Sahil Pandey [EE]</b><br>
+        Project Title: Physics Informed Compressive Neural Models for Large 3D Volume Data Representation and Visualization
     </li>
 
-    <li>
-        <b>Devansh Gupta [SDS]</b><br>
-        Project Title: Structured Pruning of SIREN Using High-Frequency Activation Scoring
-    </li>
+    
 </ul>
 
 <details>
@@ -447,6 +443,16 @@ Welcome to the Intelligent Scientific and Visual Computing of Big Data Research 
     </summary>
 
     <ul>
+
+        <li>
+            <b>Divit Shah [CSE]</b><br>
+            Project Title: Structured Pruning Workflow for Implicit Neural Representations of 3D volume data
+        </li>
+
+        <li>
+            <b>Devansh Gupta [SDS]</b><br>
+            Project Title: Structured Pruning of SIREN Using High-Frequency Activation Scoring
+        </li>
 
         <li>
             <b>Hardik Jindal [EE]</b><br>

@@ -28,7 +28,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/bibek_TBIOM.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J18]</strong> Bibek Das, Chandranath Adak, Soumi Chattopadhyay, Zahid Akhtar, and <b>Soumya Dutta</b>, SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense, IEEE Transactions on Biometrics, Behavior, and Identity Science (IEEE T-BIOM), 2026. [Link] [<a href="/papers/bibek_TBIOM.pdf">Pdf</a>] [BibTex] <b>[Accepted]</b>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[J18]</strong> Bibek Das, Chandranath Adak, Soumi Chattopadhyay, Zahid Akhtar, and <b>Soumya Dutta</b>, SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense, IEEE Transactions on Biometrics, Behavior, and Identity Science (IEEE T-BIOM), 2026. [<a href="https://ieeexplore.ieee.org/document/11721178">Link</a>] [<a href="/papers/bibek_TBIOM.pdf">Pdf</a>] [<a href="/bibtex/tbiom.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -101,7 +101,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/csci_2025.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C17]</strong> Humayra Tasnim, <b>Soumya Dutta</b>, and Melanie Moses, Dynamic Spatio-Temporal Summarization using Information Based Fusion, <em>International Conference on Computational Science and Computational Intelligence (CSCI 2025)</em>. [Link] [<a href="/papers/DSTS_Humayra.pdf">Pdf</a>] [BibTex]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[C17]</strong> Humayra Tasnim, <b>Soumya Dutta</b>, and Melanie Moses, Dynamic Spatio-Temporal Summarization using Information Based Fusion, <em>International Conference on Computational Science and Computational Intelligence (CSCI 2025)</em>. [<a href="https://link.springer.com/chapter/10.1007/978-3-032-28466-2_14">Link</a>] [<a href="/papers/DSTS_Humayra.pdf">Pdf</a>] [<a href="/bibtex/csci_2025.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -287,7 +287,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/mfix_woiv.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W6]</strong> <b>Soumya Dutta</b>, Dan Lipsa, Terece L. Turton, Berk Geveci, and James Ahrens, In Situ Analysis and Visualization of Extreme-Scale Particle Simulations, <em>WOIV: 6th International Workshop on In Situ Visualization</em>, 2022 (co-located with ISC High Performance Conference). [<a href="https://link.springer.com/chapter/10.1007/978-3-031-23220-6_19">Link</a>] [<a href="/papers/WOIV_MFIX_insitu_catalyst.pdf">Pdf</a>] [BibTex]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[W6]</strong> <b>Soumya Dutta</b>, Dan Lipsa, Terece L. Turton, Berk Geveci, and James Ahrens, In Situ Analysis and Visualization of Extreme-Scale Particle Simulations, <em>WOIV: 6th International Workshop on In Situ Visualization</em>, 2022 (co-located with ISC High Performance Conference). [<a href="https://link.springer.com/chapter/10.1007/978-3-031-23220-6_19">Link</a>] [<a href="/papers/WOIV_MFIX_insitu_catalyst.pdf">Pdf</a>] [<a href="/bibtex/woiv_2022.bib">BibTex</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
@@ -302,7 +302,7 @@ td {
    <tr width="100%;">
       <td width="23%;" valign="top">
       <img style="width:300px" src="/images/mfix_sc_video.png"/> </td>
-      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Visualization Showcase]</strong> Alexandra R. Stewart, Terece L. Turton, David H. Rogers, James P. Ahrens, and <b>Soumya Dutta</b>, <em>Visualization of MFIX-Exa Simulation Data for Chemical Looping Combustion</em>, SC22 Scientific Visualization and Data Analytics Showcase, 2022. [Link] [<a href="/papers/mfix_sc_video_paper.pdf">Pdf</a>] [BibTex]
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top"> <strong>[Visualization Showcase]</strong> Alexandra R. Stewart, Terece L. Turton, David H. Rogers, James P. Ahrens, and <b>Soumya Dutta</b>, <em>Visualization of MFIX-Exa Simulation Data for Chemical Looping Combustion</em>, SC22 Scientific Visualization and Data Analytics Showcase, 2022. [<a href="/papers/mfix_sc_video_paper.pdf">Pdf</a>]
       <details>
         <summary><b><span style="color:blue">Abstract</span></b></summary>
         <p>
