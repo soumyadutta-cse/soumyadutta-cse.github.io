@@ -245,7 +245,7 @@ setInterval(() => {
 <p>
 Welcome to the Intelligent Scientific and Visual Computing of Big Data Research Group at the <a href="https://www.iitk.ac.in">Indian Institute of Technology, Kanpur (IITK)</a>. We are part of the <a href="https://www.cse.iitk.ac.in/">Department of Computer Science and Engineering</a>. Our research lies at the unique intersection of <b>machine learning, visual computing, visualization, big data, and high-performance computing</b>. We develop state-of-the-art data analytics, machine learning, and visualization and computer vision techniques to accelerate data-driven discoveries in diverse application domains. Summarizing, extracting, and comprehending the crux from the vast seas of data and representing them visually and interactively in an interpretable and scalable manner is the broad-scale focus of our research.</p>
 
-<p>To achieve our goal, we build machine (deep) learning and data science-based solutions to analyze large-scale multifaceted data in a scalable way, enabling interactive and interpretable analytics of complex data. We are also focused on developing techniques that make complex machine learning models more interpretable and explainable so that they can be trusted and effectively adopted in real-life applications. Our research addresses various big data characteristics, including its fundamental 5 Vs: <b>Volume, Velocity, Variety, Veracity, and Value</b>. We study extreme-scale data from scientific domains using machine learning and modern high-performance computing capabilities to advance research in various domains. We are also actively focused on building scalable and novel interactive visual analytics systems to analyze diverse data generated via social media, IoT, various sensors, engineering design, healthcare, and many other industry applications.</p>
+<p>To achieve our goal, we build AI/ML and data science-based solutions to analyze large-scale multifaceted data in a scalable way, enabling interactive and interpretable analytics of complex data. We are also focused on developing techniques that make complex machine learning models more interpretable, trustworthy, reliable, and explainable so that they can be effectively adopted in real-life applications. Our research addresses various big data characteristics, including its fundamental 5 Vs: <b>Volume, Velocity, Variety, Veracity, and Value</b>. We study extreme-scale data from scientific domains using machine learning and modern high-performance computing capabilities to advance research in various domains. We are also actively focused on building scalable and novel interactive visual analytics systems to analyze diverse data generated via social media, IoT, various sensors, engineering design, healthcare, and many other industry applications.</p>
 
 
 <h2 style="color:Chocolate;">Current PhD Students</h2>
@@ -431,7 +431,7 @@ Welcome to the Intelligent Scientific and Visual Computing of Big Data Research 
 <ul>
     <li>
         <b>Sahil Pandey [EE]</b><br>
-        Project Title: Physics Informed Compressive Neural Models for Large 3D Volume Data Representation and Visualization
+        Project Title: Physics Informed Compressive Neural Representations for Large 3D Volumetric Data
     </li>
 
     

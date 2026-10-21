@@ -107,7 +107,7 @@ Analysis
 1. Program committee member at other venues: IVAPP 2020, VISUAL 2017-2020
 
 ## Proposal Reviewer 
-3. Global Initiative of Academic Networks (GIAN), IIT Hyderabad, course proposals (2025-26)
+3. [Global Initiative of Academic Networks (GIAN)](https://gian.iith.ac.in/), IIT Hyderabad, Course Proposals (2025-26)
 2. United States Department of Energy (DOE), [Office of Advanced Scientific Computing Research (ASCR)](https://science.osti.gov/ascr), 2024.
 1. [German Research Foundation](https://www.dfg.de/en/): Deutsche Forschungsgemeinschaft (DFG) (2023, 2024)
 
